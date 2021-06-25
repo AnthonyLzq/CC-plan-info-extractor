@@ -3,10 +3,28 @@ interface IAnalyticContent {
   topic : string
 }
 
+interface ICourse {
+  code: string
+  name: string
+}
+
+interface IGeneralInfo {
+  condition       : string
+  course          : ICourse
+  credits         : number
+  evaluationSystem: string
+  hoursPerWeek    : {
+    laboratory: number
+    theory    : number
+    total     : number
+  }
+  preRequirements: ICourse
+}
+
 interface ISyllabusCourse {
   analyticProgram: IAnalyticContent[]
   competencies   : string[]
-  generalInfo    : string
+  generalInfo    : IGeneralInfo
   sommelier      : string
 }
 

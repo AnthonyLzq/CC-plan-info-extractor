@@ -1,5 +1,15 @@
 # CC Plan Info Extractor
 
+## Version 0.2.0
+
+- Project Initialization.
+- Implemented:
+  - Cleaning data process for almost every first page from the syllabus.
+  - Cleared the data of the general info.
+- TODO:
+  - Extend the current process to the first pages that has a different standard.
+  - Extend this process for all the syllabus.
+
 ## Version 0.1.0
 
 - Project Initialization.
