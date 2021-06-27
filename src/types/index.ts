@@ -1,5 +1,5 @@
 interface IAnalyticContent {
-  themes: string[]
+  themes: string[] | null
   topic : string
 }
 
@@ -18,11 +18,12 @@ interface IGeneralInfo {
     theory    : number
     total     : number
   }
-  preRequirements: ICourse
+  preRequirements: ICourse[] | null
 }
 
 interface ISyllabusCourse {
   analyticProgram: IAnalyticContent[]
+  bibliography   : string[]
   competencies   : string[]
   generalInfo    : IGeneralInfo
   sommelier      : string
@@ -30,5 +31,6 @@ interface ISyllabusCourse {
 
 export {
   IAnalyticContent,
-  ISyllabusCourse
+  ISyllabusCourse,
+  ICourse
 }

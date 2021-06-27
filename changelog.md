@@ -1,8 +1,23 @@
 # CC Plan Info Extractor
 
+## Version 0.3.0
+
+- Implemented:
+  - Data cleared.
+  - New simpler approach to get the data from the Study Plan.
+- TODO:
+  - Complete the process for the missing fields:
+    - Condition
+    - Hours per week
+    - Sommelier
+    - Evaluation system
+    - Competencies
+    - Analytic program
+    - Bibliography
+
+
 ## Version 0.2.0
 
-- Project Initialization.
 - Implemented:
   - Cleaning data process for almost every first page from the syllabus.
   - Cleared the data of the general info.
