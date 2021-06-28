@@ -1,5 +1,19 @@
 # CC Plan Info Extractor
 
+## Version 0.4.0
+
+- Implemented:
+  - Process completed for the following:
+    - Condition
+    - Hours per week
+    - Sommelier
+    - Evaluation system
+- TODO:
+  - Complete the process for the missing fields:
+    - Competencies
+    - Analytic program
+    - Bibliography
+
 ## Version 0.3.0
 
 - Implemented:

@@ -14,7 +14,8 @@ interface IGeneralInfo {
   credits         : number
   evaluationSystem: string
   hoursPerWeek    : {
-    laboratory: number
+    laboratory: number | null
+    practice  : number | null
     theory    : number
     total     : number
   }
