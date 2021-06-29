@@ -23,11 +23,11 @@ interface IGeneralInfo {
 }
 
 interface ISyllabusCourse {
-  analyticProgram: IAnalyticContent[]
-  bibliography   : string[]
-  competencies   : string[]
-  generalInfo    : IGeneralInfo
-  sommelier      : string
+  analyticProgram?: IAnalyticContent[]
+  bibliography?   : string[]
+  competencies?   : string[]
+  generalInfo     : IGeneralInfo
+  sommelier       : string
 }
 
 export {

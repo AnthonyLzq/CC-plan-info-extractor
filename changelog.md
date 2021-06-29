@@ -1,5 +1,15 @@
 # CC Plan Info Extractor
 
+## Version 0.5.0
+
+- Implemented:
+  - A function to write the obtained data into a file (`result.json`)
+- TODO:
+  - Complete the process for the missing fields:
+    - Competencies
+    - Analytic program
+    - Bibliography
+
 ## Version 0.4.0
 
 - Implemented:

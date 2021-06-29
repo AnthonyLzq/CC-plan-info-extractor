@@ -2,7 +2,7 @@
 import { PDFExtract, PDFExtractOptions, PDFExtractResult } from 'pdf.js-extract'
 
 import { ICourse, ISyllabusCourse } from './types'
-import { cleanGeneralInfo } from './utils'
+import { cleanGeneralInfo, writeFile } from './utils'
 
 // Key words from the syllabus main page
 const UNI = process.env.UNI as string
@@ -25,7 +25,7 @@ const PRACTICE = process.env.PRACTICE as string
 const pdfExtract = new PDFExtract()
 const options: PDFExtractOptions = {}
 
-// const fullContent: ISyllabusCourse[] = []
+const fullContent: ISyllabusCourse[] = []
 
 const extractData = async () => {
   try {
@@ -145,19 +145,26 @@ const extractData = async () => {
         text              : courseContent
       })
 
-      console.log({
-        courseCode,
-        courseName,
+      const generalInfo = {
+        course: {
+          code: courseCode,
+          name: courseName
+        },
         credits,
         preRequirements: finalPreRequirements,
         condition,
         hoursPerWeek,
-        evaluationSystem,
+        evaluationSystem
+      }
+
+      fullContent.push({
+        generalInfo,
         sommelier
       })
     })
 
     // console.log({ courseContentArray: courseContentArray.splice(0, 3) })
+    await writeFile(JSON.stringify(fullContent, null, 2), 'result.json')
   } catch (error) {
     console.error(error)
   }

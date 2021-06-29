@@ -1,0 +1,813 @@
+[
+  {
+    "generalInfo": {
+      "course": {
+        "code": "CC212",
+        "name": "FUNDAMENTOS DE LA PROGRAMACIÓN"
+      },
+      "credits": 6,
+      "preRequirements": [
+        {
+          "code": "BIC01",
+          "name": "INTRODUCCIÓN A LA CIENCIA DE LA COMPUTACIÓN"
+        }
+      ],
+      "condition": "OBLIGATORIO",
+      "hoursPerWeek": {
+        "total": 6,
+        "theory": 2,
+        "laboratory": 4,
+        "practice": null
+      },
+      "evaluationSystem": "G"
+    },
+    "sommelier": "Fundamentos de la programación será la asignatura que sentará las bases y establecerá los conceptos básicos y principales de la carrera de Ciencia de la Computación, siendo esta la asignatura base de la que el alumno desarrollará sus destrezas hacia un científico de la computación. En este sentido, este curso introducirá a los participantes en los conceptos fundamentales de este arte. Los tópicos incluyen tipos de datos, estructuras de control, funciones, listas, recursividad y la mecánica de la ejecución, prueba y depuración."
+  },
+  {
+    "generalInfo": {
+      "course": {
+        "code": "CC311",
+        "name": "PROGRAMACIÓN ORIENTADA A OBJETOS"
+      },
+      "credits": 4,
+      "preRequirements": [
+        {
+          "code": "CC212",
+          "name": "FUNDAMENTOS DE PROGRAMACIÓN"
+        }
+      ],
+      "condition": "OBLIGATORIO",
+      "hoursPerWeek": {
+        "total": 6,
+        "theory": 2,
+        "laboratory": 4,
+        "practice": null
+      },
+      "evaluationSystem": "G"
+    },
+    "sommelier": "Para el estudiante de Ciencia de Computación, es importanteconocer, saber y aplicar los paradigmas más importantes de la programación como son la programación estructurada y la programación orientada objetos, estar preparado y adaptarse a nuevos paradigmas. En el curso de programación orientada a objetos está diseñado de manera que el final el estudiante haber desarrollado competencias que le permitirán saber, definir, aplicar los principios fundamentales del paradigma orientadoa objetos que son las clases, objetos, relaciones entre objetos y clases, herencia, polimorfismo, clases abstractas, clases genéricas, colecciones, persistencia y las interfaces gráficas de usuarios para cual utilizará un lenguaje de programación orientado a objetos como herramienta para soluciones concretas."
+  },
+  {
+    "generalInfo": {
+      "course": {
+        "code": "CC321",
+        "name": "ARQUITECTURA DE COMPUTADORAS"
+      },
+      "credits": 4,
+      "preRequirements": [
+        {
+          "code": "CC212",
+          "name": "FUNDAMENTOS DE PROGRAMACIÓN"
+        }
+      ],
+      "condition": "OBLIGATORIO",
+      "hoursPerWeek": {
+        "total": 6,
+        "theory": 2,
+        "laboratory": 4,
+        "practice": null
+      },
+      "evaluationSystem": "G"
+    },
+    "sommelier": "Este curso tiene por objetivo permitir al alumno gestionar adecuadamente el hardware y el software de un sistema de cómputo, que van desde la estructura básica del computador moderno hasta conocerlos conceptos básicos del repertorio de instrucciones. Garantizar el buen desempeño, la eficiencia de la futura codificación y conocer los fundamentos de la programación de bajo nivel serán tres temáticas fundamentales en el curso. Demostrar que la evolución de la arquitectura de los computadores es una consecuencia del avance y desarrollo tantodel hardware como del software."
+  },
+  {
+    "generalInfo": {
+      "course": {
+        "code": "CC412",
+        "name": "BASES DE DATOS"
+      },
+      "credits": 4,
+      "preRequirements": [
+        {
+          "code": "CC311",
+          "name": "PROGRAMACIÓN ORIENTADA A OBJETOS"
+        }
+      ],
+      "condition": "OBLIGATORIO",
+      "hoursPerWeek": {
+        "total": 6,
+        "theory": 2,
+        "laboratory": 4,
+        "practice": null
+      },
+      "evaluationSystem": "G"
+    },
+    "sommelier": "Las bases de datos y los sistemas de bases de datos son un componente básico en la vida cotidiana de la sociedad moderna, la interacción con la administración, los servicios públicos, la empresa ya casi no se puede entender sin la gestión de una base de datos que permita la comunicación entre los distintos actores. Los sistemas de gestión de bases de datos son por tanto un componente fundamental en las tecnologías de la información y la comunicación sin las que sería imposible imaginar el alcance social que la red y las comunicaciones han alcanzado en la sociedad actual."
+  },
+  {
+    "generalInfo": {
+      "course": {
+        "code": "CC422",
+        "name": "SISTEMAS OPERATIVOS"
+      },
+      "credits": 4,
+      "preRequirements": [
+        {
+          "code": "CC321",
+          "name": "ARQUITECTURA DE COMPUTADORES"
+        }
+      ],
+      "condition": "OBLIGATORIO",
+      "hoursPerWeek": {
+        "total": 6,
+        "theory": 2,
+        "laboratory": 4,
+        "practice": null
+      },
+      "evaluationSystem": "G"
+    },
+    "sommelier": "El curso se orienta a conocer los fundamentos de la operación de los Programas de Aplicación y de la forma en la que los Sistemas Operativos implementan abstracciones del hardware y llevan a cabo la administración de los recursos del sistema. Por otra parte, se llevarán a cabosesiones de Laboratorio en la que se presentará la aplicación práctica de las técnicas estudiadas."
+  },
+  {
+    "generalInfo": {
+      "course": {
+        "code": "CC432",
+        "name": "ALGORITMOS Y ESTRUCTURA DE DATOS"
+      },
+      "credits": 4,
+      "preRequirements": [
+        {
+          "code": "CC311",
+          "name": "PROGRAMACIÓN ORIENTADA A OBJETOS"
+        },
+        {
+          "code": "CM2H1",
+          "name": "MATEMÁTICA DISCRETA"
+        }
+      ],
+      "condition": "OBLIGATORIO",
+      "hoursPerWeek": {
+        "total": 6,
+        "theory": 2,
+        "laboratory": 4,
+        "practice": null
+      },
+      "evaluationSystem": "G"
+    },
+    "sommelier": "Este curso es una continuación del curso de programación orientada a objetos pero centrado en la programación de estructuras de datos simples y complejas. Por tanto, los aspectos que se estudiarán serán principalmente cómo se definen y cómo se implementan las estructuras de datos e incorporarlos a cualquier entorno de programación. Así mismo, como puede observarse, este curso continúa con la formación de un programador en cualquier ámbito o especialidad, continuando posteriormente en el curso de “Análisis y diseño de algoritmos”, donde se verá algoritmia y optimización en estructuras de datos complejas."
+  },
+  {
+    "generalInfo": {
+      "course": {
+        "code": "CC511",
+        "name": "COMPUTACIÓN CENTRADA EN REDES"
+      },
+      "credits": 4,
+      "preRequirements": [
+        {
+          "code": "CC422",
+          "name": "SISTEMAS OPERATIVOS"
+        }
+      ],
+      "condition": "OBLIGATORIO",
+      "hoursPerWeek": {
+        "total": 6,
+        "theory": 2,
+        "laboratory": 4,
+        "practice": null
+      },
+      "evaluationSystem": "G"
+    },
+    "sommelier": "Introduce en la estructura, implementación, y fundamentos teóricos de la red de computadoras y las aplicaciones que se han habilitado por esta tecnología. Por tanto, estaasignatura proporciona al estudiante las competencias, conocimientos y habilidades básicas para comprender la problemática de la comunicación de datos y la interconexión de redes (en especial Internet). En este contexto, el paradigma de la comunicación interpersonal será la temática fundamental a desarrollar, teniendo un principal enfoque a las comunicaciones digitales e infraestructuras tecnológicas de las tecnologías de comunicación e información."
+  },
+  {
+    "generalInfo": {
+      "course": {
+        "code": "CC521",
+        "name": "TEORÍA DE AUTÓMATAS, LENGUAJES Y COMPUTACIÓN"
+      },
+      "credits": 4,
+      "preRequirements": [
+        {
+          "code": "CC432",
+          "name": "ESTRUCTURAS DE DATOS"
+        }
+      ],
+      "condition": "OBLIGATORIO",
+      "hoursPerWeek": {
+        "total": 6,
+        "theory": 2,
+        "laboratory": 4,
+        "practice": null
+      },
+      "evaluationSystem": "G"
+    },
+    "sommelier": "En esta materia, donde se fundamenta y se establece la base teórica de los estudios, se encuentran los conceptos que se estudian y se usan en casi todas las demás materias. Qué es un lenguaje de programación, cómo y porqué se define de la forma en que se hace. Cual es el mecanismo en el que se traduce a un formalismo entendible por una máquina, y porqué es precisamente ese. Y cuáles son las limitaciones que se pueden encontrar, entre muchos otros. En este sentido, este curso demuestra que la Computaciónes una ciencia, en particular una rama de la matemática que centra su interés en el estudio y definición formal de los computadores."
+  },
+  {
+    "generalInfo": {
+      "course": {
+        "code": "CC531",
+        "name": "ANÁLISIS Y DISEÑO DE ALGORITMOS"
+      },
+      "credits": 4,
+      "preRequirements": [
+        {
+          "code": "CC432",
+          "name": "ALGORITMOS Y ESTRUCTURAS DE DATOS"
+        }
+      ],
+      "condition": "OBLIGATORIO",
+      "hoursPerWeek": {
+        "total": 6,
+        "theory": 2,
+        "laboratory": 4,
+        "practice": null
+      },
+      "evaluationSystem": "G"
+    },
+    "sommelier": "Este curso es una continuación de Estructuras de datos y, que por tanto, desarrollará cómo optimizar dichas estructuras y mejorar la capacidad de abstracción. Introducir y desarrollar estructuras y algoritmos. El curso también ofrecerá una introducción al contexto histórico y social de la informática y una revisión del ámbito de esta disciplina. Por tanto, en esta asignatura se abordan aspectos relativos a la resolución de problemas mediante técnicas fundamentales de computación, tanto exactas como aproximadas. En particular, se profundiza en aspectos relativos a complejidad computacional y a técnicas algorítmicas."
+  },
+  {
+    "generalInfo": {
+      "course": {
+        "code": "CC541",
+        "name": "INGENIERÍA DE SOFTWARE"
+      },
+      "credits": 4,
+      "preRequirements": [
+        {
+          "code": "CC412",
+          "name": "BASES DE DATOS"
+        }
+      ],
+      "condition": "OBLIGATORIO",
+      "hoursPerWeek": {
+        "total": 6,
+        "theory": 2,
+        "laboratory": 4,
+        "practice": null
+      },
+      "evaluationSystem": "G"
+    },
+    "sommelier": "En este curso el alumno comienza una etapa profesional de desarrollador a través del conocimientode los procesos software que se presentan en el ciclo de vida del software. Presentar a los alumnos los diferentes modelos de evaluación de procesos y las métricas del proceso de software, además de identificar los requerimientos funcionales y no funcionales de la construcción o de un software en el modelamiento de análisis de requerimientos y prototipos de un software. En este sentido los alumnos deben ser capaces de seleccionar y aplicar patrones de diseño apropiados en la construcción de una aplicación de software y aplicar el diseño de componentes y el diseño dereuso en las aplicaciones presentadas por los alumnos."
+  },
+  {
+    "generalInfo": {
+      "course": {
+        "code": "CC612",
+        "name": "ADMINISTRACIÓN DE REDES"
+      },
+      "credits": 4,
+      "preRequirements": [
+        {
+          "code": "CC511",
+          "name": "COMPUTACIÓN CENTRADA EN REDES"
+        }
+      ],
+      "condition": "OBLIGATORIO",
+      "hoursPerWeek": {
+        "total": 6,
+        "theory": 2,
+        "laboratory": 4,
+        "practice": null
+      },
+      "evaluationSystem": "G"
+    },
+    "sommelier": "En la actualidad podemos observar en cualquier ambientede trabajo, e incluso cualquier ambiente de nuestro alrededor con un sistema informático. Como nos podemos imaginar todas estass máquinas se encuentran interconectadas entre sí las unas con las otras de manera que existe una comunicación entre todas ellas, pudiendo ser a nivel local, mediante una redLAN, a nivel global, con una conexión WAN o Internet. Estas infraestructuras implican a varios usuarios comunicándose entre ellos e intercambiando información, compartiendo recursos como impresoras, programas y muchas más cosas que requieren de un elemento imprescindible para manejar tanto el Software como el Hardware, como es el Administrador de Red. Toda esta malla de comunicaciones e intercambio de información debe realizarse de forma segura y con la menor tolerancia a fallos posible, ya que la información es el punto central y crítico de las comunicaciones entre los nodos."
+  },
+  {
+    "generalInfo": {
+      "course": {
+        "code": "CC622",
+        "name": "MATEMÁTICA COMPUTACIONAL"
+      },
+      "credits": 4,
+      "preRequirements": [
+        {
+          "code": "CC531",
+          "name": "ANÁLISIS Y DISEÑO DE ALGORITMOS"
+        },
+        {
+          "code": "CM4F1",
+          "name": "ANÁLISIS Y MODELAMIENTO NUMÉRICO I"
+        }
+      ],
+      "condition": "OBLIGATORIO",
+      "hoursPerWeek": {
+        "total": 6,
+        "theory": 2,
+        "laboratory": 4,
+        "practice": null
+      },
+      "evaluationSystem": "G"
+    },
+    "sommelier": "El objetivo de las matemáticas computacionales, en pocas palabras, es encontrar o desarrollar algoritmos que resuelvan problemas matemáticos computacionalmente (es decir, usando computadoras). En particular, deseamos que cualquier algoritmo que desarrollemos cumpla cuatro propiedades: Exactitud (un algoritmo preciso es capaz de devolver un resultado numérico muy cercadel resultado correcto o analítico), Eficiencia (un algoritmo eficiente es capaz de resolver rápidamente el problema matemático con recursos computacionales razonables), Robustez (un algoritmo robusto funciona para una amplia variedad de entradas x), y Estabilidad (un algoritmo estable no es sensiblea pequeños cambios en el entrada x)."
+  },
+  {
+    "generalInfo": {
+      "course": {
+        "code": "CC632",
+        "name": "PROGRAMACIÓN PARALELA"
+      },
+      "credits": 4,
+      "preRequirements": [
+        {
+          "code": "CC531",
+          "name": "ANÁLISIS Y DISEÑO DE ALGORITMOS"
+        }
+      ],
+      "condition": "OBLIGATORIO",
+      "hoursPerWeek": {
+        "total": 6,
+        "theory": 2,
+        "laboratory": 4,
+        "practice": null
+      },
+      "evaluationSystem": "G"
+    },
+    "sommelier": "El fundamento de la programación secuencial orientada a bloques es que una reordenación en la (re)utilización de los datos de entrada de un problema permite obtener un gran beneficiocomputacional gracias a la utilización eficiente de la jerarquía de memoria. Una adecuada división de nuestro problema en bloques permite obtener programas más eficientes para una misma arquitectura. Por otra parte, los sistemas informáticos actuales son inherentemente paralelos plataformasde memoria compartida, plataformas de memoria distribuida, multi-núcleo, computaciónheterogénea, ... Sin embargo, la mayoría de las aplicaciones actuales no explotan dichas arquitecturas paralelas, produciéndose como consecuencia una mala utilización de los recursos y un bajo rendimiento. Es necesario, por tanto, conocer las técnicas que nos permitan obtener programas más rápidos y eficientes que utilicen toda la potencia de la arquitectura subyacente."
+  },
+  {
+    "generalInfo": {
+      "course": {
+        "code": "CC642",
+        "name": "DESARROLLO DE SOFTWARE"
+      },
+      "credits": 4,
+      "preRequirements": [
+        {
+          "code": "CC541",
+          "name": "INGENIERÍA DEL SOFTWARE"
+        }
+      ],
+      "condition": "OBLIGATORIO",
+      "hoursPerWeek": {
+        "total": 6,
+        "theory": 2,
+        "laboratory": 4,
+        "practice": null
+      },
+      "evaluationSystem": "G"
+    },
+    "sommelier": "El futuro licenciado en Ciencia de la Computación tendrá una formación variada en todos los campos de producción e investigación tanto en sus capacidades técnicas como habilidades de emprendimiento. Este curso le capacitará como usuariode una gran cantidad de áreas y le pondrá en contacto con creativos de las diferentes áreas de producción. En el actual panorama, el soporte en que llegan al usuario la mayoría de productos multimedia es la web. Por lo tanto, el futuro licenciado tiene que dominar los diferentes aspectos de desarrollo web, a través de los diferentes lenguajes de programación de servidor y gestores de bases de datos para la creación de aplicaciones."
+  },
+  {
+    "generalInfo": {
+      "course": {
+        "code": "CC711",
+        "name": "SEGURIDAD EN SISTEMAS INFORMÁTICOS"
+      },
+      "credits": 4,
+      "preRequirements": [
+        {
+          "code": "CC612",
+          "name": "ADMINISTRACIÓN DE REDES"
+        }
+      ],
+      "condition": "OBLIGATORIO",
+      "hoursPerWeek": {
+        "total": 6,
+        "theory": 2,
+        "laboratory": 4,
+        "practice": null
+      },
+      "evaluationSystem": "G"
+    },
+    "sommelier": "La asignatura inicialmente dará al alumno los conocimientos previos para realizar una implementación de sistemas de gestión de seguridad de información, también proporcionará los conocimientos para realizar un buen control de las actividades de seguridad en sistemas informáticos, que permite afianzar los conceptos, técnicos y métodos que permitan administrar la seguridad de la información de la empresa en forma eficiente y minimizando riesgos que coloquen en peligro la continuidad operativa de la organización. Su temática comprende Conceptos de seguridad informática, niveles de seguridad en las corporaciones, gestión de riesgos y en redes de computadores y, más concretamente, en las redes TCP/IP."
+  },
+  {
+    "generalInfo": {
+      "course": {
+        "code": "CC721",
+        "name": "INTELIGENCIA ARTIFICIAL"
+      },
+      "credits": 4,
+      "preRequirements": [
+        {
+          "code": "CC632",
+          "name": "PROGRAMACIÓN PARALELA"
+        }
+      ],
+      "condition": "OBLIGATORIO",
+      "hoursPerWeek": {
+        "total": 6,
+        "theory": 2,
+        "laboratory": 4,
+        "practice": null
+      },
+      "evaluationSystem": "G"
+    },
+    "sommelier": "Este curso representa la puerta de entrada o presentacióna las técnicas de Inteligencia Artificial y laingeniería del conocimiento, es decir, los tópicos relacionados a los sistemas inteligentes. Estas técnicas se incluyen hoy en día entre las más requeridaspara la resolución de problemas complejos en cualquier ámbito del desarrollo científico o profesional relacionadoo a la Ciencia de la Computación. Desarrollar programas que tengan comportamiento inteligente con diferentes temas como búsqueda, representación de conocimiento, agentes inteligente, procesamiento de lenguaje natural, aprendizaje, redes neuronales, árboles de decisión y aprendizaje de máquina."
+  },
+  {
+    "generalInfo": {
+      "course": {
+        "code": "CC731",
+        "name": "COMPUTACIÓN GRÁFICA"
+      },
+      "credits": 4,
+      "preRequirements": [
+        {
+          "code": "CC622",
+          "name": "MATEMÁTICA COMPUTACIONAL"
+        }
+      ],
+      "condition": "OBLIGATORIO",
+      "hoursPerWeek": {
+        "total": 6,
+        "theory": 2,
+        "laboratory": 4,
+        "practice": null
+      },
+      "evaluationSystem": "G"
+    },
+    "sommelier": "El presente curso está concebido para estudiantes del séptimo semestre. Esta asignatura ofrece una introducción general de los principios, técnicas y herramientas necesarias para el desarrollo de aplicaciones y sistemas gráficos en 2D y 3D. Además, ofrece una experiencia práctica en profundidad en el desarrollo de aplicaciones y sistemas gráficos modernos."
+  },
+  {
+    "generalInfo": {
+      "course": {
+        "code": "CC741",
+        "name": "PROGRAMACIÓN CONCURRENTE Y DISTRIBUIDA"
+      },
+      "credits": 4,
+      "preRequirements": [
+        {
+          "code": "CC642",
+          "name": "PROGRAMACIÓN PARALELA"
+        }
+      ],
+      "condition": "OBLIGATORIO",
+      "hoursPerWeek": {
+        "total": 6,
+        "theory": 2,
+        "laboratory": 4,
+        "practice": null
+      },
+      "evaluationSystem": "G"
+    },
+    "sommelier": "El Curso de Programación Concurrente y Distribuida está directamente ligada con la evaluación de los sistemas operativos y por ello subdivide en dos temáticas principales. Por un lado, la programación concurrente está ligada a los conceptos de multiproceso y multiprocesador, por lo que se estudiará las técnicas básicas de gestión de la concurrencia, como por ejemplo los mecanismos de sincronización y comunicación entre procesos. Por otro lado, referente a la programación distribuida, está relacionada con el desarrollo de sistemas en los cuales la red es una infraestructura crítica. Por tanto, el alumno aprenderá los fundamentos básicos de programación de cliente/servidor bajo los protocolos UDP/TCP, hastaescalar al nivel más elevado automatizando las operaciones del sistema. En este contexto, se trabajarán los paradigmas RCP/RMI y la tecnología de componentes, una panorámica del tipo de aplicaciones y sistemas distribuidos modernos (Clustering, Grid, Cloud, P2P)."
+  },
+  {
+    "generalInfo": {
+      "course": {
+        "code": "CC751",
+        "name": "INTERACCIÓN HUMANO-COMPUTADORA"
+      },
+      "credits": 4,
+      "preRequirements": [
+        {
+          "code": "CC642",
+          "name": "DESARROLLO DE SOFTWARE"
+        }
+      ],
+      "condition": "OBLIGATORIO",
+      "hoursPerWeek": {
+        "total": 6,
+        "theory": 2,
+        "laboratory": 4,
+        "practice": null
+      },
+      "evaluationSystem": "G"
+    },
+    "sommelier": "La interfaz de usuario es la parte visible de las aplicaciones informáticas. Por otro lado, la usabilidad de las aplicaciones implica la creación de interfaces de usuario para las aplicaciones fáciles de aprender, de usar y que satisfagan al usuario. En este contexto, en este curso se pretende profundizar en el desarrollo de interfaces de usuario que cumplan con unos altos estándares de calidad, siendo esta una extensión fundamental de la Ingeniería del Software y, por tanto, fundamental para cualquier profesional que se quiera dedicar al desarrollo web. Con el estudio y aplicación de esta materia, el alumno desarrollará aplicaciones teniendo encuenta consideraciones fundamentales, básicas y previas tales como la propia persona, los mecanismos de interacción o algunas reglas de diseño."
+  },
+  {
+    "generalInfo": {
+      "course": {
+        "code": "CC761",
+        "name": "METODOLOGÍA DE LA INVESTIGACIÓN"
+      },
+      "credits": 4,
+      "preRequirements": null,
+      "condition": "OBLIGATORIO",
+      "hoursPerWeek": {
+        "total": 3,
+        "theory": 1,
+        "laboratory": null,
+        "practice": 2
+      },
+      "evaluationSystem": "G"
+    },
+    "sommelier": "La asignatura Metodología de la Investigación tiene como finalidad el desarrollar un enfoque conceptual y metodológico de la actividad investigadora en los campos propios de la Ciencia de la Computación en la formación en investigación y realización de actividades doctorales en las Tecnologías Informáticas. Ha sido ampliamente estudiada la investigación como actividad profesional, así como los investigadores como individuos integrados en entidades académicas o productivas. Por otro lado, un desarrollo adecuado de la actividad de investigaciónse caracteriza por la necesidad de comunicar los resultados mediante artefactos escritos (artículos, informes, tesis) opresentaciones orales (en congresos, reuniones o talleres)."
+  },
+  {
+    "generalInfo": {
+      "course": {
+        "code": "CC822",
+        "name": "INFRAESTRUCTURAS DE COMPUTACIÓN"
+      },
+      "credits": 4,
+      "preRequirements": [
+        {
+          "code": "CC741",
+          "name": "PROGRAMACIÓN CONCURRENTE Y DISTRIBUIDA"
+        }
+      ],
+      "condition": "OBLIGATORIO",
+      "hoursPerWeek": {
+        "total": 6,
+        "theory": 2,
+        "laboratory": 2,
+        "practice": 2
+      },
+      "evaluationSystem": "G"
+    },
+    "sommelier": "Los sistemas Grid son entornos muy variables, compuestos por una serie de organizaciones independientes que comparten sus recursos. Durante la década pasada, la Computación Grid ha surgido como una tecnología que ha hecho posible muchas aplicaciones intensivas endatos y/o en cálculo. A través del empleo de tecnologías Grid, es posible agregar recursos dispersos y heterogéneos para resolver varios tipos de aplicaciones paralelas en ciencia, ingeniería y comercio. Los usuarios de Grid deberán percibir alguna calidad de servicio (QoS) en las prestaciones de sus aplicaciones, en términos de tiempo de respuesta o de número detrabajos finalizados por unidad de tiempo. Sin embargo, esto es muy difícil de conseguir debido a la gran cantidad de redes interconectadas que forman parte de un Grid. Cloud Computing proviene de la idea de un nuevo paradigmainformático donde se incorpora tanto la computación distribuida, diversos centros de datos, aplicaciones, un consumo computacional y sobretodo el término virtualización como también plataformas de sistemas operativos y proveedores de servicio de acuerdo a una demanda extensa de los clientes, através del Internet. Por último, el curso verá también el concepto novedoso que surge de los dos anteriores para el internet of things, el llamado Fog Computing. Fog Computing es una extensión del Cloud Computing que pretende descentralizar y balancear los recursos a través de la red de sensores o dispositivos de almacenamiento."
+  },
+  {
+    "generalInfo": {
+      "course": {
+        "code": "CC432",
+        "name": "ROBÓTICA"
+      },
+      "credits": 4,
+      "preRequirements": [
+        {
+          "code": "CC721",
+          "name": "INTELIGENCIA ARTIFICIAL"
+        },
+        {
+          "code": "CC731",
+          "name": "COMPUTACIÓN GRÁFICA"
+        }
+      ],
+      "condition": "OBLIGATORIO",
+      "hoursPerWeek": {
+        "total": 6,
+        "theory": 2,
+        "laboratory": 4,
+        "practice": null
+      },
+      "evaluationSystem": "G"
+    },
+    "sommelier": "Este curso presentará a los estudiantes las limitaciones, tecnologías y algoritmos fundamentales de la robótica autónoma. El enfoque se centrará en los aspectos computacionales de los robots móviles con ruedas autónomos. Los temas más importantes serán movilidad, percepción y navegación."
+  },
+  {
+    "generalInfo": {
+      "course": {
+        "code": "CC842",
+        "name": "MINERÍA DE DATOS"
+      },
+      "credits": 4,
+      "preRequirements": [
+        {
+          "code": "CC721",
+          "name": "INTELIGENCIA ARTIFICIAL"
+        }
+      ],
+      "condition": "OBLIGATORIO",
+      "hoursPerWeek": {
+        "total": 6,
+        "theory": 2,
+        "laboratory": 4,
+        "practice": null
+      },
+      "evaluationSystem": "G"
+    },
+    "sommelier": "La asignatura se ubica en la intensificación de Computación, en el ámbito de las asignaturas de la Inteligencia Artificial. La Minería de datos, y el aprendizaje automático en general, están ligados al campo de la estadística y de la algorítmica, y abordan las técnicas para la extracción de conocimiento implícito en conjuntos de datos. La minería de datos es una herramienta poderosa para el proceso de descubrir nuevas correlaciones, patrones y tendencias mediante el análisis de grandes cantidades de datos almacenados en repositorios. En el curso, los estudiantes aprenden a aplicar los principios de data mining para manejar y analizar conjuntos grandes y complejos de datos, incluyendo aquellos que se encuentran en la web."
+  },
+  {
+    "generalInfo": {
+      "course": {
+        "code": "CC921",
+        "name": "PROGRAMACIÓN EVOLUTIVA"
+      },
+      "credits": 4,
+      "preRequirements": [
+        {
+          "code": "CC832",
+          "name": "ROBÓTICA"
+        }
+      ],
+      "condition": "OBLIGATORIO",
+      "hoursPerWeek": {
+        "total": 6,
+        "theory": 2,
+        "laboratory": 4,
+        "practice": null
+      },
+      "evaluationSystem": "G"
+    },
+    "sommelier": "La computación evolutiva es una de las ramas de la Inteligencia Artificial que se aplica para la resolución de problemas de optimización combinatorial. Estas técnicas están inspiradas enlos mecanismos de evolución biológica propuestos por Darwin, Medel y Lamark. Sin entrar mucho en detalle sobre los estudios que hicieron estos científicos, solo vamos a mencionar brevemente lo que propusieron. Darwin propuso la “Selección natural de los más adaptados”, Medel propuso la “Teoría corpuscular de la herencia” y Lamark propuso la “Herencia decaracteres adquiridos”. En este curso se aprenderá la importancia de estas técnicas, entre las que se encuentran, algoritmos genéticos, programación evolutiva, algoritmos bio inspirados o programación de enjambres, entre otras."
+  },
+  {
+    "generalInfo": {
+      "course": {
+        "code": "CC931",
+        "name": "ANÁLISIS EN MACRODATOS"
+      },
+      "credits": 4,
+      "preRequirements": [
+        {
+          "code": "CC424",
+          "name": "INFRAESTRUCTURAS DE COMPUTACIÓN"
+        },
+        {
+          "code": "CC421",
+          "name": "MINERÍA DE DATOS"
+        }
+      ],
+      "condition": "OBLIGATORIO",
+      "hoursPerWeek": {
+        "total": 6,
+        "theory": 2,
+        "laboratory": 4,
+        "practice": null
+      },
+      "evaluationSystem": "G"
+    },
+    "sommelier": "En la actualidad se ha encontrado el problema principal de cómo gestionar grandes volúmenes de datos de manera eficiente. Para ello se han desarrollado nuevas tecnologías, hardware y software para poder gestionar grandes volúmenesde datos y poder analizarlos con el fin de obtener la información relevante que nos permita interpretar mejor la realidad y tomar decisiones es lo que conocemos como Big Data. A tenor del fenómeno Big Data han surgido otras áreas de conocimiento especializadas como Social Business Intelligence, Text Mining, o Cloud Computing, y otras existentes han experimentado un importante desarrollo como Data Mining, Knowledge Discovery for Big Data, Business Intelligence o Data Science."
+  },
+  {
+    "generalInfo": {
+      "course": {
+        "code": "CC023",
+        "name": "ALGORITMOS BIOINSPIRADOS"
+      },
+      "credits": 4,
+      "preRequirements": [
+        {
+          "code": "CC632",
+          "name": "PROGRAMACIÓN PARALELA"
+        }
+      ],
+      "condition": "OBLIGATORIO",
+      "hoursPerWeek": {
+        "total": 6,
+        "theory": 2,
+        "laboratory": 4,
+        "practice": null
+      },
+      "evaluationSystem": "G"
+    },
+    "sommelier": "Este curso trata de algoritmos que se inspiran en fenómenos naturales y los aplica a problemas de optimización, diseño y aprendizaje. La atención se centra en el proceso de abstracción de algoritmos del fenómeno observado, su análisis de resultados y comparación. Este enfoque se hará principalmente a través de la computación evolutiva, inteligencia de enjambre (colonia de hormigas y métodos basados en partículas) y redes neuronales."
+  },
+  {
+    "generalInfo": {
+      "course": {
+        "code": "CC020",
+        "name": "ALGORITMOS Y ESTRUCTURAS DE DATOS AVANZADAS"
+      },
+      "credits": 4,
+      "preRequirements": [
+        {
+          "code": "CC531",
+          "name": "ANÁLISIS Y DISEÑO DE ALGORITMOS"
+        }
+      ],
+      "condition": "ELECTIVO",
+      "hoursPerWeek": {
+        "total": 6,
+        "theory": 2,
+        "laboratory": 4,
+        "practice": null
+      },
+      "evaluationSystem": "G"
+    },
+    "sommelier": "En este curso se exponen temas avanzados de algoritmos y estructura de datos que sirven como continuación del curso de programación orientada a objetos pero centrado en la programación de estructuras de datos simples y complejas. Por tanto, los aspectos que se estudiarán serán principalmente cómo se definen y cómo se implementan las estructuras de datos e incorporarlos acualquier entorno de programación. Así mismo, como puede observarse, este curso continúa con la formación de un programador en cualquier ámbito o especialidad, continuando posteriormente en el curso de “Análisis y diseño de algoritmos”, donde se verá algoritmia y optimización en estructuras de datos complejas."
+  },
+  {
+    "generalInfo": {
+      "course": {
+        "code": "CC017",
+        "name": "AUDITORÍA DE SISTEMAS"
+      },
+      "credits": 4,
+      "preRequirements": [
+        {
+          "code": "CC016",
+          "name": "CALIDAD DE SOFTWARE"
+        }
+      ],
+      "condition": "ELECTIVO",
+      "hoursPerWeek": {
+        "total": 6,
+        "theory": 2,
+        "laboratory": 4,
+        "practice": null
+      },
+      "evaluationSystem": "G"
+    },
+    "sommelier": "La asignatura Auditoría de Sistemas es de naturalezaes de tipo teórico-práctico en un proceso de auditoría de sistemas. En esta asignatura se estimula el estudio, trabajo e investigación individual y en equipo, así como la rotación de roles de los estudiantes para completar su formación profesional dentro del contexto científico y tecnológico actual."
+  },
+  {
+    "generalInfo": {
+      "course": {
+        "code": "CC021",
+        "name": "BIOLOGÍA COMPUTACIONAL"
+      },
+      "credits": 4,
+      "preRequirements": [
+        {
+          "code": "CH061",
+          "name": "BIOLOGÍA"
+        },
+        {
+          "code": "CC622",
+          "name": "MATEMÁTICA COMPUTACIONAL"
+        }
+      ],
+      "condition": "ELECTIVO",
+      "hoursPerWeek": {
+        "total": 6,
+        "theory": 2,
+        "laboratory": 4,
+        "practice": null
+      },
+      "evaluationSystem": "G"
+    },
+    "sommelier": "El presente curso está concebido para estudiantes del noveno semestre. Esta asignatura ofrece una introducción general de los principios, técnicas y herramientas de la biología computacional. Los tópicos que toca el curso incluye principios y métodos necesarios para el estudio y análisis del alineamiento de secuencias de ADN y de aminoácidos, la aplicación de métodos estadísticos y probabilísticos en el análisis de información biológica, el análisis y mode lamiento de árboles filogenéticos, el mapeo desecuencias, y una introducción al estudio de la estructura de las proteínas."
+  },
+  {
+    "generalInfo": {
+      "course": {
+        "code": "CC016",
+        "name": "CALIDAD DE SOFTWARE"
+      },
+      "credits": 4,
+      "preRequirements": [
+        {
+          "code": "CC642",
+          "name": "DESARROLLO DE SOFTWARE"
+        }
+      ],
+      "condition": "ELECTIVO",
+      "hoursPerWeek": {
+        "total": 4,
+        "theory": 2,
+        "laboratory": 2,
+        "practice": null
+      },
+      "evaluationSystem": "G"
+    },
+    "sommelier": "La asignatura Calidad de Software es de tipo teórico-taller en un proceso de desarrollo de software. En esta asignatura se estimula el estudio, trabajo e investigación individual y en equipo, así como la rotación de roles de los estudiantes para completar su formación profesional dentro del contexto científico y tecnológico actual. En el curso se tratarán los siguientes contenidos Fundamentos de la Calidad de Software, Modelos de Procesos de Software, Aseguramiento de Calidad del Software, Calidad de información, Estándares y Normas de Software."
+  },
+  {
+    "generalInfo": {
+      "course": {
+        "code": "CC008",
+        "name": "COMPILADORES"
+      },
+      "credits": 4,
+      "preRequirements": [
+        {
+          "code": "CC521",
+          "name": "TEORIA DE AUTÓMATAS, LENGUAJES Y COMPUTACIÓN"
+        }
+      ],
+      "condition": "ELECTIVO",
+      "hoursPerWeek": {
+        "total": 6,
+        "theory": 2,
+        "laboratory": 4,
+        "practice": null
+      },
+      "evaluationSystem": "G"
+    },
+    "sommelier": "Conocer las técnicas básicas empleadas durante el proceso de generación intermedio, optimización y generación de código. Aprender a implementar pequeños compiladores."
+  },
+  {
+    "generalInfo": {
+      "course": {
+        "code": "CC004",
+        "name": "DEEP LEARNING EN VISIÓN ARTIFICIAL"
+      },
+      "credits": 4,
+      "preRequirements": [
+        {
+          "code": "CC421",
+          "name": "MINERÍA DE DATOS"
+        },
+        {
+          "code": "CC422",
+          "name": "COMPUTACIÓN GRÁFICA"
+        }
+      ],
+      "condition": "ELECTIVO",
+      "hoursPerWeek": {
+        "total": 6,
+        "theory": 2,
+        "laboratory": 4,
+        "practice": null
+      },
+      "evaluationSystem": "G"
+    },
+    "sommelier": "En los últimos años, el aprendizaje profundo (deep learning) se ha convertido en una herramienta fundamental en el aprendizaje de máquinas para una amplia variedad de dominios y aplicaciones. En sí se puede decir, ques una técnica que emplea redes neuronales para aprender representaciones a partir de una serie de datos observados, que puedan ser de utilidad para resolver problemas de alto nivel como ser predicción, restauración o clasificación de señales. El aprendizaje profundo pretende descubrir las propiedades intrínsecas de grandes volúmenes de datos construyendo representaciones distribuidas, tanto en contextos supervisados como no supervisados."
+  },
+  {
+    "generalInfo": {
+      "course": {
+        "code": "CC010",
+        "name": "DISEÑO DE SISTEMAS BASADOS EN MICROPROCESADOR"
+      },
+      "credits": 4,
+      "preRequirements": [
+        {
+          "code": "CC511",
+          "name": "COMPUTACIÓN CENTRADA EN REDES"
+        }
+      ],
+      "condition": "ELECTIVO",
+      "hoursPerWeek": {
+        "total": 6,
+        "theory": 2,
+        "laboratory": 4,
+        "practice": null
+      },
+      "evaluationSystem": "G"
+    },
+    "sommelier": "En este curso se aprende el modelo de programación de bajo nivel de los sistemas digitales basados en microprocesador. En concreto, se estudian y analizan los conceptos básicos relacionados con los recursos de programación de bajo nivel, así como la integración de programas desarrollados como mezcla de lenguajes de medio nivel (lenguaje C) y bajo nivel (ensamblador). Se analizan las distintas estrategias de programación de los recursos del subsistema de entrada y salida, haciendo énfasis en la programación de los controladores de dispositivo más importantes. Todo ello se complementa con el estudio y análisis de los buses e interfaces de entrada y salida."
+  }
+]

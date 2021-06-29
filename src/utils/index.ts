@@ -1,3 +1,6 @@
+import fs from 'fs'
+import { ISyllabusCourse } from '../types'
+
 interface ICleanProps {
   positionEndSlice? : number
   positionStartSlice: number
@@ -377,4 +380,14 @@ const cleanGeneralInfo = ({
     .trim()
 }
 
-export { cleanGeneralInfo }
+const writeFile = (
+  data    : string,
+  filename: string
+): Promise<string> => new Promise((resolve, reject) => {
+  fs.writeFile(filename, data, (error: unknown): void => {
+    if (error) reject(error)
+    resolve('Saved successfully')
+  })
+})
+
+export { cleanGeneralInfo, writeFile }
