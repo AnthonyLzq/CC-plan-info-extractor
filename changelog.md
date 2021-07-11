@@ -1,5 +1,15 @@
 # CC Plan Info Extractor
 
+## Version 0.5.1
+
+- Fixed:
+  - Some errors in the sommelier
+- TODO:
+  - Complete the process for the missing fields:
+    - Competencies
+    - Analytic program
+    - Bibliography
+
 ## Version 0.5.0
 
 - Implemented:

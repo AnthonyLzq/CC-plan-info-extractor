@@ -9,6 +9,7 @@ const UNI = process.env.UNI as string
 const NONE = process.env.NONE as string
 const SOMMELIER = process.env.SOMMELIER as string
 const COMPETENCIES = process.env.COMPETENCIES as string
+const ANALYTIC_PROGRAM = process.env.ANALYTIC_PROGRAM as string
 
 // Key words from the general info
 const COURSE = process.env.COURSE as string
@@ -144,6 +145,15 @@ const extractData = async () => {
         positionStartSlice: courseContent.indexOf(SOMMELIER) + SOMMELIER.length,
         text              : courseContent
       })
+      const competencies = cleanGeneralInfo({
+        positionEndSlice  : courseContent.indexOf(ANALYTIC_PROGRAM),
+        positionStartSlice: courseContent
+          .indexOf(COMPETENCIES) + COMPETENCIES.length,
+        text: courseContent
+      }).slice(1)
+      const competenciesArray = competencies.split('-')
+
+      console.log({ competenciesArray })
 
       const generalInfo = {
         course: {
@@ -163,8 +173,11 @@ const extractData = async () => {
       })
     })
 
-    // console.log({ courseContentArray: courseContentArray.splice(0, 3) })
-    await writeFile(JSON.stringify(fullContent, null, 2), 'result.json')
+    const result = await writeFile(
+      JSON.stringify(fullContent, null, 2),
+      'result.json'
+    )
+    console.log({ result })
   } catch (error) {
     console.error(error)
   }

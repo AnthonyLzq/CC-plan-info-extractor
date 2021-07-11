@@ -45,7 +45,7 @@
       },
       "evaluationSystem": "G"
     },
-    "sommelier": "Para el estudiante de Ciencia de Computación, es importanteconocer, saber y aplicar los paradigmas más importantes de la programación como son la programación estructurada y la programación orientada objetos, estar preparado y adaptarse a nuevos paradigmas. En el curso de programación orientada a objetos está diseñado de manera que el final el estudiante haber desarrollado competencias que le permitirán saber, definir, aplicar los principios fundamentales del paradigma orientadoa objetos que son las clases, objetos, relaciones entre objetos y clases, herencia, polimorfismo, clases abstractas, clases genéricas, colecciones, persistencia y las interfaces gráficas de usuarios para cual utilizará un lenguaje de programación orientado a objetos como herramienta para soluciones concretas."
+    "sommelier": "Para el estudiante de Ciencia de Computación, es importante conocer, saber y aplicar los paradigmas más importantes de la programación como son la programación estructurada y la programación orientada objetos, estar preparado y adaptarse a nuevos paradigmas. En el curso de programación orientada a objetos está diseñado de manera que el final el estudiante haber desarrollado competencias que le permitirán saber, definir, aplicar los principios fundamentales del paradigma orientadoa objetos que son las clases, objetos, relaciones entre objetos y clases, herencia, polimorfismo, clases abstractas, clases genéricas, colecciones, persistencia y las interfaces gráficas de usuarios para cual utilizará un lenguaje de programación orientado a objetos como herramienta para soluciones concretas."
   },
   {
     "generalInfo": {
@@ -69,7 +69,7 @@
       },
       "evaluationSystem": "G"
     },
-    "sommelier": "Este curso tiene por objetivo permitir al alumno gestionar adecuadamente el hardware y el software de un sistema de cómputo, que van desde la estructura básica del computador moderno hasta conocerlos conceptos básicos del repertorio de instrucciones. Garantizar el buen desempeño, la eficiencia de la futura codificación y conocer los fundamentos de la programación de bajo nivel serán tres temáticas fundamentales en el curso. Demostrar que la evolución de la arquitectura de los computadores es una consecuencia del avance y desarrollo tantodel hardware como del software."
+    "sommelier": "Este curso tiene por objetivo permitir al alumno gestionar adecuadamente el hardware y el software de un sistema de cómputo, que van desde la estructura básica del computador moderno hasta conocer los conceptos básicos del repertorio de instrucciones. Garantizar el buen desempeño, la eficiencia de la futura codificación y conocer los fundamentos de la programación de bajo nivel serán tres temáticas fundamentales en el curso. Demostrar que la evolución de la arquitectura de los computadores es una consecuencia del avance y desarrollo tanto del hardware como del software."
   },
   {
     "generalInfo": {
@@ -117,7 +117,7 @@
       },
       "evaluationSystem": "G"
     },
-    "sommelier": "El curso se orienta a conocer los fundamentos de la operación de los Programas de Aplicación y de la forma en la que los Sistemas Operativos implementan abstracciones del hardware y llevan a cabo la administración de los recursos del sistema. Por otra parte, se llevarán a cabosesiones de Laboratorio en la que se presentará la aplicación práctica de las técnicas estudiadas."
+    "sommelier": "El curso se orienta a conocer los fundamentos de la operación de los Programas de Aplicación y de la forma en la que los Sistemas Operativos implementan abstracciones del hardware y llevan a cabo la administración de los recursos del sistema. Por otra parte, se llevarán a cabo sesiones de Laboratorio en la que se presentará la aplicación práctica de las técnicas estudiadas."
   },
   {
     "generalInfo": {
@@ -193,7 +193,7 @@
       },
       "evaluationSystem": "G"
     },
-    "sommelier": "En esta materia, donde se fundamenta y se establece la base teórica de los estudios, se encuentran los conceptos que se estudian y se usan en casi todas las demás materias. Qué es un lenguaje de programación, cómo y porqué se define de la forma en que se hace. Cual es el mecanismo en el que se traduce a un formalismo entendible por una máquina, y porqué es precisamente ese. Y cuáles son las limitaciones que se pueden encontrar, entre muchos otros. En este sentido, este curso demuestra que la Computaciónes una ciencia, en particular una rama de la matemática que centra su interés en el estudio y definición formal de los computadores."
+    "sommelier": "En esta materia, donde se fundamenta y se establece la base teórica de los estudios, se encuentran los conceptos que se estudian y se usan en casi todas las demás materias. Qué es un lenguaje de programación, cómo y porqué se define de la forma en que se hace. Cual es el mecanismo en el que se traduce a un formalismo entendible por una máquina, y porqué es precisamente ese. Y cuáles son las limitaciones que se pueden encontrar, entre muchos otros. En este sentido, este curso demuestra que la Computación es una ciencia, en particular una rama de la matemática que centra su interés en el estudio y definición formal de los computadores."
   },
   {
     "generalInfo": {
@@ -293,7 +293,7 @@
       },
       "evaluationSystem": "G"
     },
-    "sommelier": "El objetivo de las matemáticas computacionales, en pocas palabras, es encontrar o desarrollar algoritmos que resuelvan problemas matemáticos computacionalmente (es decir, usando computadoras). En particular, deseamos que cualquier algoritmo que desarrollemos cumpla cuatro propiedades: Exactitud (un algoritmo preciso es capaz de devolver un resultado numérico muy cercadel resultado correcto o analítico), Eficiencia (un algoritmo eficiente es capaz de resolver rápidamente el problema matemático con recursos computacionales razonables), Robustez (un algoritmo robusto funciona para una amplia variedad de entradas x), y Estabilidad (un algoritmo estable no es sensiblea pequeños cambios en el entrada x)."
+    "sommelier": "El objetivo de las matemáticas computacionales, en pocas palabras, es encontrar o desarrollar algoritmos que resuelvan problemas matemáticos computacionalmente (es decir, usando computadoras). En particular, deseamos que cualquier algoritmo que desarrollemos cumpla cuatro propiedades: Exactitud (un algoritmo preciso es capaz de devolver un resultado numérico muy cercadel resultado correcto o analítico), Eficiencia (un algoritmo eficiente es capaz de resolver rápidamente el problema matemático con recursos computacionales razonables), Robustez (un algoritmo robusto funcionapara una amplia variedad de entradas x), y Estabilidad (un algoritmo estable no es sensiblea pequeños cambios en el entrada x)."
   },
   {
     "generalInfo": {
@@ -317,7 +317,7 @@
       },
       "evaluationSystem": "G"
     },
-    "sommelier": "El fundamento de la programación secuencial orientada a bloques es que una reordenación en la (re)utilización de los datos de entrada de un problema permite obtener un gran beneficiocomputacional gracias a la utilización eficiente de la jerarquía de memoria. Una adecuada división de nuestro problema en bloques permite obtener programas más eficientes para una misma arquitectura. Por otra parte, los sistemas informáticos actuales son inherentemente paralelos plataformasde memoria compartida, plataformas de memoria distribuida, multi-núcleo, computaciónheterogénea, ... Sin embargo, la mayoría de las aplicaciones actuales no explotan dichas arquitecturas paralelas, produciéndose como consecuencia una mala utilización de los recursos y un bajo rendimiento. Es necesario, por tanto, conocer las técnicas que nos permitan obtener programas más rápidos y eficientes que utilicen toda la potencia de la arquitectura subyacente."
+    "sommelier": "El fundamento de la programación secuencial orientada a bloques es que una reordenación en la (re)utilización de los datos de entrada de un problema permite obtener un gran beneficio computacional gracias a la utilización eficiente de la jerarquía de memoria. Una adecuada división de nuestro problema en bloques permite obtener programas más eficientes para una misma arquitectura. Por otra parte, los sistemas informáticos actuales son inherentemente paralelos plataformasde memoria compartida, plataformas de memoria distribuida, multi-núcleo, computaciónheterogénea, ... Sin embargo, la mayoría de las aplicaciones actuales no explotan dichas arquitecturas paralelas, produciéndose como consecuencia una mala utilización de los recursos y un bajo rendimiento. Es necesario, por tanto, conocer las técnicas que nos permitan obtener programas más rápidos y eficientes que utilicen toda la potencia de la arquitectura subyacente."
   },
   {
     "generalInfo": {
@@ -389,7 +389,7 @@
       },
       "evaluationSystem": "G"
     },
-    "sommelier": "Este curso representa la puerta de entrada o presentacióna las técnicas de Inteligencia Artificial y laingeniería del conocimiento, es decir, los tópicos relacionados a los sistemas inteligentes. Estas técnicas se incluyen hoy en día entre las más requeridaspara la resolución de problemas complejos en cualquier ámbito del desarrollo científico o profesional relacionadoo a la Ciencia de la Computación. Desarrollar programas que tengan comportamiento inteligente con diferentes temas como búsqueda, representación de conocimiento, agentes inteligente, procesamiento de lenguaje natural, aprendizaje, redes neuronales, árboles de decisión y aprendizaje de máquina."
+    "sommelier": "Este curso representa la puerta de entrada o presentacióna las técnicas de Inteligencia Artificial y laingeniería del conocimiento, es decir, los tópicos relacionados a los sistemas inteligentes. Estas técnicas se incluyen hoy en día entre las más requeridaspara la resolución de problemas complejos en cualquier ámbito del desarrollo científico o profesional relacionado a la Ciencia de la Computación. Desarrollar programas que tengan comportamiento inteligente con diferentes temas como búsqueda, representación de conocimiento, agentes inteligente, procesamiento de lenguaje natural, aprendizaje, redes neuronales, árboles de decisión y aprendizaje de máquina."
   },
   {
     "generalInfo": {
@@ -504,7 +504,7 @@
       },
       "evaluationSystem": "G"
     },
-    "sommelier": "Los sistemas Grid son entornos muy variables, compuestos por una serie de organizaciones independientes que comparten sus recursos. Durante la década pasada, la Computación Grid ha surgido como una tecnología que ha hecho posible muchas aplicaciones intensivas endatos y/o en cálculo. A través del empleo de tecnologías Grid, es posible agregar recursos dispersos y heterogéneos para resolver varios tipos de aplicaciones paralelas en ciencia, ingeniería y comercio. Los usuarios de Grid deberán percibir alguna calidad de servicio (QoS) en las prestaciones de sus aplicaciones, en términos de tiempo de respuesta o de número detrabajos finalizados por unidad de tiempo. Sin embargo, esto es muy difícil de conseguir debido a la gran cantidad de redes interconectadas que forman parte de un Grid. Cloud Computing proviene de la idea de un nuevo paradigmainformático donde se incorpora tanto la computación distribuida, diversos centros de datos, aplicaciones, un consumo computacional y sobretodo el término virtualización como también plataformas de sistemas operativos y proveedores de servicio de acuerdo a una demanda extensa de los clientes, através del Internet. Por último, el curso verá también el concepto novedoso que surge de los dos anteriores para el internet of things, el llamado Fog Computing. Fog Computing es una extensión del Cloud Computing que pretende descentralizar y balancear los recursos a través de la red de sensores o dispositivos de almacenamiento."
+    "sommelier": "Los sistemas Grid son entornos muy variables, compuestos por una serie de organizaciones independientes que comparten sus recursos. Durante la década pasada, la Computación Grid ha surgido como una tecnología que ha hecho posible muchas aplicaciones intensivas en datos y/o en cálculo. A través del empleo de tecnologías Grid, es posible agregar recursos dispersos y heterogéneos para resolver varios tipos de aplicaciones paralelas en ciencia, ingeniería y comercio. Los usuarios de Grid deberán percibir alguna calidad de servicio (QoS) en las prestaciones de sus aplicaciones, en términos de tiempo de respuesta o de número detrabajos finalizados por unidad de tiempo. Sin embargo, esto es muy difícil de conseguir debido a la gran cantidad de redes interconectadas que forman parte de un Grid. Cloud Computing proviene de la idea de un nuevo paradigmainformático donde se incorpora tanto la computación distribuida, diversos centros de datos, aplicaciones, un consumo computacional y sobretodo el término virtualización como también plataformas de sistemas operativos y proveedores de servicio de acuerdo a una demanda extensa de los clientes, através del Internet. Por último, el curso verá también el concepto novedoso que surge de los dos anteriores para el internet of things, el llamado Fog Computing. Fog Computing es una extensión del Cloud Computing que pretende descentralizar y balancear los recursos a través de la red de sensores o dispositivos de almacenamiento."
   },
   {
     "generalInfo": {
@@ -656,7 +656,7 @@
       },
       "evaluationSystem": "G"
     },
-    "sommelier": "En este curso se exponen temas avanzados de algoritmos y estructura de datos que sirven como continuación del curso de programación orientada a objetos pero centrado en la programación de estructuras de datos simples y complejas. Por tanto, los aspectos que se estudiarán serán principalmente cómo se definen y cómo se implementan las estructuras de datos e incorporarlos acualquier entorno de programación. Así mismo, como puede observarse, este curso continúa con la formación de un programador en cualquier ámbito o especialidad, continuando posteriormente en el curso de “Análisis y diseño de algoritmos”, donde se verá algoritmia y optimización en estructuras de datos complejas."
+    "sommelier": "En este curso se exponen temas avanzados de algoritmos y estructura de datos que sirven como continuación del curso de programación orientada a objetos pero centrado en la programación de estructuras de datos simples y complejas. Por tanto, los aspectos que se estudiarán serán principalmente cómo se definen y cómo se implementan las estructuras de datos e incorporarlos a cualquier entorno de programación. Así mismo, como puede observarse, este curso continúa con la formación de un programador en cualquier ámbito o especialidad, continuando posteriormente en el curso de “Análisis y diseño de algoritmos”, donde se verá algoritmia y optimización en estructuras de datos complejas."
   },
   {
     "generalInfo": {
@@ -680,7 +680,7 @@
       },
       "evaluationSystem": "G"
     },
-    "sommelier": "La asignatura Auditoría de Sistemas es de naturalezaes de tipo teórico-práctico en un proceso de auditoría de sistemas. En esta asignatura se estimula el estudio, trabajo e investigación individual y en equipo, así como la rotación de roles de los estudiantes para completar su formación profesional dentro del contexto científico y tecnológico actual."
+    "sommelier": "La asignatura Auditoría de Sistemas es de naturaleza es de tipo teórico-práctico en un proceso de auditoría de sistemas. En esta asignatura se estimula el estudio, trabajo e investigación individual y en equipo, así como la rotación de roles de los estudiantes para completar su formación profesional dentro del contexto científico y tecnológico actual."
   },
   {
     "generalInfo": {
@@ -708,7 +708,7 @@
       },
       "evaluationSystem": "G"
     },
-    "sommelier": "El presente curso está concebido para estudiantes del noveno semestre. Esta asignatura ofrece una introducción general de los principios, técnicas y herramientas de la biología computacional. Los tópicos que toca el curso incluye principios y métodos necesarios para el estudio y análisis del alineamiento de secuencias de ADN y de aminoácidos, la aplicación de métodos estadísticos y probabilísticos en el análisis de información biológica, el análisis y mode lamiento de árboles filogenéticos, el mapeo desecuencias, y una introducción al estudio de la estructura de las proteínas."
+    "sommelier": "El presente curso está concebido para estudiantes del noveno semestre. Esta asignatura ofrece una introducción general de los principios, técnicas y herramientas de la biología computacional. Los tópicos que toca el curso incluye principios y métodos necesarios para el estudio y análisis del alineamiento de secuencias de ADN y de aminoácidos, la aplicación de métodos estadísticos y probabilísticos en el análisis de información biológica, el análisis y modelamiento de árboles filogenéticos, el mapeo desecuencias, y una introducción al estudio de la estructura de las proteínas."
   },
   {
     "generalInfo": {
@@ -784,7 +784,7 @@
       },
       "evaluationSystem": "G"
     },
-    "sommelier": "En los últimos años, el aprendizaje profundo (deep learning) se ha convertido en una herramienta fundamental en el aprendizaje de máquinas para una amplia variedad de dominios y aplicaciones. En sí se puede decir, ques una técnica que emplea redes neuronales para aprender representaciones a partir de una serie de datos observados, que puedan ser de utilidad para resolver problemas de alto nivel como ser predicción, restauración o clasificación de señales. El aprendizaje profundo pretende descubrir las propiedades intrínsecas de grandes volúmenes de datos construyendo representaciones distribuidas, tanto en contextos supervisados como no supervisados."
+    "sommelier": "En los últimos años, el aprendizaje profundo (deep learning) se ha convertido en una herramienta fundamental en el aprendizaje de máquinas para una amplia variedad de dominios y aplicaciones. En sí se puede decir, que es una técnica que emplea redes neuronales para aprender representaciones a partir de una serie de datos observados, que puedan ser de utilidad para resolver problemas de alto nivel como ser predicción, restauración o clasificación de señales. El aprendizaje profundo pretende descubrir las propiedades intrínsecas de grandes volúmenes de datos construyendo representaciones distribuidas, tanto en contextos supervisados como no supervisados."
   },
   {
     "generalInfo": {
