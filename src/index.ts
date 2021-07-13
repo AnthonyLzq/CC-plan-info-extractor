@@ -23,6 +23,7 @@ const THEORY = process.env.THEORY as string
 const LABORATORY = process.env.LABORATORY as string
 const PRACTICE = process.env.PRACTICE as string
 const BIBLIOGRAPHY = process.env.BIBLIOGRAPHY as string
+const BULLET = process.env.BULLET as string
 
 const pdfExtract = new PDFExtract()
 const options: PDFExtractOptions = {}
@@ -184,6 +185,12 @@ const extractData = async () => {
         })
       })
 
+      const bibliography = cleanGeneralInfo({
+        positionStartSlice: courseContent
+          .indexOf(BIBLIOGRAPHY) + BIBLIOGRAPHY.length,
+        text: courseContent
+      }).split(BULLET).slice(1)
+
       const generalInfo = {
         course: {
           code: courseCode,
@@ -199,8 +206,9 @@ const extractData = async () => {
       fullContent.push({
         generalInfo,
         sommelier,
-        competencies   : competenciesArray,
-        analyticProgram: analyticContent
+        competencies   : competenciesArray[0] === '' ? []: competenciesArray,
+        analyticProgram: analyticContent,
+        bibliography   : bibliography.map(e => e.trim())
       })
     })
 

@@ -43,12 +43,39 @@ const cleaner = (str: string): string => str
   .replace(/orientadoa/g, 'orientado a')
   .replace(/\by[a-zA-ZÁ-ÿ\u00f1\u00d1]+/g, replacerYBegin)
   .replace(
-    /programación|estándares|herramientas|aspectos|programas|aplicaciones|algoritmos|estructuras|permitan|problemas|objetos|digitales|Comunicación|comunicación|estudiantes|datos|básicos|nivel|representaciones|herramienta|como|técnicas|implementar|principios|estudio|métodos|computacional|serán|cualquier|optimización|grandes|áreas|diseño|enfoque|natural|recursos|interconectadas|informáticos|usuario\b|otro|está|fundamentos|profesional|temática|implementación|Computación|computación|servidor|lenguajes|computadoras|tanto|implementan|información|conocer|ensamblador|BIOS|imágenes|dirigir|mejores|análisis|internacionales|sostenibilidad|convolucionales|fundamentales|aseguramiento|cotidiana\b|básicas|máquinas|intercambiando|interrupciones|claves|existir|definiendo|utilización|identificando|asociadas|influencia|Algorítmica|diversos|ingeniería|comprometiéndose|conlleve|crítica|confiabilidad|funcionamiento|predefinidas|organizadores|necesarias|sistemas|Sistemas|Sistema|operativos|Operativos|software|desarrollo|mecanismos|gestión|administración|formulación|definición|computabilidad|árboles|construcción|creativamente|resolución|tridimensionales|involucrados|arquitecturas|más|ataques|características|estudiarán|distribuidos|personas|interactivos|relación|accesibilidad|lugares|perspectivas|diferentes|prestaciones|Cloud|respectivos|algunos|archivos|costes|patrones|útiles\)|utilizar|resultaría|evolutiva|metaheurísticas|soluciones|abordar|utilizando|flexibilidad|puedan|dinámicas|excepciones|Java|distribución|almacenamiento|entradas|circulares|apuntadores|Ethernet|identificación|Enrutamiento|enrutamiento|Conexiones|Transporte|redes|nombres|Correo|correo|registros|Flujo|Simétrica|Digitales|privadas|Autentificación|Grafos|Regulares|Ecuaciones|Sumador|Determinísticos|transición|Derivación|Eliminación|Recurrencia|Análisis|Algoritmos|Casos|Etapas|Procesos|instalación|optimalidad|condiciones|variables|diferenciales|Internet|PHP|seguimiento|simples|Iluminación|subdivisión|Críticas|virtuales|Recursos|localización|Aprendizaje|jerarquías|Big Data|paramétrico|necesidades|Lambdoop|analytics|Lambda|Swarm|organización|Fingerprinting|CLUSTAL|Neighbor|proteínas|Certificación|organizativos|Progresiva|Evaluación|evaluación|scripts|metodologías|independientes|léxicos|Familia|interrupción|80x86|programable|tuplas|binarias|decibilidad/g,
+    /programación|estándares|herramientas|aspectos|programas|aplicaciones|algoritmos|Estructuras|estructuras|permitan|problemas|objetos|digitales|Comunicación|comunicación|estudiantes|datos|básicos|nivel|representaciones|herramienta|como|técnicas|implementar|principios|estudio|métodos|computacional|serán|cualquier|optimización|grandes|áreas|diseño|enfoque|natural|recursos|interconectadas|informáticos|usuario\b|otro|está|fundamentos|profesional|temática|implementación|Computación|computación|servidor|lenguajes|computadoras|tanto|implementan|información|conocer|ensamblador|BIOS|imágenes|dirigir|mejores|análisis|internacionales|sostenibilidad|convolucionales|fundamentales|aseguramiento|cotidiana\b|básicas|máquinas|intercambiando|interrupciones|claves|existir|definiendo|utilización|identificando|asociadas|influencia|Algorítmica|diversos|ingeniería|comprometiéndose|conlleve|crítica|confiabilidad|funcionamiento|predefinidas|organizadores|necesarias|sistemas|Sistemas|Sistema|operativos|Operativos|software|desarrollo|mecanismos|gestión|administración|formulación|definición|computabilidad|árboles|construcción|creativamente|resolución|tridimensionales|involucrados|arquitecturas|más|ataques|características|estudiarán|distribuidos|personas|interactivos|relación|accesibilidad|lugares|perspectivas|diferentes|prestaciones|Cloud|respectivos|algunos|archivos|costes|patrones|útiles\)|utilizar|resultaría|evolutiva|metaheurísticas|soluciones|abordar|utilizando|flexibilidad|puedan|dinámicas|excepciones|Java|distribución|almacenamiento|entradas|circulares|apuntadores|Ethernet|identificación|Enrutamiento|enrutamiento|Conexiones|Transporte|redes|nombres|Correo|correo|registros|Flujo|Simétrica|Digitales|privadas|Autentificación|Grafos|Regulares|Ecuaciones|Sumador|Determinísticos|transición|Derivación|Eliminación|Recurrencia|Análisis|Algoritmos|Casos|Etapas|Procesos|instalación|optimalidad|condiciones|variables|diferenciales|Internet|PHP|seguimiento|simples|Iluminación|subdivisión|Críticas|virtuales|Recursos|localización|Aprendizaje|jerarquías|Big Data|paramétrico|necesidades|Lambdoop|analytics|Lambda|Swarm|organización|Fingerprinting|CLUSTAL|Neighbor|proteínas|Certificación|organizativos|Progresiva|Evaluación|evaluación|scripts|metodologías|independientes|léxicos|Familia|interrupción|80x86|programable|tuplas|binarias|decibilidad|Science|Learning|Programming|Peruana|Functional|Annual|Symposium|CRC|Arpaci|fundamentals|Reverté|Morgan|Datos|Publishing|Computers|edición|Edición|Prentice|Administration|Linux|Jeff|Analysis|Zaragoza|Structures|Hall|Servicio”|Introduction|“Elements|International|MIT|Complutense|edition|Edition|Approach|Patterns|Wiley|Optimization|Applications|Users’|University|Portable|Professional|Artech|Barcelona|Wires|Worlds|Company|Controlling|Penetración|síntesis|Interamericana|Beale|Interaction|Practical|Models|Designing|Usability|usability|Investigación|Síntesis|Mexicana|Rajkimar|Development|Mahmood|Bunch|Ramachandran|minería|Concepts|printing|ISBN|Data-Intensive|prácticas|Gobierno|Institute|INSTITUTE|ONGEI|Contraloría|Laboratory|Enfoque|Capability|Principios|Thomson|Iberoamericana|Implementación|Elements|Springer|convolutional|visual|confidence|losses/g,
     replacer
   )
   .replace(/tipo \d/g, (v: string): string => `${v}:`)
   .replace(/(\by a\b)/g, 'ya')
   .replace(/servidor es/g, 'servidores')
+  .replace(/funcionalen/g, 'funcional en')
+  .replace(/Nacionalde/g, 'Nacional de')
+  .replace(/“CS231nConvolutional/g, '“CS231n: Convolutional')
+  .replace(/Generalde/g, 'General de')
+  .replace(/laauditoría/g, 'la auditoría')
+  .replace(/deEstadística/g, 'de Estadística')
+  .replace(/decurso/g, 'de curso')
+  .replace(/HumanElement/g, 'Human Element')
+  .replace(/unrobot/g, 'un robot')
+  .replace(/inData/g, 'in Data')
+  .replace(/deuna/g, 'de una')
+  .replace(/&Sons/g, '& Sons')
+  .replace(/Hill1994/g, 'Hill 1994')
+  .replace(/deMéxico/g, 'de México')
+  .replace(/andPractice/g, 'and Practice')
+  .replace(/ALA MINERÍA/g, 'A LA MINERÍA')
+  .replace(/Politécnicade/g, 'Politécnica de')
+  .replace(/- Wiley /g, '- Wiley')
+  .replace(/toGUI/g, 'to GUI')
+  .replace(/Hall \/ CRC/g, 'Hall/CRC')
+  .replace(/\/ Prentice/g, '/Prentice')
+  .replace(/ MIT NICK, K\./g, 'MIT NICK, K.')
+  .replace(/synthesis \/ MichaelF./g, 'synthesis/Michael F.')
+  .replace(/Publicadopor/g, 'Publicado por')
+  .replace(/porMcGraw/g, 'por McGraw')
+  .replace(/porOsborne/g, 'por Osborne')
+  .replace(/Architecture\(/g, 'Architecture (')
   .replace(/cual utilizar á/g, 'cual utilizará')
   .replace(/deCMMI/g, 'de CMMI')
   .replace(/ade lantada/g, 'adelantada')
@@ -306,6 +333,7 @@ const cleaner = (str: string): string => str
   .replace(/otro s\./g, 'otros. ')
   .replace(/ma temática/g, 'matemática')
   .replace(/otro s tipos/g, 'otros tipos')
+  .replace(/otro s Fundamentos/g, 'otros Fundamentos')
   .replace(/queeres/g, 'que eres')
   .replace(/computacional mente/g, 'computacionalmente')
   .replace(/herramienta s/g, 'herramientas')
@@ -322,7 +350,9 @@ const cleaner = (str: string): string => str
   .replace(/enel/g, 'en el')
   .replace(/devida/g, 'de vida')
   .replace(/paraalmacenar/g, 'para almacenar')
+  .replace(/Ed /g, ' Ed: ')
   .replace(/,/g, ', ')
+  .replace(/;/g, '; ')
   .replace(/ ,/g, ',')
   .replace(/ ;/g, ';')
   .replace(/\./g, '. ')
@@ -351,8 +381,14 @@ const cleaner = (str: string): string => str
   .replace(/datos \?/g, 'datos?')
   .replace(/cálculode/g, 'cálculo de')
   .replace(/esquemaRelacional/g, 'esquema Relacional')
-  .replace(/El modelo relacional Conversión de E\/R/g, 'El modelo relacional: Conversión de E/R')
-  .replace(/Normalización Dependencias de múltiple valores/g, 'Normalización: Dependencias de múltiple valores')
+  .replace(
+    /El modelo relacional Conversión de E\/R/g,
+    'El modelo relacional: Conversión de E/R'
+  )
+  .replace(
+    /Normalización Dependencias de múltiple valores/g,
+    'Normalización: Dependencias de múltiple valores'
+  )
   .replace(/Organización de archivos 1/g, 'Organización de archivos')
   .replace(/en lazada/g, 'enlazada')
   .replace(/ejemplo\(/g, 'ejemplo (')
@@ -371,19 +407,95 @@ const cleaner = (str: string): string => str
   .replace(/con gestión/g, 'congestión')
   .replace(/Con gestión/g, 'Congestión')
   .replace(/al retardo/g, 'al retardo:')
-  .replace(/La Capa de Transporte El servicio del transporte/g, 'La Capa de Transporte: El servicio del transporte')
-  .replace(/La Capa de Aplicación DNS/g, 'La Capa de Aplicación: DNS')
-  .replace(/Introducción a la Seguridad de Redes Criptografía/g, 'Introducción a la Seguridad de Redes: Criptografía')
+  .replace(
+    /La Capa de Transporte El servicio del transporte/g,
+    'La Capa de Transporte: El servicio del transporte'
+  )
+  .replace(
+    /La Capa de Aplicación DNS/g,
+    'La Capa de Aplicación: DNS'
+  )
+  .replace(
+    /Introducción a la Seguridad de Redes Criptografía/g,
+    'Introducción a la Seguridad de Redes: Criptografía'
+  )
   .replace(/y otro s algoritmos/g, 'y otros algoritmos')
   .replace(/lamáquina/g, 'la máquina')
   .replace(/entiempo/g, 'en tiempo')
   .replace(/deRequisito/g, 'de Requisito')
   .replace(/casosprácticos/g, 'casos prácticos')
-  .replace(/ProcesoUnificado deDesarrollo\(RUP\)/g, 'Proceso Unificado de Desarrollo (RUP)')
-  .replace(/Desarrollo de Sistemas Orientados a Objetos/g, 'Desarrollo de Sistemas Orientados a Objetos:')
+  .replace(
+    /ProcesoUnificado deDesarrollo\(RUP\)/g,
+    'Proceso Unificado de Desarrollo (RUP)'
+  )
+  .replace(
+    /Desarrollo de Sistemas Orientados a Objetos/g,
+    'Desarrollo de Sistemas Orientados a Objetos:'
+  )
   .replace(/Luz y Color/g, 'Luz y Color:')
   .replace(/de lalineamiento/g, 'del alineamiento')
   .replace(/ya técnicas/g, 'y a técnicas')
+  .replace(/JoyanesAguilar/g, 'Joyanes Aguilar')
+  .replace(
+    /2001http\/\/www\. brpreiss\. com\/books\/opus5\/html\/book\. htmlThompson/g,
+    '2001 http//www.brpreiss.com/books/opus5/html/book.html Thompson'
+  )
+  .replace(/Computerarchitecture a/g, 'Computer architecture: a')
+  .replace(
+    /Diseño de Computadores Lainterfaz/g,
+    'Diseño de Computadores La: interfaz'
+  )
+  .replace(/Estructuray/g, 'Estructura y')
+  .replace(/architecturea/g, 'architecture a')
+  .replace(/theMessage- Passing/g, 'the Message-Passing')
+  .replace(/\. ,/g, '.,')
+  .replace(/\. ;/g, '.;')
+  .replace(/1y/g, '1 y')
+  .replace(/inXML/g, 'in XML')
+  .replace(/Universidadde/g, 'Universidad de')
+  .replace(/2a edición /g, '2a edición')
+  .replace(
+    /The Art of Computer Programming /g,
+    'The Art of Computer Programming'
+  )
+  .replace(/Versión 2\. 1/g, 'Versión 2.1')
+  .replace(
+    /Exposed Web 2\. 0 Web 2\. 0 SecuritySecrets and Solutions/g,
+    'Exposed Web 2.0: Web 2.0 Security Secrets and Solutions'
+  )
+  .replace(/andConejo/g, 'and Conejo')
+  .replace(/ Optimization in Engineering/g, 'Optimization in Engineering')
+  .replace(
+    /USA Wiley Publishing /g,
+    'USA Wiley Publishing'
+  )
+  .replace(
+    /Inteligencia Artificial Una nueva visión/g,
+    'Inteligencia Artificial: Una nueva visión'
+  )
+  .replace(
+    /Inteligencia ArtificialUn enfoque moderno/g,
+    'Inteligencia Artificial: Un enfoque moderno'
+  )
+  .replace(
+    /Artificial IntelligenceA Modern Approach Editorial Upper Saddle River, N\. J\./g,
+    'Artificial Intelligence: A Modern Approach Editorial: Upper Saddle River, N. J.:'
+  )
+  .replace(
+    /No me hagas pensar una aproximacióna la usabilidad/g,
+    'No me hagas pensar: una aproximación a la usabilidad'
+  )
+  .replace(
+    /http\/\/library\. gnome\. org\/devel\/hig-book\/stable/g,
+    'http//library.gnome.org/devel/hig-book/stable'
+  )
+  .replace(
+    /http\/\/delta\. cs\. cinvestav\. mx\/~ccoello\/compevol\/apuntes\. pdf/g,
+    'http//delta.cs.cinvestav.mx/~ccoello/compevol/apuntes.pdf'
+  )
+  .replace(/supercomputing/g, 'supercomputing:')
+  .replace(/ersion 1\. /g, 'ersion 1.')
+  .replace(/17th2008/g, '17th 2008')
   .trim()
 
 const cleanGeneralInfo = ({

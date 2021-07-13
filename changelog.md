@@ -1,5 +1,10 @@
 # CC Plan Info Extractor
 
+## Version 1.0.0
+
+- Implemented:
+  - Complete the process for the Bibliography
+
 ## Version 0.8.0
 
 - Implemented:
