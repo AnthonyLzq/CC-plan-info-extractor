@@ -1,9 +1,18 @@
 # CC Plan Info Extractor
 
+## Version 0.7.0
+
+- Implemented:
+  - Complete process for THE Analytic program
+- TODO:
+  - Complete the process for the missing fields:
+    - Bibliography
+  - Optimize regex replacement
+
 ## Version 0.6.0
 
 - Implemented:
-  - Complete process for Competencies.
+  - Complete process for Competencies
 - TODO:
   - Complete the process for the missing fields:
     - Analytic program

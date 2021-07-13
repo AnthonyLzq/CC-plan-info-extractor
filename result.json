@@ -29,6 +29,80 @@
       "Conocimiento de la metodología de programación",
       "Adquisición de competencias específicas de la utilización de los lenguajes de programación",
       "Desarrollar aplicaciones en base a problemas de lógica computacional"
+    ],
+    "analyticProgram": [
+      {
+        "themes": [
+          "Lenguajes naturales y artificiales",
+          "Elementos y evolución",
+          "Diseño e implementación",
+          "Taxonomía, paradigmas y popularidad"
+        ],
+        "topic": "Lenguajes de programación"
+      },
+      {
+        "themes": [
+          "Definición de programa y sus partes",
+          "Conceptos básicos de la programación variables, tipos de datos, constantes, operadores y sentencias",
+          "Almacenando información e identificadores"
+        ],
+        "topic": "Representación de datos simples en memoria"
+      },
+      {
+        "themes": [
+          "Escribir y leer información funciones de entrada y salida de datos"
+        ],
+        "topic": "Entrada y salida de datos"
+      },
+      {
+        "themes": [
+          "Introducción a la programación estructurada",
+          "Estructuras selectivas",
+          "Estructuras iterativas"
+        ],
+        "topic": "Sentencias de control"
+      },
+      {
+        "themes": [
+          "Empleo de funciones paso por valores",
+          "Alcance de variables variables locales y globales",
+          "Empleo de la técnica de recursividad"
+        ],
+        "topic": "Funciones y Recursividad"
+      },
+      {
+        "themes": [
+          "Arreglos numéricos vectores y matrices",
+          "Registros"
+        ],
+        "topic": "Estructuras de datos fundamentales 1"
+      },
+      {
+        "themes": [
+          "Declaraciones",
+          "Operadores",
+          "Paso por referencia",
+          "Memoria dinámica"
+        ],
+        "topic": "Punteros"
+      },
+      {
+        "themes": [
+          "Métodos de acceso",
+          "Tipos de archivos secuenciales, binarios",
+          "Directorios",
+          "Binarios y ASCII"
+        ],
+        "topic": "Archivos"
+      },
+      {
+        "themes": [
+          "Estructuras y uniones",
+          "Listas enlazadas",
+          "Listas doblemente enlazadas"
+        ],
+        "topic": "Estructuras de datos fundamentales 2"
+      }
     ]
   },
   {
@@ -61,6 +135,74 @@
       "Gestiona las condiciones de error que interrumpen el flujo normal de ejecución de un programa mediante la gestión de excepciones predefinidas y propias",
       "Explica los fundamentos e implementa aplicaciones que crean y manipulan la serialización de objetos, salvar y recuperar información",
       "Identifica los hilos valorando la programación concurrente. Describe la arquitectura de tres capas, la implementación en consola y visual. Conocelas Interfaces gráficas de usuario (GUI), valorando los componentes y organizadores para diseñar la interfaz"
+    ],
+    "analyticProgram": [
+      {
+        "themes": [
+          "Introducción a la programación orientada a objetos",
+          "Introducción a la programación estructurada y orientada a objetos",
+          "Clases, objetos, diagramas de clases",
+          "Constructores y destructores",
+          "Objetos y mensajes",
+          "Implementa clase valorando el paradigma anterior",
+          "Resuelve e implementa programas utilizando una herramienta orientada a objetos"
+        ],
+        "topic": "Introducción a la programación orientada a objetos"
+      },
+      {
+        "themes": [
+          "Modela programas utilizando las relaciones entre objetos de uso, asociación, agregación y composición",
+          "Relaciones entre clases, valora la reutilización",
+          "Modelamiento utilizando relaciones entre clases",
+          "Implementación de estructuras de datos estáticas y dinámicas",
+          "Implementación de soluciones con relaciones entre clases y objetos utilizando una herramienta orientada a objetos"
+        ],
+        "topic": "Relaciones entre clases y objetos"
+      },
+      {
+        "themes": [
+          "Interfaces y Clases Abstractas",
+          "Clases polimórficas utilizando la herencia de Clases, Interfaces y Clases abstractas",
+          "Clases y métodos genéricos",
+          "Colecciones genéricas paramétricas",
+          "Métodos de ordenamiento y de búsqueda genéricos",
+          "Archivos directos y archivo de índices Implementa soluciones utilizando herramientas orientadas a objetos"
+        ],
+        "topic": "Interfaces, polimorfismo y clases genéricas"
+      },
+      {
+        "themes": [
+          "Excepciones en Java",
+          "Excepciones predefinidas y Herencia de excepciones creadas por el usuario",
+          "Archivos en Java",
+          "Persistencia, serialización y deserialización de objetos",
+          "Acceso a base de datos desde Java",
+          "Implementación de programas valorando el manejo de excepciones",
+          "Gestión de la información en memoria principal y secundaria"
+        ],
+        "topic": "Excepciones y persistencia"
+      },
+      {
+        "themes": [
+          "Programación concurrente, programación de hilos en Java",
+          "Arquitectura de las tres capas datos, lógica e interfaz",
+          "Interfaces graficas de Usuario (GUI) de java",
+          "Ventanas, componentes y administradores de distribución de componentes",
+          "Implementación de programas utilizando lenguaje de programación orientadoa objetos"
+        ],
+        "topic": "Hilos y GUIs"
+      },
+      {
+        "themes": [
+          "Asignación dinámica de memoria",
+          "Listas enlazadas simples"
+        ],
+        "topic": "Estructuras dinámicas de datos"
+      },
+      {
+        "themes": [],
+        "topic": "Programación orientada a eventos"
+      }
     ]
   },
   {
@@ -88,6 +230,70 @@
     "sommelier": "Este curso tiene por objetivo permitir al alumno gestionar adecuadamente el hardware y el software de un sistema de cómputo, que van desde la estructura básica del computador moderno hasta conocer los conceptos básicos del repertorio de instrucciones. Garantizar el buen desempeño, la eficiencia de la futura codificación y conocer los fundamentos de la programación de bajo nivel serán tres temáticas fundamentales en el curso. Demostrar que la evolución de la arquitectura de los computadores es una consecuencia del avance y desarrollo tanto del hardware como del software.",
     "competencies": [
       ""
+    ],
+    "analyticProgram": [
+      {
+        "themes": [
+          "Historia (breve) y Tecnología de los computadores",
+          "Bajo los programas y bajo la cubierta",
+          "El Microcontrolador 8051",
+          "Arquitectura del 8051",
+          "Conjunto de Instrucciones y Lenguaje ensamblador",
+          "El TMC51",
+          "Simulador EDSIM51 y programación del 8051",
+          "Timers/Contadores",
+          "Puerto Serie",
+          "Interrupciones",
+          "Display LCD"
+        ],
+        "topic": "Computadores de 8 bits"
+      },
+      {
+        "themes": [
+          "Introducción al MSP430 de Texas Instruments",
+          "Introducción a MIPS",
+          "Instrucciones del computador",
+          "El procesador MIPS",
+          "Programación de MIPS"
+        ],
+        "topic": "Computadores de 16 y 32 bits"
+      },
+      {
+        "themes": [
+          "Codificación, compresión de datos e integridad de datos",
+          "Jerarquía de memoria",
+          "Memorias caché, (mapeo de direcciones, tamaño de bloques, políticas de reemplazo y almacenamiento)",
+          "Memoria Virtual (tablas de paginación, TLB)"
+        ],
+        "topic": "Organización de la Memoria y Arquitectura"
+      },
+      {
+        "themes": [
+          "Fundamentos de entrada y salida buffering, handshaking, entradas y salidas, entradas y salidas manejadas por interrupciones",
+          "Manejo de interrupción",
+          "Almacenamiento externo, organización física y drivers",
+          "Buses protocolos de buses, arbitraje, acceso directoa memoria (DMA)",
+          "Arquitecturas RAID"
+        ],
+        "topic": "Comunicación e Interfase"
+      },
+      {
+        "themes": [
+          "Introducción a SIMD, MIMD, VLIW, EPIC",
+          "Arquitectura sistólica",
+          "Sistemas de memoria compartida",
+          "GPUs para gráficos y cálculos"
+        ],
+        "topic": "Multinúcleos, multiprocesadores y clústeres"
+      },
+      {
+        "themes": [
+          "Evaluación de los sistemas de cómputo",
+          "Diagnóstico de los sistemas de procesamiento",
+          "Seguridad"
+        ],
+        "topic": "Herramientas de Diagnóstico y seguridad"
+      }
     ]
   },
   {
@@ -118,6 +324,145 @@
       "Conocimiento y aplicación de las herramientas necesarias para el almacenamiento, procesamiento y acceso a los sistemas de información, incluidos los basados en web",
       "Conocer en profundidad el Modelo Relacional de Datos, el proceso de diseño relacional a través de dependencias funcionales y normalización así como los lenguajes relacionales Cálculo y Álgebra Relacional",
       "Diseñar una Bases de Datos basada en las fases de diseño conceptual y lógico a partir del modelo conceptual Entidad Relación Extendido"
+    ],
+    "analyticProgram": [
+      {
+        "themes": [
+          "¿Qué es una base de datos?",
+          "Qué es un Sistema de gestión de base de datos",
+          "Independencia de los datos",
+          "Arquitectura de un sistema de base de datos"
+        ],
+        "topic": "Introducción"
+      },
+      {
+        "themes": [
+          "Introducción al modelo de datos ER",
+          "Conjuntos de entidades y de relaciones",
+          "Dominios",
+          "Representaciones equivalentes de una relación",
+          "Cuestiones de diseño",
+          "Especialización",
+          "Agregación",
+          "Reducción a tablas"
+        ],
+        "topic": "Modelo de Entidad relación (E/R)"
+      },
+      {
+        "themes": [
+          "Esquemas, Tuplas, Tablas, Dominios",
+          "Conversión a tablas desde un modelo con relaciones",
+          "Conversión a tablas desde un modelo con generalización",
+          "Descubrimiento de claves en las relaciones"
+        ],
+        "topic": "El modelo relacional: Conversión de E/R"
+      },
+      {
+        "themes": [
+          "Definición",
+          "Axiomas de Armstrong",
+          "Reglas Adicionales",
+          "Clave de un conjunto de atributos",
+          "No redundancia",
+          "Determinación de las claves de un esquema y cálculo de las claves de un esquema Relacional"
+        ],
+        "topic": "Dependencias Funcionales"
+      },
+      {
+        "themes": [
+          "Redundancia, Anomalías de actualización y Eliminación",
+          "Primera y Segunda forma Normal",
+          "Descomposición sin Pérdida",
+          "Preservación de dependencias",
+          "Forma Normal de Boyce Codd (BCNF)",
+          "Tercera forma Normal, BCNF vs 3NF",
+          "Cuarta y Quinta forma Normal"
+        ],
+        "topic": "Normalización: Dependencias de múltiple valores"
+      },
+      {
+        "themes": [
+          "Aplicaciones de las bases de datos",
+          "Sistemas de bases de datos frente a sistemas de archivos",
+          "Visión de los datos",
+          "Modelos de bases de datos",
+          "Lenguajes de bases de datos",
+          "Gestión de transacciones",
+          "Estructura de un sistema de bases de datos",
+          "Usuarios de bases de datos"
+        ],
+        "topic": "Introducción a SQL"
+      },
+      {
+        "themes": [
+          "Agregaciones y diseño de agregaciones",
+          "Modificación de datos",
+          "Clasificación",
+          "Insertar tuplas en una relación",
+          "Eliminar tuplas de una relación",
+          "Actualizar el valor de algunos componentes de tuplasexistentes"
+        ],
+        "topic": "Agregaciones, modificaciones, y operaciones avanzadas"
+      },
+      {
+        "themes": [
+          "Concepto de vista",
+          "Aplicaciones de vistas",
+          "Vistas en SQL",
+          "Sintaxis",
+          "Motivos por que una lista no es actualizable",
+          "Vista sobre una tabla Básica",
+          "Vista sobre una concatenación de relaciones",
+          "Definir tablas, filas y columnas",
+          "Insertar claves de índice",
+          "Crear relaciones entre tablas",
+          "Asignar tipos de datos"
+        ],
+        "topic": "Vistas y definición de datos"
+      },
+      {
+        "themes": [
+          "Restricciones en procedimientos almacenados y disipadores",
+          "Restricciones en subconsultas",
+          "Restricciones en vistas",
+          "Definición, uso y sintaxis del trigger",
+          "Componentes y nombres de disparadores",
+          "Tipos de disipadores",
+          "Orden de activación de disipadores"
+        ],
+        "topic": "Restricciones y disparadores (triggers)"
+      },
+      {
+        "themes": [
+          "Almacenamiento y estructura de archivos",
+          "Indexación, asociación, hashing",
+          "Índices",
+          "Procesamiento de consultas",
+          "Optimización de consultas"
+        ],
+        "topic": "Módulos de almacenamiento persistentes"
+      },
+      {
+        "themes": [
+          "Violaciones de la seguridad",
+          "Control de acceso a la base de datos",
+          "Tipos de autorización",
+          "Autorizaciones y vistas",
+          "Concesión de privilegios",
+          "Eliminación de privilegios",
+          "El concepto de rol o papel",
+          "Limitaciones de la autorización SQL"
+        ],
+        "topic": "Autorización"
+      },
+      {
+        "themes": [
+          "Sentencias para una transacción",
+          "Transacciones anidadas",
+          "Transacciones y procedimientos almacenados"
+        ],
+        "topic": "Transacciones"
+      }
     ]
   },
   {
@@ -151,6 +496,220 @@
       "Comprende el proceso de administración y optimización del sistema de archivos",
       "Comprende el modo en que el sistema operativo controla los dispositivos de E/S",
       "Conoce y comprende los conceptos fundamentales del diseño de un Sistema Operativo"
+    ],
+    "analyticProgram": [
+      {
+        "themes": [
+          "Componentes del Sistema Operativo",
+          "Diagrama de casos de uso",
+          "Funciones y componentes como casos de uso"
+        ],
+        "topic": "Funciones del Sistema Operativo"
+      },
+      {
+        "themes": [
+          "Ejecución de un proceso",
+          "Ejemplo de ejecución Estados de un proceso",
+          "Cómo se crean los procesos",
+          "Cómo terminan los procesos",
+          "El estado bloqueado",
+          "El estado suspendido",
+          "Tablas de control del sistema operativo",
+          "Tabla de procesos",
+          "Bloque de control de procesos BCP",
+          "Identificación del proceso",
+          "Identificación del contexto del CPU",
+          "Información de control del proceso",
+          "El proceso en el kernel",
+          "Modos de ejecución",
+          "Creación de procesos",
+          "Intercambio de procesos",
+          "Cambio en el estado del proceso"
+        ],
+        "topic": "Descripción de procesos"
+      },
+      {
+        "themes": [
+          "Cola de procesos",
+          "Reloj de tiempo real",
+          "Tipos de planificación",
+          "Planificación a largo plazo",
+          "Planificación a mediano plazo",
+          "Planificación a corto plazo",
+          "Tipos de procesos",
+          "Procesos en tiempo real",
+          "Procesos Normales",
+          "Procesos no expropiativos",
+          "Procesos expropiativos",
+          "Políticas de planificación SCHED_FIFO, SCHED_RR y SCHED_OTHER",
+          "Algoritmo de planificación en Linux"
+        ],
+        "topic": "Planificación de procesos"
+      },
+      {
+        "themes": [
+          "Principios Generales",
+          "Exclusión mutua",
+          "Sección crítica",
+          "Algoritmo de Peterson",
+          "Exclusión mutua por Hardware",
+          "Por inhabilitación de interrupciones",
+          "Por instrucciones en lenguaje de máquina",
+          "Semáforos",
+          "El estado Espera",
+          "Algoritmo para un semáforo binario",
+          "Exclusión mutua con semáforos",
+          "Ejemplo de semáforo binario",
+          "Mensajes",
+          "Direccionamiento",
+          "Sincronización",
+          "Partes de un mensaje",
+          "Exclusión Mutua"
+        ],
+        "topic": "Concurrencia de procesos"
+      },
+      {
+        "themes": [
+          "Principios Generales",
+          "Procesos con interbloqueo, procesos sin interbloqueo",
+          "Recursos reutilizables",
+          "Recursos consumibles",
+          "Condiciones para el interbloqueo",
+          "Prevención del interbloqueo",
+          "Exclusión mutua",
+          "Retener y Esperar",
+          "Expropiación",
+          "Círculo de espera",
+          "Predicción del interbloqueo",
+          "Estado seguro",
+          "Estado inseguro",
+          "Detección del interbloqueo",
+          "Recuperación luego del interbloqueo",
+          "Estrategias integradas para evitar el interbloqueo"
+        ],
+        "topic": "Interbloqueo de procesos"
+      },
+      {
+        "themes": [
+          "Requisitos de la gestión de memoria",
+          "Reubicación",
+          "Protección",
+          "Compartimiento",
+          "Organización Lógica",
+          "Organización física",
+          "Partición de la memoria",
+          "Particiones estáticas de igual tamaño",
+          "Particiones estáticas de diferente tamaño",
+          "Particiones dinámicas",
+          "Algoritmo de Ubicación",
+          "Sistema de Bloques 2n (Buddy System)",
+          "Reubicación de procesos en la memoria",
+          "Tipos de Direcciones",
+          "Registros usados durante la ejecución",
+          "Paginación",
+          "Asignamiento de marcos libres a páginas de un proceso",
+          "Cálculo de la dirección física de memoria",
+          "Segmentación",
+          "Cálculo de la dirección física de memoria",
+          "Direccionamiento lógico"
+        ],
+        "topic": "Gestión de Memoria"
+      },
+      {
+        "themes": [
+          "Estructuras de hardware y control",
+          "¿Qué ocurre al ejecutar un programa?",
+          "Ventajas de la fragmentación de procesos",
+          "Tipos de memoria",
+          "Hiperpaginación",
+          "Principio de Cercanía",
+          "Soporte para el uso de memoria virtual",
+          "Paginación",
+          "La tabla de páginas",
+          "Buffer de traducción ade lantada",
+          "El problema del tamaño de página",
+          "Segmentación",
+          "Tablas de segmentos",
+          "Política de Carga",
+          "Política de Reemplazo",
+          "Algoritmos de reemplazo",
+          "Asignación de páginas para un proceso",
+          "Asignación variable",
+          "Política de limpieza",
+          "Control de carga",
+          "Suspensión de procesos"
+        ],
+        "topic": "Gestión de Memoria Virtual"
+      },
+      {
+        "themes": [
+          "Dispositivos de Entrada/Salida",
+          "Tipos de dispositivos E/S",
+          "Diferencias entre dispositivos E/S",
+          "Organización de las funciones E/S",
+          "Evolución de las funciones E/S",
+          "Técnicas para ejecutar la E/S",
+          "Memoria de Acceso Directo (DMA)",
+          "Aspectos del diseño del Sistema Operativo",
+          "Características para diseñar un sistema operativo"
+        ],
+        "topic": "Gestión de E/S"
+      },
+      {
+        "themes": [
+          "Almacenamiento intermedio de la E/S",
+          "Buffering de E/S",
+          "Buffer simple",
+          "Buffer Doble",
+          "Buffer Circular",
+          "Planificación de Discos",
+          "Performance del Disco Duro",
+          "Raid, Raid 0, Raid 1, Raid 2.Raid 3, Raid 4, Raid5 y Raid 6",
+          "Caché de disco",
+          "Usado menos recientemente",
+          "Usado menos frecuentemente"
+        ],
+        "topic": "Gestión de Almacenamiento"
+      },
+      {
+        "themes": [
+          "Conceptos iniciales",
+          "Términos más usados",
+          "Operaciones típicas con archivos",
+          "Objetivos de un sistema de manejo de archivos",
+          "Conjunto de requerimientos mínimos",
+          "Drivers de dispositivos (Disco y Tape)",
+          "Sistema Básico de Archivos",
+          "Supervisor Básico de E/S",
+          "E/S Lógico",
+          "Métodos de acceso",
+          "Funciones de la gestión de archivos",
+          "Organización y acceso de archivos",
+          "Criterios para la Organización de archivos"
+        ],
+        "topic": "Gestión de Archivos"
+      },
+      {
+        "themes": [
+          "Organización de directorios",
+          "Directorio de archivos",
+          "Estructura simple para un directorio",
+          "Estructura de dos nivel es de archivos",
+          "Estructura jerárquica de archivos",
+          "Compartiendo archivos",
+          "Privilegios de acceso a archivos",
+          "Acceso simultáneo",
+          "Agrupación de registros",
+          "Bloques y Registros",
+          "Bloques fijos",
+          "Bloques variables",
+          "Gestión del almacenamiento secundario",
+          "Preasignación",
+          "Métodos de ubicación de archivos",
+          "Sistema de archivos Linux y Windows Ext2 y NTFS"
+        ],
+        "topic": "Gestión de Directorios"
+      }
     ]
   },
   {
@@ -179,12 +738,98 @@
       },
       "evaluationSystem": "G"
     },
-    "sommelier": "Este curso es una continuación del curso de programación orientada a objetos pero centrado en la programación de estructuras de datos simples y complejas. Por tanto, los aspectos que se estudiarán serán principalmente cómo se definen y cómo se implementan las estructuras de datos e incorporarlos a cualquier entorno de programación. Así mismo, como puede observarse, este curso continúa con la formación de un programador en cualquier ámbito o especialidad, continuando posteriormente en el curso de “Análisis y diseño de algoritmos”, donde se verá algoritmia y optimización en estructuras de datos complejas.",
+    "sommelier": "Este curso es una continuación del curso de programación orientada a objetos pero centrado en la programación de estructuras de datos simples y complejas. Por tanto, los aspectos que se estudiarán serán principalmente cómo se definen y cómo se implementan las estructuras de datos e incorporarlos a cualquier entorno de programación. Así mismo, como puede observarse, este curso continúa con la formación de un programador en cualquier ámbito o especialidad, continuando posteriormente en el curso de “ Análisis y diseño de algoritmos”, donde se verá algoritmia y optimización en estructuras de datos complejas.",
     "competencies": [
       "Evalúa las propiedades de las estructuras de datos estableciendo su utilidad en las aplicaciones en ciencia e ingeniería comprometiéndose en el uso adecuado que conlleve a resolver problemas de la vida real",
       "Demuestra su capacidad de análisis diseñando, implementando estructuras que permitan dar solución, trabajando en equipo en los diversos problemas en la ciencia e ingeniería",
       "Comprende los conocimientos básicos de Algorítmica y ejecuta los principios de la ciencia de la computación",
       "Describe los procesos de construcción de Algoritmos identificando las propiedades asociadas que se generan de ellos apreciando su influencia en la ciencia e ingeniería"
+    ],
+    "analyticProgram": [
+      {
+        "themes": [
+          "Definición de estructura de datos",
+          "Clasificación de estructura de datos",
+          "Operaciones sobre Estructura de Datos",
+          "Estructuras de datos y eficiencia",
+          "Algoritmos para encontrar máximos y mínimos",
+          "Algoritmos para realizar búsquedas secuenciales ybinarias",
+          "Algoritmos de ordenamiento, de peor caso cuadrático(selección, inserción)",
+          "Algoritmos de ordenamiento caso promedio (Quicksort, Heapsort, Mergesort)"
+        ],
+        "topic": "Introducción"
+      },
+      {
+        "themes": [
+          "Conjuntos",
+          "Implementación de un TAD",
+          "Listas enlazadas simples",
+          "Noción de lista enlazada",
+          "Definición formal de lista enlazada",
+          "Características",
+          "Representación de listas enlazadas mediante arreglos, mediante cursores ymediante apuntadores",
+          "Listas doblemente enlazadas y listas circulares",
+          "Definición formal de lista doblemente enlazada y listas circulares",
+          "Características",
+          "Representación de listas enlazadas",
+          "Pilas y cola",
+          "Noción de pila",
+          "Definición formal de pila",
+          "Características",
+          "Acciones primitivas",
+          "Representación de pilas",
+          "Operaciones básicas",
+          "Aplicación y ejemplos",
+          "Noción de cola",
+          "Definición formal de cola",
+          "Características",
+          "Acciones Primitivas",
+          "Representación de colas",
+          "Tipos de colas"
+        ],
+        "topic": "Descripción formal de TAD"
+      },
+      {
+        "themes": [
+          "Noción de árbol",
+          "Definición de árbol",
+          "Características",
+          "Acciones primitivas",
+          "Representación de Árboles mediante arreglos y mediante apuntadores",
+          "Tipos de árboles",
+          "Árboles binarios",
+          "Definición formal de árbol binario características",
+          "Acciones primitivas",
+          "Representación de árboles binarios",
+          "Ordenamiento, Búsqueda, Inserción y Eliminación"
+        ],
+        "topic": "Árboles"
+      },
+      {
+        "themes": [
+          "Noción de grafo",
+          "Tipos Grafos no dirigidos, Grafos dirigidos",
+          "Definición Formal de grafos no dirigidos",
+          "Representación",
+          "Operaciones básicas",
+          "Aplicaciones y ejemplos",
+          "Grafos",
+          "Recorrido de grafos",
+          "Matriz de adyacencia",
+          "Matriz de caminos",
+          "Caminos mínimos",
+          "Definición Formal de Grafos dirigidos",
+          "Búsqueda en Profundidad",
+          "Árboles de recubrimiento",
+          "Camino Hamiltoniano",
+          "Paseo Euleriano",
+          "Algoritmo de Dijkstra",
+          "Algoritmo de Warshall",
+          "Grafos acíclicos",
+          "Ordenamiento Topológico"
+        ],
+        "topic": "Grafos"
+      }
     ]
   },
   {
@@ -217,6 +862,109 @@
       "Comprender la arquitectura de red y los modelos dereferencia más conocidos",
       "Conocer los servicios básicos de red DNS, NAT, VPN",
       "Aplicar los conocimientos en situaciones prácticas, principalmente con la formulación de estrategias para problemas reales"
+    ],
+    "analyticProgram": [
+      {
+        "themes": [
+          "Uso de las redes de computadoras",
+          "Hardware de Red (PAN, LAN, MAN, WAN)",
+          "Software de Red",
+          "Modelos de Referencia (OSI, TCP/IP)",
+          "Redes de ejemplo (Redes LAN inalámbricas, Redes RFIDy de sensores)",
+          "Estandarización de Redes",
+          "Una breve historia de las redes",
+          "Calidad de servicio",
+          "Redes TCP/IP y RedesATM"
+        ],
+        "topic": "Introducción"
+      },
+      {
+        "themes": [
+          "Medios de transmisión guiados (Medios magnéticos, par trenzado, cablecoaxial, líneas eléctricas, fibra óptica)",
+          "Transmisión inalámbrica (microondas, infrarroja, ondas de luz)",
+          "Satélites de comunicación",
+          "Modulación digital y multiplexión (transmisión enbanda base)",
+          "La Red Telefónica Pública Conmutada (ADSL y Fibraóptica)",
+          "Sistema de telefonía móvil (1G, 2G, 3G y 4G)",
+          "Protocolos y la arquitectura TCP/IP",
+          "Elmodelo OSI",
+          "Interconexión de redes"
+        ],
+        "topic": "Capa Física"
+      },
+      {
+        "themes": [
+          "Detección y Corrección de Errores",
+          "Protocoloselementales de Enlace de Datos",
+          "Protocolos de Ventanas DeslizantesRedes tolerantes",
+          "",
+          "TCP e IP",
+          "Elprotocolo de control de transmisión (TCP)",
+          "Ipv4 e Ipv"
+        ],
+        "topic": "Capa de Enlace de Datos: Diseño"
+      },
+      {
+        "themes": [
+          "Ethernet (Fast Ethernet, Gigabit Ethernet, 10 Gigabit Ethernet, Ethernet Conmutada)",
+          "Redes LAN Inalámbricas (802.11 y la pila de protocolos)",
+          "Banda Ancha Inalámbrica (Capa física estándar 802.16)",
+          "Bluetooth (Arquitectura)",
+          "RFID (Formatos de los mensajes de identificación de etiquetas)",
+          "Conmutación de la Capa de Enlace de Datos: (Usos de los puentes, repetidores, hubs, enrutadores, y puertas de en laces o gateways, Redes LAN virtuales)",
+          "Redes y Arquitectura de Frame Relay"
+        ],
+        "topic": "Subcapa de Control de Acceso al Medio Protocolo de Acceso Múltiple"
+      },
+      {
+        "themes": [
+          "Algoritmos de Enrutamiento (Enrutamiento por vectordistancia, enrutamiento jerárquico, enrutamiento multidifusión, enrutamiento por la ruta más corta, anycast)",
+          "Algoritmos de Control deCongestión (Control de admisión)",
+          "Calidad de Servicio",
+          "Interconexión de Redes",
+          "La Capa de Internet (Protocolo Ip, Ip versión 4, Ip versión 6, Protocolos de control en Internet, multidifusión en Internet, Ipmóvil)",
+          "Modo de transferencia asíncrono (ATM)",
+          "Conexiones lógicas, celdas ATM"
+        ],
+        "topic": "La Capa de Red Aspectos del Diseño de la Capa de Red"
+      },
+      {
+        "themes": [
+          "Elementos de los Protocolos de Transporte (Direccionamiento, establecimiento de una conexión, multiplexación, control de errores)",
+          "Control de Congestión",
+          "Los Protocolos de Transporte en Internet (Introduccióna UDP, llamada de procedimiento remoto, protocolos en tiempo real)",
+          "Los Protocolos de Transporte de Internet TCP (Introducción, modelo deservicio, protocolo TCP, encabezadodel segmento, establecimiento de unaconexión TCP, control de congestión TCP)",
+          "Aspectosdel Desempeño (Diseño de los hosts para redes rápidas)",
+          "Redes tolerantes al retardo: TCP, FTP y Telnet"
+        ],
+        "topic": "La Capa de Transporte: El servicio del transporte"
+      },
+      {
+        "themes": [
+          "Sistema de nombres de dominio (el espacio de los nombres del DNS, registros de los recursos de dominio, servidores de nombres)",
+          "Correo electrónico",
+          "WWW (web estáticas y dinámicas, HTTP, web móvil)",
+          "Audio y Video de Flujo Continuo",
+          "Entrega de Contenido (Contenido y tráfico en Internet, redes de igual a igual)",
+          "Gestión de la congestión y del tráfico",
+          "Control y gestión del tráfico",
+          "Control de la congestión en Frame Relay"
+        ],
+        "topic": "La Capa de Aplicación: DNS"
+      },
+      {
+        "themes": [
+          "Algoritmo de Clave Simétrica",
+          "Algoritmos de Clave Pública (RSA y otros algoritmos de clave pública)",
+          "Firmas Digitales",
+          "Administración de Claves Públicas (Certificados)",
+          "Seguridad en la Comunicación (Ipsec, Firewalls, Redes privadas virtuales, seguridades inalámbricas)",
+          "Protocolos en la Autentificación",
+          "Seguridad de Correo Electrónico",
+          "Seguridad en Web"
+        ],
+        "topic": "Introducción a la Seguridad de Redes: Criptografía"
+      }
     ]
   },
   {
@@ -245,6 +993,115 @@
     "competencies": [
       "Entender y tener destreza en la definición de lenguajes regulares y libres de contexto así como de las máquinas que lo reconocen",
       "Entender los fundamentos teóricos de la computabilidad y decidibilidad"
+    ],
+    "analyticProgram": [
+      {
+        "themes": [
+          "Conjuntos en TC",
+          "Relaciones y Funciones en TC",
+          "Teoría de Grafos",
+          "Semigrupos y Grupos"
+        ],
+        "topic": "Introducción a la TC"
+      },
+      {
+        "themes": [
+          "Símbolo",
+          "Alfabeto",
+          "Cadena",
+          "Operaciones con cadenas",
+          "Lenguajes",
+          "Operaciones con Lenguajes",
+          "Técnicas Básicas de Demostración"
+        ],
+        "topic": "Cadenas y Lenguajes"
+      },
+      {
+        "themes": [
+          "Definición recursiva de LR",
+          "Expresiones Regulares (ER)",
+          "Equivalencia de ER",
+          "Propiedades de ER",
+          "Derivadas",
+          "Sistemas de Ecuaciones"
+        ],
+        "topic": "Lenguajes Regulares"
+      },
+      {
+        "themes": [
+          "Definición MEF",
+          "Representación Gráfica",
+          "Sumador Binario",
+          "Clasificación de MEF Moore y Mealy"
+        ],
+        "topic": "Máquinas de Estado Finito"
+      },
+      {
+        "themes": [
+          "Autómatas Finitos Determinísticos (AFD)",
+          "Minimización de AFD",
+          "AFD Equivalentes",
+          "Autómatas Finitos no Determinísticos (AFND)",
+          "Representación de AFND",
+          "Equivalencia entre AFD y AFND",
+          "Autómatas con transiciones épsilon representación, función de transición extendida"
+        ],
+        "topic": "Autómatas de Estados Finitos"
+      },
+      {
+        "themes": [
+          "Regla",
+          "Derivaciones",
+          "Definición de Gramática Formal",
+          "Gramáticas Regulares",
+          "Conversión de GR a AFD",
+          "Conversión de GR a AFND"
+        ],
+        "topic": "Gramáticas"
+      },
+      {
+        "themes": [
+          "Gramáticas Libres de Contexto",
+          "Árboles de Derivación",
+          "Simplificación de Gramáticas",
+          "Eliminación de Símbolos Inútiles",
+          "Eliminación de Producciones épsilon",
+          "Eliminación de Producciones Unitarias",
+          "FormaNormal de Chomsky",
+          "Eliminación de Factores Comunes izquierdos",
+          "Eliminación Recursividad Izquierda",
+          "Eliminación de ambigüedad",
+          "Forma Normal de Greibach",
+          "Autómata de Pila Determinístico",
+          "Autómata de Pila No Determinístico"
+        ],
+        "topic": "Lenguajes libres de contexto"
+      },
+      {
+        "themes": [
+          "Definición formal de máquina de Turing",
+          "Restricciones a la máquina de Turing",
+          "Construcción Modular máquina de Turing"
+        ],
+        "topic": "Máquina de Turing"
+      },
+      {
+        "themes": [
+          "Lenguajes Decibles",
+          "Los problemas de Halting",
+          "Teorías Lógicas de decibilidad"
+        ],
+        "topic": "Decibilidad"
+      },
+      {
+        "themes": [
+          "Problemas Insolubles en la teoría de lenguajes",
+          "Un problema simple que es insoluble",
+          "Funciones Computables",
+          "Reducibilidad de Turing"
+        ],
+        "topic": "Reducibilidad"
+      }
     ]
   },
   {
@@ -273,6 +1130,54 @@
     "competencies": [
       "Implementar programas utilizando las estrategias de programación fuerza bruta, algoritmos voraces, divide y vencerás, backtracking, utilizando el lenguaje C++, analizando su complejidad algorítmica",
       "Implementar estructuras de datos avanzadas, como árboles y grafos analizando la complejidad algorítmica y presentando su proyecto final con aplicación de las estrategias adecuadas"
+    ],
+    "analyticProgram": [
+      {
+        "themes": [
+          "Complejidad de los algoritmos",
+          "Notaciones asintóticas",
+          "Análisis de Tiempos de Ejecución para cada caso",
+          "Ecuaciones de Recurrencia",
+          "Medir eficiencia a través de metaheurísticas"
+        ],
+        "topic": "Análisis de la eficiencia de los algoritmos"
+      },
+      {
+        "themes": [
+          "Análisis de algoritmos iterativos yrecursivos",
+          "Análisis de algoritmos de ordenación y búsqueda",
+          "Dividir y Conquistar",
+          "Análisis Probabilístico y Algoritmos aleatorios"
+        ],
+        "topic": "Introducción a la optimización simple"
+      },
+      {
+        "themes": [
+          "Heapsort",
+          "Quicksort",
+          "Ordenamiento en tiempo lineal",
+          "Medianas y estadísticas de orden"
+        ],
+        "topic": "Clasificación y estadísticas de orden"
+      },
+      {
+        "themes": [
+          "Programación dinámica",
+          "Algoritmos golosos",
+          "Análisis amortizado"
+        ],
+        "topic": "Diseño Avanzado y Técnicas de Análisis"
+      },
+      {
+        "themes": [
+          "Algoritmos de grafo elementales",
+          "Árboles de expansión demínimos",
+          "Caminos más cortos de un solo proveedor",
+          "Todos los pares de rutas más cortas",
+          "Flujo máximo"
+        ],
+        "topic": "Algoritmos de grafos"
+      }
     ]
   },
   {
@@ -302,6 +1207,75 @@
       "Identificar, modelar y especificar requisitos software y de negocio, para la construcción de sistemas software que los implementen",
       "Construir los modelos de diseño, tanto de alto nivel como detallados, para la construcción de sistemas software",
       "Conocer herramientas que dan soporte a la construcción de sistemas software, almacenamiento y procesamiento de datos"
+    ],
+    "analyticProgram": [
+      {
+        "themes": [
+          "Origen y definiciones básicas",
+          "Conceptos fundamentales"
+        ],
+        "topic": "Introducción a la Ingeniería del Software"
+      },
+      {
+        "themes": [
+          "Definición de Requisito, Tipos y Propiedades",
+          "Modelos de Proceso de IR",
+          "Propuesta metodológica",
+          "Etapa de Adquisición de Requisitos",
+          "Etapa de Análisis de Requisitos",
+          "Etapade Validación y Verificación de Requisitos"
+        ],
+        "topic": "Ingeniería de Requisitos de Software"
+      },
+      {
+        "themes": [
+          "Definición y especificación de Casos de Uso",
+          "Notación gráfica",
+          "Tipos de Relaciones en un Diagrama de Casos de Uso",
+          "Ejemplos y casos prácticos"
+        ],
+        "topic": "Modelado de Requisitos con UML 2.0 - Diagramas de Casos de Uso"
+      },
+      {
+        "themes": [
+          "Introducción al modelado deSW con UML 2.0",
+          "Diagramas de Clases de Dominio",
+          "Diagramas de Clases de Análisis",
+          "Diagramas de Actividad"
+        ],
+        "topic": "Análisis Orientado a Objetos con UML 2.0"
+      },
+      {
+        "themes": [
+          "Diagramas de Estados",
+          "Diagramas de Secuencia",
+          "Diagramas de Comunicación",
+          "Diagramas de Tiempos",
+          "Diagramas de Componentes",
+          "Diagramas de Despliegue"
+        ],
+        "topic": "Diseño Orientado a Objetos con UML 2.0"
+      },
+      {
+        "themes": [
+          "Introducción",
+          "Principios básicos de RUP",
+          "Fases y Etapas de RUP"
+        ],
+        "topic": "Desarrollo de Sistemas Orientados a Objetos: Proceso Unificado de Desarrollo (RUP)"
+      },
+      {
+        "themes": [
+          "Gestión de Configuración Software",
+          "Pruebas de Software Introducción y Principios",
+          "Pruebas de Software Estrategias y Procesos"
+        ],
+        "topic": "Gestión y Pruebas de software"
+      },
+      {
+        "themes": [],
+        "topic": "Calidad de Software y Mantenimiento Software"
+      }
     ]
   },
   {
@@ -335,6 +1309,65 @@
       "Conocimiento, administración y mantenimiento de sistemas, servicios y aplicaciones informáticas",
       "Conocimiento y aplicación de las características, funcionalidades y estructura de los Sistemas Distribuidos, las Redes de Computadores de Internet y diseñar e implementar aplicaciones basadas en ellas",
       "Capacidad para gestionar adecuadamente la información disponible integrando creativamente conocimientos y aplicándolos a la resolución de problemas informáticos utilizando el método científico"
+    ],
+    "analyticProgram": [
+      {
+        "themes": [
+          "Comandos básicos e instalación de SO",
+          "Gestión de aplicaciones",
+          "Gestión de usuarios",
+          "Administración de Ficheros"
+        ],
+        "topic": "Administración básica a nivel de sistema operativo"
+      },
+      {
+        "themes": [
+          "Funcionalidad y datagrama",
+          "Encaminamiento IP",
+          "Protocolos de encaminamiento dinámico",
+          "ICMP"
+        ],
+        "topic": "Protocolos de la capa de red"
+      },
+      {
+        "themes": [
+          "UDP",
+          "TCP"
+        ],
+        "topic": "Protocolos de la capa de transporte"
+      },
+      {
+        "themes": [
+          "Discos redundantes",
+          "Monitorización del sistema",
+          "Administración de red y encaminamiento"
+        ],
+        "topic": "Administración avanzada a nivel de sistema operativo"
+      },
+      {
+        "themes": [
+          "CIDR, VLSM y SSH",
+          "HTTP",
+          "DHCP",
+          "NAT"
+        ],
+        "topic": "Administración básica de servidores"
+      },
+      {
+        "themes": [
+          "DNS",
+          "DDNS",
+          "Servidor de correo"
+        ],
+        "topic": "Administración avanzada de servidores"
+      },
+      {
+        "themes": [
+          "Proxy",
+          "Firewall"
+        ],
+        "topic": "Control de acceso a servicios"
+      }
     ]
   },
   {
@@ -369,6 +1402,44 @@
       "Utilizar herramientas algorítmicas y matemáticas para crear todo tipo de imágenes, como las imágenes sintéticas de objetos y escenas tridimensionales",
       "Emplear los algoritmos de optimización comúnmenteutilizados en la práctica, y elegir un algoritmo para un problema dado",
       "Desarrollar estructuras de datos y algoritmos paraautomatizar la obtención de resultados existentes y nuevos en probabilidad, estadística y métodos numéricos"
+    ],
+    "analyticProgram": [
+      {
+        "themes": [
+          "Transformaciones geométricas",
+          "Interpolación",
+          "Curvas y superficies",
+          "Geometría analítica",
+          "Álgebra geométrica"
+        ],
+        "topic": "Matemáticas para la Computación Gráfica"
+      },
+      {
+        "themes": [
+          "Preliminares ejemplos de problemas de optimización concretos",
+          "Programación lineal formato de los problemas, soluciones admisibles y optimalidad, Método Simplex y Método del Punto-Interior",
+          "Programaciónno lineal tipos de problemas, condiciones de optimalidad, direcciones de búsqueda y búsqueda lineal",
+          "Algoritmos de programación diferenciable y no diferenciable"
+        ],
+        "topic": "Optimización Computacional"
+      },
+      {
+        "themes": [
+          "Preliminares",
+          "Algoritmos para variables aleatorias continuas",
+          "Algoritmos para variables aleatorias discretas",
+          "Simulación estocástica"
+        ],
+        "topic": "Probabilidad Computacional"
+      },
+      {
+        "themes": [
+          "Análisis lineal",
+          "El Métodos de Galerkin formulación y solución de PDEs",
+          "Métodos para la solución de ecuaciones diferenciales que dependen del tiempo"
+        ],
+        "topic": "Métodos Numéricos"
+      }
     ]
   },
   {
@@ -399,6 +1470,56 @@
       "Diseñar y dimensionar equipos de procesamiento de datos de altas prestaciones y alta disponibilidad",
       "Conocer las principales arquitecturas de los sistemas de alta disponibilidad",
       "Resolver problemas mediante algoritmos paralelos basados en memoria o procesamiento distribuido"
+    ],
+    "analyticProgram": [
+      {
+        "themes": [],
+        "topic": "Introducción a la programación de altas prestaciones"
+      },
+      {
+        "themes": [],
+        "topic": "Programación orientada a bloques"
+      },
+      {
+        "themes": [],
+        "topic": "Introducción a las arquitecturas paralelas"
+      },
+      {
+        "themes": [],
+        "topic": "Paradigmas de computación paralela"
+      },
+      {
+        "themes": [],
+        "topic": "Diseño de programas en arquitecturas paralelas"
+      },
+      {
+        "themes": [],
+        "topic": "Software de programación de arquitecturas de altas prestaciones"
+      },
+      {
+        "themes": [
+          "Stacks",
+          "Colas",
+          "Colas con prioridad",
+          "Conjuntos",
+          "Tablas",
+          "Árboles",
+          "Búsquela en árboles binarios, Heaps y árboles AVL"
+        ],
+        "topic": "Tipo de datos abstractos"
+      },
+      {
+        "themes": [
+          "Búsqueda siguiendo depth-first and breath-first",
+          "Mínimo spanning tree",
+          "Búsqueda en árboles"
+        ],
+        "topic": "Algoritmos de grafos"
+      },
+      {
+        "themes": [],
+        "topic": "Programación dinámica en paralelo"
+      }
     ]
   },
   {
@@ -428,6 +1549,76 @@
       "Diseñar y programar aplicaciones y servicios Con acceso a datos, usando las arquitecturas, los lenguajes y las herramientas más apropiadas",
       "Conocer cuáles son los estándares para contenidos digitales",
       "Gestionar la seguridad en sistemas informáticos"
+    ],
+    "analyticProgram": [
+      {
+        "themes": [
+          "Introducción al currículo de estándares web/contenidos, La historia de Internet y la web y la evolución de los estándares web",
+          "Arquitectura OSI",
+          "Protocolos de internet"
+        ],
+        "topic": "Introducción y conceptos básicos"
+      },
+      {
+        "themes": [
+          "Conceptos básicos de HTML",
+          "Elelemento del HTML",
+          "Elegir el doctype correcto para los documentos HTML",
+          "Etiquetar contenido textual en HTML",
+          "CSS y su importancia en un buen diseño",
+          "Herencia y cascada",
+          "Creación de estilos de texto con CSS",
+          "Construcción delesqueleto de una página web"
+        ],
+        "topic": "Texto etiquetado y hojas de estilo"
+      },
+      {
+        "themes": [],
+        "topic": "Lenguajes de programación interpretado y sus recursos en desarrollo web"
+      },
+      {
+        "themes": [],
+        "topic": "Lenguajes para entornos de programación multiplataforma"
+      },
+      {
+        "themes": [
+          "Arquitectura y funcionamiento de un desarrollo basado en cliente-servidor",
+          "Sintaxis",
+          "Variables y operadores",
+          "Uso depara aplicaciones web",
+          "Programación Orientada a Objetos",
+          "Programación de aplicaciones y proyectos"
+        ],
+        "topic": "Programación del lado servidor"
+      },
+      {
+        "themes": [
+          "Controladores y direcciones",
+          "Sintaxis",
+          "Accesobásico a los datos",
+          "Transacciones",
+          "Meta datos",
+          "Integración de aplicaciones con PHP"
+        ],
+        "topic": "Acceso a base de datos"
+      },
+      {
+        "themes": [
+          "Introducción a los servicios Web",
+          "XML-RPC",
+          "SOAP",
+          "WSDL y UDDI"
+        ],
+        "topic": "Servicios Web"
+      },
+      {
+        "themes": [
+          "Cifrado",
+          "Firma digital",
+          "Vulnerabilidad y ataque"
+        ],
+        "topic": "Seguridad en internet"
+      }
     ]
   },
   {
@@ -460,6 +1651,99 @@
       "Conocer los diferentes sistemas de detección de intrusos",
       "Alcanzar unos conocimientos básicos del funcionamiento de las herramientas criptográficas más utilizadas",
       "Conocer los sistemas de autentificación más importantes, identificando sus características"
+    ],
+    "analyticProgram": [
+      {
+        "themes": [
+          "Enfoque integral de la seguridad de la información",
+          "Gestión de riesgos",
+          "Análisis de riesgos de tecnología de información",
+          "Seguridad informática vs seguridad de la información",
+          "Objetivos de la seguridad informática",
+          "Amenaza, vulnerabilidad y ataques",
+          "Estándares y pilares de la seguridad"
+        ],
+        "topic": "Seguridad de la Información y de la Informática"
+      },
+      {
+        "themes": [
+          "Control de acceso, sujeto y objeto",
+          "Confidencialidad, integridad, disponibilidad, categoríasde control de acceso",
+          "Control de acceso preventivo, detectivo, correctivo, implementación de control de accesos administración, lógico y físico",
+          "Identificación, autenticación, autorización, técnicas de identificación, autenticación tipo 1: Algo que conoces, tipo 2: algo que tienes, tipo 3: algo que eres, otros tipos de autenticación"
+        ],
+        "topic": "Técnicas de Identificación y Autenticación"
+      },
+      {
+        "themes": [
+          "Seguridad en redes TCP/IP",
+          "Actividades previas a la realización de un ataque",
+          "Escuchas de red",
+          "Fragmentación IP",
+          "Ataques de denegación de servicio",
+          "Deficiencias de programación"
+        ],
+        "topic": "Ataques contra las redes TCP/IP"
+      },
+      {
+        "themes": [
+          "Sistemas cortafuegos",
+          "Construcción de sistemas cortafuegos",
+          "Zonas desmilitarizadas",
+          "Características adicionales de los sistemas cortafuegos"
+        ],
+        "topic": "Mecanismos de prevención"
+      },
+      {
+        "themes": [
+          "Necesidad de mecanismos adicionales en la prevencióny protección",
+          "Sistemas de detección de intrusos",
+          "Escáneres de vulnerabilidades",
+          "Sistemas de decepción",
+          "Prevención de intrusos",
+          "Detección de ataques distribuidos"
+        ],
+        "topic": "Mecanismos para la detección de ataques e intrusiones"
+      },
+      {
+        "themes": [
+          "Conceptos básicos de criptografía",
+          "Sistemas de autentificación",
+          "Protección a nivel de en lace redes inalámbricas",
+          "Protección a nivel de red IPsec",
+          "Protección a nivel de transporte SSL/TLS/WTLS",
+          "Redes privadas virtuales (VPN)"
+        ],
+        "topic": "Mecanismos de protección"
+      },
+      {
+        "themes": [
+          "Autenticación mediante cliente web portales cautivos",
+          "El protocolo SSH",
+          "Correo electrónico seguro"
+        ],
+        "topic": "Aplicaciones seguras"
+      },
+      {
+        "themes": [
+          "Introducción a la Criptografía y Algoritmos clásicosde Criptografía",
+          "Algoritmos de clave simétrica y funciones unidireccionales",
+          "Algoritmos de clave simétrica",
+          "Certificados digitales y PKI",
+          "Aplicaciones Criptográficas",
+          "Esteganografía"
+        ],
+        "topic": "Criptografía"
+      },
+      {
+        "themes": [
+          "Introducción al Análisis Forense y Tipos",
+          "Adquisición y recopilación de evidencias",
+          "Análisis de imágenes",
+          "Análisis Forense en sistemas y redes"
+        ],
+        "topic": "Análisis forense"
+      }
     ]
   },
   {
@@ -489,6 +1773,109 @@
       "Representación del conocimiento y razonamiento, búsqueda avanzada del conocimiento y razonamiento",
       "Evaluar las posibilidades de simulación de la inteligencia, para lo cual se estudiarán las técnicas de modelización del conocimiento",
       "Construir una noción de inteligencia que soporte despuéslas tareas de su simulación"
+    ],
+    "analyticProgram": [
+      {
+        "themes": [
+          "Historia de la inteligencia artificial",
+          "Cuestiones filosóficas",
+          "La prueba de Turing",
+          "Experimento de pensamiento del “Cuarto Chino” de Searle",
+          "Temas típicos en IA",
+          "Definiciones fundamentales",
+          "Comportamiento óptimo vs comportamiento actuando como humano",
+          "Razonamiento óptimo vs razonamiento actuando como humano",
+          "Preguntas filosóficas",
+          "Modelando el mundo",
+          "El rol de la heurística"
+        ],
+        "topic": "Tópicos Fundamentales en Sistemas Inteligentes"
+      },
+      {
+        "themes": [
+          "Problemas de espacio",
+          "Búsqueda de fuerza bruta (respiro primero, profundidad primero, profundidad primero con profundización iterativa)",
+          "Búsqueda del mejor primero (mejor primero genérico, algoritmo de Dijkstra, A*, admisibilidad de A*)",
+          "Juegos de dos jugadores (búsqueda mínima, poda alfa-beta)",
+          "Satisfacción de la restricción (backtracking o métodos de búsqueda local y seguimiento)"
+        ],
+        "topic": "Búsqueda y Satisfacción de la Restricción"
+      },
+      {
+        "themes": [
+          "Inferencia no monotécnica",
+          "Razonamiento probabilístico",
+          "Teorema de Bayes"
+        ],
+        "topic": "Representación del Conocimiento y Razonamiento"
+      },
+      {
+        "themes": [
+          "Algoritmos genéticos",
+          "Simulated annealing",
+          "Búsqueda local"
+        ],
+        "topic": "Búsqueda Avanzada"
+      },
+      {
+        "themes": [
+          "Incerteza",
+          "Razonamiento probabilístico",
+          "Redes Bayesianas",
+          "Conjuntos difusos y teoría de la posibilidad",
+          "Teoría de la decisión"
+        ],
+        "topic": "Representación Avanzada del Conocimiento y Razonamiento"
+      },
+      {
+        "themes": [
+          "Definición de agentes",
+          "Arquitectura de agentes",
+          "Agentes reactivos simples",
+          "Planeadores reactivos",
+          "Arquitecturas de capas",
+          "Ejemplos de arquitecturas y aplicaciones",
+          "Teoría de agentes",
+          "Acuerdos",
+          "Intenciones",
+          "Agentes de decisión teórica",
+          "Procesos de decisión de Markov (PDM)",
+          "Agentes que aprenden",
+          "Sistemas multiagente",
+          "Sistemas multiagente inspirados económicamente",
+          "Agentes colaborativos",
+          "Equipos de agentes",
+          "Modelando agentes",
+          "Aprendizaje multiagente"
+        ],
+        "topic": "Agentes"
+      },
+      {
+        "themes": [
+          "Gramáticas determinísticas y estocásticas",
+          "Algoritmos de parsing",
+          "Métodos basados en corpus",
+          "Recuperación de información",
+          "Traslación de lenguaje",
+          "Reconocimiento del habla"
+        ],
+        "topic": "Procesamiento de Lenguaje Natural"
+      },
+      {
+        "themes": [
+          "Definición y ejemplos de aprendizaje de máquina",
+          "Aprendizaje supervisado",
+          "Árboles de aprendizaje por decisión",
+          "Redes neuronales de aprendizaje",
+          "Redes de aprendizaje por creencia",
+          "Algoritmo del vecino más cercano",
+          "Teoría de aprendizaje",
+          "El problema del sobreajuste",
+          "Aprendizaje no supervisado",
+          "Aprendizaje por refuerzo"
+        ],
+        "topic": "Aprendizaje de Máquina y Redes Neuronales"
+      }
     ]
   },
   {
@@ -518,6 +1905,81 @@
       "Aplica los conocimientos de computación y de matemáticas apropiadas para la disciplina",
       "Demuestra su capacidad de análisis identificando y definiendo los requerimientos computacionales apropiados para la solución de problemas reales",
       "Utiliza técnicas y herramientas actuales necesarias para el desarrollo de soluciones a problemas donde se requiera la aplicación de la computación gráfica"
+    ],
+    "analyticProgram": [
+      {
+        "themes": [
+          "Objetivos y definiciones básicas",
+          "Breve historia",
+          "Aplicaciones (CAD, Gráficas, esquemas y modelos, Arte y animación porordenador, etc.)",
+          "Procesamiento de Imágenes",
+          "El sistema visual human",
+          "El modelo de cámara pin-hole",
+          "Interfaces gráficas",
+          "Arquitecturas gráficas",
+          "Introducción a OpenGL"
+        ],
+        "topic": "Introducción a los gráficos por ordenador - Sistemas Gráficos y Modelos"
+      },
+      {
+        "themes": [
+          "Objetivos y definiciones básicas",
+          "Sistemas de coordenadas",
+          "Transformaciones afines",
+          "Coordenadas Homogéneas",
+          "Concatenación de transformaciones",
+          "Implementación de transformaciones"
+        ],
+        "topic": "Transformaciones geométricas"
+      },
+      {
+        "themes": [
+          "Proyecciones clásicas y visualización en el ordenador",
+          "Definición y posicionamiento de la cámara virtual",
+          "Proyecciones simples y en OpenGL",
+          "Matrices de proyección"
+        ],
+        "topic": "Transformaciones de visualización"
+      },
+      {
+        "themes": [
+          "Luz y Color: Propiedades de la Luz",
+          "Diagrama cromático CI",
+          "Sistemas de color (RGB, CMY, YIQ, HSV, HLS)",
+          "Iluminación, Fundamentos y Modelo de Phong",
+          "Sombreado de polígonos",
+          "Funciones de OpenGL paraSombrear e Iluminación",
+          "Texturización"
+        ],
+        "topic": "Técnicas de Realismo I"
+      },
+      {
+        "themes": [
+          "Conceptos Avanzados de Realismo",
+          "Modelos de Iluminación Global",
+          "Traza de Rayos",
+          "Modelo de Radiosidad",
+          "Fundamentos de Povray y RayShader",
+          "Shaders actuale",
+          "Lenguaje de programación de Shaders"
+        ],
+        "topic": "Técnicas de Realismo II"
+      },
+      {
+        "themes": [
+          "Representación poligonal de objetos 3D",
+          "Curvas poligonales paramétricas y superficies",
+          "Representación de geometría sólida constructiva (CSG)",
+          "Representación implícita de curvas y superficies",
+          "Técnicas de subdivisión espacial",
+          "Modelos procedurales",
+          "Modelos deformables",
+          "Subdivisión desuperficies",
+          "Modelamiento de multi resolución",
+          "Reconstrucción"
+        ],
+        "topic": "Modelamiento Geométrico"
+      }
     ]
   },
   {
@@ -548,6 +2010,86 @@
       "Aplicar las diferentes técnicas de comunicación entreprocesos y grupos de procesos distribuidos",
       "Programar aplicaciones para entornos distribuidos",
       "Resolver problemas complejos y de respuesta en tiempo real utilizando conceptos y herramientas de programación concurrente y tiempo real, planificando sus tareas, así como un uso eficiente de la memoria"
+    ],
+    "analyticProgram": [
+      {
+        "themes": [],
+        "topic": "Conceptos fundamentales de la programación concurrente y en tiempo real"
+      },
+      {
+        "themes": [],
+        "topic": "Sincronización con Espera Activa"
+      },
+      {
+        "themes": [
+          "Semáforos",
+          "Regiones Críticas Condicionales",
+          "Monitores"
+        ],
+        "topic": "Comunicación por Memoria Compartida"
+      },
+      {
+        "themes": [],
+        "topic": "Paso de Mensajes"
+      },
+      {
+        "themes": [],
+        "topic": "Tiempo Real"
+      },
+      {
+        "themes": [
+          "Nociones básicas",
+          "Arquitectura de sistemas distribuidos",
+          "Middleware"
+        ],
+        "topic": "Introducción a la programación distribuida"
+      },
+      {
+        "themes": [
+          "Primitivas básicas de comunicación",
+          "Comunicación por UDP y TCP en Java",
+          "Marshalling",
+          "Comunicación de grupos"
+        ],
+        "topic": "Comunicación entre procesos distribuidos"
+      },
+      {
+        "themes": [
+          "Invocación remota",
+          "Comunicación entre objetos distribuidos",
+          "Llamada de procedimiento remoto"
+        ],
+        "topic": "Objetos distribuidos e invocación remota"
+      },
+      {
+        "themes": [
+          "Clustering",
+          "Tecnologías Grid y Cloud (virtualización)",
+          "Servicios Web",
+          "Computación móvil y ubicua",
+          "Redes P2P"
+        ],
+        "topic": "Tecnologías Distribuidas Modernas"
+      },
+      {
+        "themes": [
+          "Relojes físicos y lógicos",
+          "Estados globales",
+          "Exclusión mutua distribuida",
+          "Elecciones"
+        ],
+        "topic": "Sincronización en Sistemas Distribuidos"
+      },
+      {
+        "themes": [
+          "Transacciones",
+          "Control de concurrencia en transacciones",
+          "Control optimista de concurrencia",
+          "Ordenación pormarcas de tiempo",
+          "Recuperación de transacciones"
+        ],
+        "topic": "Transacciones y control de concurrencia"
+      }
     ]
   },
   {
@@ -579,6 +2121,98 @@
       "Conocer el diseño centrado en el usuario",
       "Analizar, diseñar y evaluar productos interactivos centrados en el usuario",
       "Identificar los aspectos principales y la relación entre tecnología, diversidad y accesibilidad, y saber evaluar la accesibilidad de lugares web"
+    ],
+    "analyticProgram": [
+      {
+        "themes": [
+          "Definición del concepto",
+          "Multidisciplinariedad",
+          "Historia",
+          "Conceptos fundamentales en IHC",
+          "Diseño centrado en el usuario"
+        ],
+        "topic": "Introducción a la interacción persona-ordenador"
+      },
+      {
+        "themes": [
+          "Tecnología de la interacción",
+          "El factor humano",
+          "El diseño"
+        ],
+        "topic": "Elementos de la IPO diseño, personas y tecnología"
+      },
+      {
+        "themes": [
+          "Diseño centrado en el usuario",
+          "Principios clave para el diseño con usabilidad",
+          "Ingeniería de la Usabilidad",
+          "El ciclo de vida de la Ingeniería de la Usabilidad",
+          "Diseño centrado en el usuario",
+          "Propuesta de Greenberg",
+          "Propuesta de diseño de la UPA (Asociación de profesional esde la usabilidad)",
+          "Diseño centrado en el uso",
+          "OVID Object, View and Interaction Design",
+          "Tendencia El desarrollo de interfaces de usuariobasado en modelos(Mb-UIDE)"
+        ],
+        "topic": "Diseño centrado en el usuario"
+      },
+      {
+        "themes": [
+          "El reto de la diversidad",
+          "Estrategias para afrontar la diversidad",
+          "Accesibilidad web",
+          "Evaluación de la accesibilidad"
+        ],
+        "topic": "Tecnología, diversidad y accesibilidad"
+      },
+      {
+        "themes": [],
+        "topic": "HCI en el Proceso de la Ingeniería del Software"
+      },
+      {
+        "themes": [
+          "Definiciones previas y estándares internacionales",
+          "Principios de diseño",
+          "La usabilidad como proceso y como producto",
+          "La calidad en uso y su relación con la usabilidad",
+          "Factores, atributos y métricas",
+          "Usabilidad y diseño"
+        ],
+        "topic": "Usabilidad y modelos de calidad centrados en la usabilidad"
+      },
+      {
+        "themes": [
+          "Análisis de tareas",
+          "Personas"
+        ],
+        "topic": "Conoce al usuario y sus tareas"
+      },
+      {
+        "themes": [
+          "La experiencia disponible las guías de estilo ylos patrones deinteracción/usabilidad",
+          "Tendencia El desarrollo de interfaces de usuariobasado en modelos(Mb-UIDE)",
+          "Especificación de la interfaz de usuario un ejemplo el lenguaje usiXML"
+        ],
+        "topic": "Especificación de la calidad"
+      },
+      {
+        "themes": [
+          "Métodos de evaluación de la usabilidad clasificación",
+          "Otros métodos de evaluación en búsqueda de la evaluación automática"
+        ],
+        "topic": "Evaluación de la usabilidad métodos y técnicas"
+      },
+      {
+        "themes": [
+          "Accesibilidad criterios y herramientas de evaluación",
+          "Criterios WAI",
+          "Section 508",
+          "Herramientas",
+          "Recomendaciones",
+          "Disposiciones legales"
+        ],
+        "topic": "Accesibilidad criterios y herramientas de evaluación"
+      }
     ]
   },
   {
@@ -606,6 +2240,28 @@
       "Estructurar un trabajo de investigación en los diferentes campos científicos",
       "Abordar y planificar un trabajo de investigación",
       "Redactar un trabajo científico"
+    ],
+    "analyticProgram": [
+      {
+        "themes": [],
+        "topic": "Investigación científica y tecnológica"
+      },
+      {
+        "themes": [],
+        "topic": "Búsqueda y difusión de la investigación"
+      },
+      {
+        "themes": [],
+        "topic": "Diseño de proyectos de investigación"
+      },
+      {
+        "themes": [],
+        "topic": "Desarrollo de un tema de investigación"
+      },
+      {
+        "themes": [],
+        "topic": "Redacción y presentación de trabajos científicos"
+      }
     ]
   },
   {
@@ -637,6 +2293,111 @@
       "Explicar los conceptos básicos del cloud computing: software as a service (SaaS), platform as a service (PaaS) e infrastructure as aservice (IaaS)",
       "Incorporar en la caja de herramientas del profesional las herramientas básicas para almacenar información en la Red, compartir archivos y trabajar en red",
       "Analizar el impacto en la productividad, los costes y la organización del trabajo del uso de soluciones de cloud computing en el día a día de la empresa"
+    ],
+    "analyticProgram": [
+      {
+        "themes": [
+          "Complejidad de los sistemas distribuidos",
+          "Definir la computación en la Nub",
+          "Examinar las características de la computación en la Nube",
+          "Evaluar la proposición de valor"
+        ],
+        "topic": "Introducción a un Grid"
+      },
+      {
+        "themes": [
+          "Infraestructura, plataformas, appliance virtuales, protocolos de comunicación, aplicaciones",
+          "Conectarse a la Nube",
+          "Computación bajo demanda (On-demand Computing)"
+        ],
+        "topic": "Entender la arquitectura de la Nube"
+      },
+      {
+        "themes": [
+          "Infraestructura como servicio (IaaS)",
+          "Plataforma como Servicio (PaaS",
+          "Software como Servicio (SaaS)",
+          "Autentificación de usuario Grid",
+          "Conceptos, arquitecturas y servicios"
+        ],
+        "topic": "Servicios y aplicaciones por tipo"
+      },
+      {
+        "themes": [
+          "Utilizar tecnologías devirtualización",
+          "Equilibrio de carga",
+          "La nube de Google",
+          "Hipervisores",
+          "Trasladar aplicaciones",
+          "Grid Middleware"
+        ],
+        "topic": "Entender la abstracción y la virtualización"
+      },
+      {
+        "themes": [
+          "Definir una línea de base y una métrica",
+          "Tiposde instancias y servidores",
+          "Capacidad de red",
+          "Globus"
+        ],
+        "topic": "Planificación de capacidad"
+      },
+      {
+        "themes": [
+          "Administración de ciclos de vida",
+          "Productos de administración de Nube",
+          "Estándares de administración de nubes emergentes",
+          "Recursos de administración de un Grid"
+        ],
+        "topic": "Administrar la Nube"
+      },
+      {
+        "themes": [
+          "Asegurar la Nube",
+          "Asegurar los datos, cifrado",
+          "Establecer identidad y presencia",
+          "Web Services Resource Framework (WSRF)"
+        ],
+        "topic": "Entender la seguridad en la Nube"
+      },
+      {
+        "themes": [
+          "Entender la arquitectura orientada a servicios",
+          "SOA Problemas de rendimiento en un Grid"
+        ],
+        "topic": "Servicios y aplicaciones"
+      },
+      {
+        "themes": [
+          "Creación de un mapa de funcionalidad",
+          "Atributos de aplicaciones",
+          "Economía en un Grid"
+        ],
+        "topic": "Trasladar aplicaciones a la Nube"
+      },
+      {
+        "themes": [
+          "Aprovisionar el almacenamiento en la Nube",
+          "Explorar las soluciones de copia de seguridad en la Nube",
+          "Interoperabilidad del almacenamiento en la Nube",
+          "Trabajar con software de productividad",
+          "Utilizar aplicaciones de productividad",
+          "Cloud público, privado e híbrido"
+        ],
+        "topic": "Trabajar con el almacenamiento basado en la Nube"
+      },
+      {
+        "themes": [
+          "Edge level",
+          "Core level",
+          "Optimizar recursos y almacenamiento",
+          "Protocolos de comunicación",
+          "Procesamiento de eventos complejos",
+          "Despliegue de tecnologías en Fog Computing",
+          "Internet of things - Fog Computing"
+        ],
+        "topic": "Fog Computing"
+      }
     ]
   },
   {
@@ -670,6 +2431,55 @@
       "Conocer los fundamentos teóricos de los lenguajes de programación y las técnicas de procesamiento léxico, sintáctico y semántico asociadas",
       "Aplicar los fundamentos, paradigmas y técnicas propiasde los sistemas inteligentes",
       "Desarrollar técnicas de aprendizaje computacional y diseñar e implementar aplicaciones y sistemas dedicados a extracción automática de información y conocimiento a partir de grandes volúmenes de datos"
+    ],
+    "analyticProgram": [
+      {
+        "themes": [
+          "Tipos de robots",
+          "Partes del robot",
+          "Sensores",
+          "Potencia",
+          "Control",
+          "Inteligencia",
+          "Comunicación"
+        ],
+        "topic": "Introducción a la robótica autónoma"
+      },
+      {
+        "themes": [
+          "Métodos de locomoción",
+          "Conceptos de locomoción",
+          "Cinemática de robots móviles",
+          "Sistemas de control simple"
+        ],
+        "topic": "Movilidad"
+      },
+      {
+        "themes": [
+          "Sensor y tecnologías de medición",
+          "Robot Vision",
+          "Incertidumbre de modelado"
+        ],
+        "topic": "Detección y percepción"
+      },
+      {
+        "themes": [
+          "Detección de la posición de un robot",
+          "Representación de creencias y modelo de error de odometría",
+          "Localización basada en mapas probabilísticos y localización de Markov",
+          "Métodos de localización de Montecarlo",
+          "Métodos de localización del filtro de Kalman"
+        ],
+        "topic": "Localización y Planificación de trayectorias"
+      },
+      {
+        "themes": [
+          "Evitación de obstáculos",
+          "Planificación de ruta",
+          "Localización y mapeo simultáneos (SLAM)"
+        ],
+        "topic": "Robots autónomos y navegación"
+      }
     ]
   },
   {
@@ -700,6 +2510,132 @@
       "Proceso de extraer información o patrones interesantes(no triviales, implícitos, previamente desconocidos y potencialmente útiles) desde grandes repositorios",
       "Comprender los conocimientos base de datos y los principios de la ciencia de la computación",
       "Decidir ante un problema práctico concreto qué tarea de minería de datos conviene utilizar, qué modelo se quiere obtener, qué técnica resultaría más adecuada de utilizar y cómo evaluar los resultados obtenidos"
+    ],
+    "analyticProgram": [
+      {
+        "themes": [],
+        "topic": "Introducción a la minería de datos"
+      },
+      {
+        "themes": [],
+        "topic": "Aprendizaje automático"
+      },
+      {
+        "themes": [],
+        "topic": "DBMS"
+      },
+      {
+        "themes": [],
+        "topic": "OLAP"
+      },
+      {
+        "themes": [],
+        "topic": "Estadísticas"
+      },
+      {
+        "themes": [],
+        "topic": "Objetivos de minería de datos"
+      },
+      {
+        "themes": [],
+        "topic": "Etapas del procesode minería de datos"
+      },
+      {
+        "themes": [],
+        "topic": "Técnicas de minería de datos"
+      },
+      {
+        "themes": [],
+        "topic": "Métodos de representación del conocimiento"
+      },
+      {
+        "themes": [],
+        "topic": "Almacén de datos y OLAP"
+      },
+      {
+        "themes": [],
+        "topic": "Data Warehouse y DBMS"
+      },
+      {
+        "themes": [],
+        "topic": "Modelo de datos multidimensionales"
+      },
+      {
+        "themes": [],
+        "topic": "Preprocesamiento de datos"
+      },
+      {
+        "themes": [],
+        "topic": "Limpieza de datos"
+      },
+      {
+        "themes": [],
+        "topic": "Transformación de datos"
+      },
+      {
+        "themes": [],
+        "topic": "Reducción de datos Discretización y generación de jerarquías conceptuales"
+      },
+      {
+        "themes": [],
+        "topic": "Algoritmos de minería de datos"
+      },
+      {
+        "themes": [],
+        "topic": "Reglas de asociación, clasificación ypredicción"
+      },
+      {
+        "themes": [],
+        "topic": "Regresión Lineal"
+      },
+      {
+        "themes": [],
+        "topic": "Clasificación estadística (bayesiana)"
+      },
+      {
+        "themes": [],
+        "topic": "Redes bayesianas"
+      },
+      {
+        "themes": [],
+        "topic": "Modelos lineales"
+      },
+      {
+        "themes": [],
+        "topic": "Modelos no lineales"
+      },
+      {
+        "themes": [],
+        "topic": "Métodos nearest neighbor"
+      },
+      {
+        "themes": [],
+        "topic": "Redes neuronales"
+      },
+      {
+        "themes": [],
+        "topic": "Máquinas de vectores soporte"
+      },
+      {
+        "themes": [],
+        "topic": "Descubrimiento deasociaciones"
+      },
+      {
+        "themes": [],
+        "topic": "Detección de anomalías"
+      },
+      {
+        "themes": [],
+        "topic": "Cluster"
+      },
+      {
+        "themes": [],
+        "topic": "Minería de datos en textos Naive Bayes multinomial"
+      },
+      {
+        "themes": [],
+        "topic": "Minería de datos engrafos y web Page rank"
+      }
     ]
   },
   {
@@ -730,6 +2666,40 @@
       "Aplicar las técnicas de computación evolutiva a problemas reales",
       "Comprender la potencialidad de la técnica y sus limitaciones más importantes",
       "Comparar a los algoritmos genéticos con otras técnicas de optimización y búsqueda de soluciones evaluando la calidad y performance"
+    ],
+    "analyticProgram": [
+      {
+        "themes": [],
+        "topic": "Introducción a la programación evolutiva"
+      },
+      {
+        "themes": [],
+        "topic": "Conceptualización dentro de la programación evolutiva"
+      },
+      {
+        "themes": [],
+        "topic": "Técnicas de selección"
+      },
+      {
+        "themes": [],
+        "topic": "Técnicas de cruce"
+      },
+      {
+        "themes": [],
+        "topic": "Mutación y ajuste de parámetros"
+      },
+      {
+        "themes": [],
+        "topic": "Manejo de restricciones y operadores avanzados"
+      },
+      {
+        "themes": [],
+        "topic": "Algoritmos basados en enjambres"
+      },
+      {
+        "themes": [],
+        "topic": "Programación de expresión del gen (GEP)"
+      }
     ]
   },
   {
@@ -761,6 +2731,64 @@
     "sommelier": "En la actualidad se ha encontrado el problema principal de cómo gestionar grandes volúmenes de datos de manera eficiente. Para ello se han desarrollado nuevas tecnologías, hardware y software para poder gestionar grandes volúmenesde datos y poder analizarlos con el fin de obtener la información relevante que nos permita interpretar mejor la realidad y tomar decisiones es lo que conocemos como Big Data. A tenor del fenómeno Big Data han surgido otras áreas de conocimiento especializadas como Social Business Intelligence, Text Mining, o Cloud Computing, y otras existentes han experimentado un importante desarrollo como Data Mining, Knowledge Discovery for Big Data, Business Intelligence o Data Science.",
     "competencies": [
       ""
+    ],
+    "analyticProgram": [
+      {
+        "themes": [
+          "Gestión y análisis y visualización del Big Data",
+          "Bases de datos NoSQL",
+          "Escalabilidad, eficiencia y efectividad",
+          "Arquitectura de BBDD e independencia de datos",
+          "Large small data"
+        ],
+        "topic": "Introducción al Big Data"
+      },
+      {
+        "themes": [
+          "Función de pérdida (Loss function)",
+          "Estrategias de validación (leaving-one-out, cross-validation)",
+          "Clustering paramétrico y no parámetrico",
+          "Deep Learning RBM, Auto-encoders, DBN/DNN",
+          "Learning from Data Streams"
+        ],
+        "topic": "Aprendizaje automático en grandes volúmenes de datos"
+      },
+      {
+        "themes": [
+          "Modelo de programación en Hadoop Mapreduce",
+          "Aplicaciones en el paradigma Mapreduce",
+          "Algoritmos en grandes volúmenes"
+        ],
+        "topic": "Aplicaciones con datos intensivos"
+      },
+      {
+        "themes": [
+          "Visualización de datos crudos",
+          "Representaciones gráficas de datos procesados",
+          "Tipos de visualización de datos según las necesidades del análisis"
+        ],
+        "topic": "Visualización de datos"
+      },
+      {
+        "themes": [
+          "Pig Latin y Funciones definidas por elusuario",
+          "Scala",
+          "Apache Spark",
+          "GraphX",
+          "Bagel",
+          "Spark SQL",
+          "MLib"
+        ],
+        "topic": "Herramientas de última generación"
+      },
+      {
+        "themes": [
+          "Arquitecturas de propósito general combinar procesamiento en lotes y stream analytics",
+          "Arquitecturas Lambda",
+          "Lambdoop middleware y framework de desarrollo sobreuna arquitectura Lambda"
+        ],
+        "topic": "Big Data y Tiempo Real"
+      }
     ]
   },
   {
@@ -790,6 +2818,48 @@
       "La computación BioInspirada es un campo dedicado a abordar problemas complejos utilizando métodos computacionales basados en los principios de diseño encontrados en la naturaleza. Este curso está fuertemente basado en los fundamentos de los sistemas complejos y la biología teórica",
       "El objetivo es una comprensión profunda de las arquitecturas distribuidas de los sistemas complejos naturales, y cómo se pueden usar para producir herramientas informáticas con mayor robustez, escalabilidad y flexibilidad, y que puedan interactuar de manera más efectiva con los humanos",
       "Es un campo multidisciplinario fuertemente basado en la biología, la complejidad, la informática, la informática, la ciencia cognitiva, la robótica y la cibernética"
+    ],
+    "analyticProgram": [
+      {
+        "themes": [],
+        "topic": "Computación Basada en Modelos Naturales"
+      },
+      {
+        "themes": [],
+        "topic": "Algoritmos evolutivos"
+      },
+      {
+        "themes": [],
+        "topic": "Redes neuronales"
+      },
+      {
+        "themes": [],
+        "topic": "Algoritmos inmunológicos"
+      },
+      {
+        "themes": [],
+        "topic": "Algoritmos basados en enjambres (swarm intelligence)"
+      },
+      {
+        "themes": [],
+        "topic": "Algoritmos basados en colonias de hormigas"
+      },
+      {
+        "themes": [],
+        "topic": "Algoritmos Clustering de hormigas"
+      },
+      {
+        "themes": [],
+        "topic": "Optimización Basada en Nubes de Partículas (Particle Swarm Optimization)"
+      },
+      {
+        "themes": [],
+        "topic": "Mapas de auto organización"
+      },
+      {
+        "themes": [],
+        "topic": "Aprendizaje profundo"
+      }
     ]
   },
   {
@@ -814,12 +2884,102 @@
       },
       "evaluationSystem": "G"
     },
-    "sommelier": "En este curso se exponen temas avanzados de algoritmos y estructura de datos que sirven como continuación del curso de programación orientada a objetos pero centrado en la programación de estructuras de datos simples y complejas. Por tanto, los aspectos que se estudiarán serán principalmente cómo se definen y cómo se implementan las estructuras de datos e incorporarlos a cualquier entorno de programación. Así mismo, como puede observarse, este curso continúa con la formación de un programador en cualquier ámbito o especialidad, continuando posteriormente en el curso de “Análisis y diseño de algoritmos”, donde se verá algoritmia y optimización en estructuras de datos complejas.",
+    "sommelier": "En este curso se exponen temas avanzados de algoritmos y estructura de datos que sirven como continuación del curso de programación orientada a objetos pero centrado en la programación de estructuras de datos simples y complejas. Por tanto, los aspectos que se estudiarán serán principalmente cómo se definen y cómo se implementan las estructuras de datos e incorporarlos a cualquier entorno de programación. Así mismo, como puede observarse, este curso continúa con la formación de un programador en cualquier ámbito o especialidad, continuando posteriormente en el curso de “ Análisis y diseño de algoritmos”, donde se verá algoritmia y optimización en estructuras de datos complejas.",
     "competencies": [
       "Evalúa las propiedades de las estructuras de datos estableciendo su utilidad en las aplicaciones en ciencia e ingeniería comprometiéndose en el uso adecuado que conlleve a resolver problemas de la vida real",
       "Demuestra su capacidad de análisis diseñando, implementando estructuras que permitan dar solución, trabajando en equipo en los diversos problemas en la ciencia e ingeniería",
       "Comprende los conocimientos básicos de Algorítmica y ejecuta los principios de la ciencia de la computación",
       "Describe los procesos de construcción de Algoritmos identificando las propiedades asociadas que se generan de ellos apreciando su influencia en la ciencia e ingeniería"
+    ],
+    "analyticProgram": [
+      {
+        "themes": [],
+        "topic": "Definición de problemas básicos de estructura de datos avanzados fibonacci Heaps, Van Emde Boas Priority Queues"
+      },
+      {
+        "themes": [],
+        "topic": "Estructuras de Datos Dinámicos"
+      },
+      {
+        "themes": [],
+        "topic": "Descripción de Algoritmos para Cadenas con el temadel algoritmo Rabin Karp Fingerprinting"
+      },
+      {
+        "themes": [],
+        "topic": "Flujo Máximo con los temas de Flujo de costo mínimo y Bipartite Matching"
+      },
+      {
+        "themes": [],
+        "topic": "Programación Lineal"
+      },
+      {
+        "themes": [],
+        "topic": "Formulación de problemas de programación lineal"
+      },
+      {
+        "themes": [],
+        "topic": "Dualidad"
+      },
+      {
+        "themes": [],
+        "topic": "Simplex"
+      },
+      {
+        "themes": [],
+        "topic": "Punto Interior"
+      },
+      {
+        "themes": [],
+        "topic": "Algoritmo Ellipsoid"
+      },
+      {
+        "themes": [],
+        "topic": "Algoritmos en Línea"
+      },
+      {
+        "themes": [],
+        "topic": "Ski Rental"
+      },
+      {
+        "themes": [],
+        "topic": "Problemas de River Search"
+      },
+      {
+        "themes": [],
+        "topic": "El problema de los k-server"
+      },
+      {
+        "themes": [],
+        "topic": "Algoritmos de Aproximación"
+      },
+      {
+        "themes": [],
+        "topic": "NP-Hardness"
+      },
+      {
+        "themes": [],
+        "topic": "Algoritmos de aproximación Greedy"
+      },
+      {
+        "themes": [],
+        "topic": "Programación Dinámica"
+      },
+      {
+        "themes": [],
+        "topic": "Geometría Computacional"
+      },
+      {
+        "themes": [],
+        "topic": "Convex Hull"
+      },
+      {
+        "themes": [],
+        "topic": "Line-Intersection"
+      },
+      {
+        "themes": [],
+        "topic": "Sweep Lines"
+      }
     ]
   },
   {
@@ -851,6 +3011,86 @@
       "Evaluar la operatividad de los sistemas computarizados, el uso de recursos de confiabilidad de la información y la seguridad que debe existir en la instalación",
       "Conocer el software de auditoría existente en el mercado, sus aplicaciones y formas de utilización",
       "Elaborar los dictámenes de auditoría para que pueda realizar funciones de auditoría de sistemas"
+    ],
+    "analyticProgram": [
+      {
+        "themes": [
+          "Similitudes y diferencias de los conceptos evaluación, control y supervisión, aplicaciones prácticas del uso de estos conceptos",
+          "Tipos y Formas de auditorías",
+          "Auditoría de Sistemas conceptos, objetivos y ámbito de trabajo",
+          "Clases de Auditoría de Sistemas",
+          "Revisión de los conceptos de sistemas, teoría de sistemas y el enfoque integral de laauditoría",
+          "Desarrollo de proyectos de innovación tecnológica",
+          "Organización, administración y funcionamiento deuna empresa computarizada",
+          "Sistemas de control conceptos y tipos"
+        ],
+        "topic": "Introducción a la Auditoría"
+      },
+      {
+        "themes": [
+          "Etapas y procesos de la auditoría",
+          "Estructura del Sistema de Control de Tecnologíasde Información",
+          "Presentación de las Normas a utilizar en el desarrollo del curso",
+          "Presentación y exploración de las Normas a utilizar en Internet",
+          "Herramientas de software en cada proceso de auditoría"
+        ],
+        "topic": "Sistema de Control de Tecnologías de Información"
+      },
+      {
+        "themes": [
+          "Controles organizacionales y Controles administrativos",
+          "Controles operativos al uso de los recursos de cómputo",
+          "Controles operativos al uso de la información",
+          "Controles operativos a la confiabilidad de la información"
+        ],
+        "topic": "Examen de gestión de TI Gerencia de Sistemas y de los servicios informáticos"
+      },
+      {
+        "themes": [
+          "Revisión de los conceptos de Seguridad informática y de las normas existentes",
+          "Aplicación de Norma NTP INDECOPI/ISO"
+        ],
+        "topic": "Examen de Seguridad Informática"
+      },
+      {
+        "themes": [
+          "Controles de entrada y salida",
+          "Controles de proceso",
+          "Controles de librería",
+          "Controles de acceso lógico y físico",
+          "Análisis del sistema y de los procedimientos operativos",
+          "Puntos fuertes y débiles de los controles internos y del sistema de seguridad",
+          "Determinación de Criterios a aplicar",
+          "Recomendaciones y análisis comparativo entre grupos"
+        ],
+        "topic": "Examen de Sistemas Aplicativos"
+      },
+      {
+        "themes": [
+          "Ciclo de vida de un proyecto",
+          "Controles de la fase de planeamiento",
+          "Controles de la fase de ejecución",
+          "Controles de la fase de implantación o lanzamiento",
+          "Controles administrativos y de seguimiento",
+          "Determinación de Criterios a aplicar"
+        ],
+        "topic": "Examen de Proyectos Informáticos"
+      },
+      {
+        "themes": [
+          "Normas de Gestión TI",
+          "Dominios y Puntos de Control",
+          "Diferencia de aplicación con la metodología seguida"
+        ],
+        "topic": "Modelo Cobit"
+      },
+      {
+        "themes": [
+          "Nuevo enfoque de auditoría preventiva que permite el Aseguramiento de la calidad de los sistemas de información",
+          "Aplicación de Norma ISO"
+        ],
+        "topic": "Examen de Aseguramiento de Calidad"
+      }
     ]
   },
   {
@@ -884,6 +3124,71 @@
       "Aplica los conocimientos de biología, computación y matemáticas apropiadas para el análisis y generación de información utilizadas en el campo de la biología computacional",
       "Demuestra su capacidad de análisis identificando y definiendo los requerimientos computacionales apropiados para la solución de problemas reales",
       "Utiliza técnicas y herramientas adecuadas para el análisis y generación de información bioinformática"
+    ],
+    "analyticProgram": [
+      {
+        "themes": [
+          "Conceptos básicos de Biología Molecular",
+          "Problemas clásicos deBioinformática",
+          "Herramientas de recolección y almacenamiento de secuencias de laboratorio",
+          "Recursos de Software, introducción a BLAST, 43",
+          "Omega",
+          "Cadenas, Grafos y algoritmos"
+        ],
+        "topic": "Introducción a la Biología Computacional"
+      },
+      {
+        "themes": [
+          "Introducción al alineamiento de secuencias",
+          "comparación de pares de secuencias",
+          "Alineamiento de secuencias Global",
+          "Alineamiento de secuencias múltiples",
+          "Cadenas Ocultas de Markov",
+          "Métodos exactos, aproximados y heurísticos del alineamiento de secuencias",
+          "Problemas derivados del alineamiento de secuencias"
+        ],
+        "topic": "Alineamiento de Secuencias"
+      },
+      {
+        "themes": [
+          "El Problema del Clustering",
+          "Clustering Jerárquico",
+          "Algoritmo Neighbor Joining",
+          "Algoritmo Average Linkage",
+          "Clustering no Jerárquico o K- Means"
+        ],
+        "topic": "Clustering"
+      },
+      {
+        "themes": [
+          "Introducción a la Filogenia",
+          "Algoritmos Comunes",
+          "Aplicaciones Biológicas",
+          "Algoritmos Exactos",
+          "Algoritmos Probabilísticos"
+        ],
+        "topic": "Árboles Filogenéticos"
+      },
+      {
+        "themes": [
+          "El Problema de Double Digest y Partial Digest",
+          "Técnicas utilizadas en el mapeo de secuencias",
+          "Mapeo con non – Unique Probes",
+          "Mapeo con Unique Probes",
+          "Grafos de Interva los",
+          "Mapeo con señales de frecuencias derestricción"
+        ],
+        "topic": "Mapeo de Secuencias"
+      },
+      {
+        "themes": [
+          "Fundamentos biológicos de las proteínas",
+          "Motivación para la predicción de estructuras de las proteínas",
+          "Alineamiento rígido de proteínas",
+          "Técnica de alineamiento por Hashing geométrico"
+        ],
+        "topic": "Introducción a la estructura de proteínas"
+      }
     ]
   },
   {
@@ -914,6 +3219,119 @@
       "Desarrollar habilidades para realizar el aseguramiento de la calidad de software en el ciclo de vida del desarrollo de software",
       "Trabajar en equipo: participar, analizar y dirigir una etapa de un proyecto de software y conocer los roles y procedimientos de acuerdo a las mejores prácticas nacionales e internacionales en materia de calidad de software",
       "Evaluar la calidad de los resultados del proyecto de software y diseñar el proceso de sostenibilidad del proyecto"
+    ],
+    "analyticProgram": [
+      {
+        "themes": [
+          "La calidad del software",
+          "Ingeniería de software y calidad",
+          "Estándares y modelos de evaluación y mejora de losprocesos software",
+          "Introducción a la calidad total",
+          "Costos de errores de SW",
+          "Entorno de la Calidad de SW"
+        ],
+        "topic": "Fundamentos de la Calidad de Software"
+      },
+      {
+        "themes": [
+          "Introducción en la gestión de la calidad planificar, organizar, gestionar el personal, liderar, y controlar",
+          "Gestión de riesgos definición, identificación, análisis, planificación, y monitoreo",
+          "Gestión de proyectos de SW",
+          "Plan de desarrollo de SW"
+        ],
+        "topic": "Modelos de procesos de software - Gestión de la calidad"
+      },
+      {
+        "themes": [
+          "Factores que Determinan la Calidad de Software (McCall)",
+          "Situación Actual de la Industria del Software",
+          "Estándares y Modelos de Evaluación y Mejora de los Procesos de Software",
+          "ISO 9000 (Objetivos, Principios)",
+          "ISO 91262001 Modelo de Calidad de Software (Externae Interna)",
+          "ISO/IEC 15504 (SPICE) Componentes, Dimensiones, Evaluación de Atributos y Certificación"
+        ],
+        "topic": "Procesos y Métodos de calidad de software"
+      },
+      {
+        "themes": [
+          "Teoría y Ontología de la medición",
+          "Estándares y metodologías",
+          "Método de definición",
+          "Métricas de software",
+          "PSP (Personal Software Process)",
+          "Planeación en PS",
+          "Métricas del PSP"
+        ],
+        "topic": "Métricas de calidad de software"
+      },
+      {
+        "themes": [
+          "Línea de producto",
+          "Áreas de maduración técnica ingeniería de SW, gestión técnica, y gestión de la empresa",
+          "Gestión de la configuración de software (SCM)",
+          "Planeamiento de la SCM"
+        ],
+        "topic": "Configuración de Software"
+      },
+      {
+        "themes": [
+          "Organización",
+          "Actividades",
+          "Plan SQA",
+          "Implementación SQA"
+        ],
+        "topic": "Aseguramiento de Calidad de Software"
+      },
+      {
+        "themes": [
+          "Modelo CMMI Foco, ¿Qué es y qué no es CMMI?",
+          "Cómo utilizar CMMI",
+          "Conceptos claves Capacidad, Desempeño, Madurez eInstitucionalización",
+          "Análisis de costos y beneficios de la implementación del modelo CMMI",
+          "Estructura y representación del modelo CMMI",
+          "Áreas de procesos, Metas y Prácticas Específicas de CMMI",
+          "Verificación y Calidad"
+        ],
+        "topic": "El CMMI"
+      },
+      {
+        "themes": [
+          "El proceso de prueba",
+          "EL TP",
+          "TMMi versus TPI",
+          "Niveles del TMMi",
+          "Modelos de Mejora de Procesos",
+          "Prioridades en TI",
+          "¿Qué es y qué no es ITIL?",
+          "ITIL Características, Objetivos, Fundamentos, Mejora Progresiva, Áreas Claves",
+          "Relación con Otras Metodologías",
+          "Aspectos Importantes",
+          "Organización y Componentes de una Organización",
+          "Perspectivas",
+          "Implementación de ITIL"
+        ],
+        "topic": "El TMMi"
+      },
+      {
+        "themes": [
+          "Aproximación a la calidad",
+          "Medición de los modelos",
+          "Calidad de datos",
+          "Aspectos de gestión",
+          "Estudio de casos prácticos"
+        ],
+        "topic": "Calidad de Información"
+      },
+      {
+        "themes": [
+          "Modelo de calidad NTP- ISO/IEC 12207 – Procesos delciclo de vida del software",
+          "Procesos principales, procesos de apoyo, procesos organizativos",
+          "Estrategias de Implementación",
+          "Planes de calidad de software",
+          "Modelo de calidad NTP- ISO/IEC 15504 – Evaluación y Mejora Continua del software"
+        ],
+        "topic": "Estándares y normas de Software"
+      }
     ]
   },
   {
@@ -944,6 +3362,44 @@
       "Reconoce las técnicas básicas para construir un compilador",
       "Diseña compiladores",
       "Implementa pequeños compiladores"
+    ],
+    "analyticProgram": [
+      {
+        "themes": [
+          "Historia de los lenguajes de programación",
+          "Breve revisión de los paradigmas de programación",
+          "Lenguajes procedurales",
+          "Lenguajes orientados a objetos",
+          "Lenguajes funcionales",
+          "Lenguajes declarativos y no algorítmicos",
+          "Lenguajes de scripts",
+          "Los efectos de la escalabilidad en las metodologías de programación"
+        ],
+        "topic": "Visión General de los Lenguajes de Programación"
+      },
+      {
+        "themes": [
+          "Comparación entre intérpretes y compiladores",
+          "Fases de traducción del lenguaje (análisis léxico, análisis sintáctico, generación decódigo, optimización)",
+          "Aspectos de traducción dependientes e independientes de la máquina"
+        ],
+        "topic": "Introducción a la Traducción de Lenguajes"
+      },
+      {
+        "themes": [
+          "Aplicación de las expresiones regulares en analizadores léxicos",
+          "Análisis sintáctico (sintaxis concreta y abstracta, árboles de sintaxis abstracta)",
+          "Aplicación de las gramáticas libres de contexto enun parseo dirigido por tablas orecursivo descendente",
+          "Administración de tablas de símbolos",
+          "Generación de código por seguimiento de un árbol",
+          "Operaciones específicas de la arquitectura selecciónde instrucciones y alocación de registros",
+          "Técnicas de optimización",
+          "El uso de herramientas como soporte en el procesode traducción y las ventajas deéste",
+          "Librerías de programas y compilación separada",
+          "Construcción de herramientas dirigidas por la sintaxis"
+        ],
+        "topic": "Sistemas de Traducción del Lenguaje"
+      }
     ]
   },
   {
@@ -977,6 +3433,74 @@
       "Ilustrar a los estudiantes los principales aspectos de modelado, algorítmicos y de optimización de forma de que ellos mismos puedan implementar (diseñar, entrenar y validar) sus propios modelos",
       "Analizar modelos simples basados en redes convolucionales que permiten explicar matemáticamente algunas de las propiedades claves para su éxito",
       "Ilustrar aplicaciones específicas en los campos de visión artificial y procesamiento de imágenes"
+    ],
+    "analyticProgram": [
+      {
+        "themes": [],
+        "topic": "Introducción al deep learning"
+      },
+      {
+        "themes": [
+          "Métodos lineales de clasificación",
+          "Métodos no lineales",
+          "Métodos ensamblados"
+        ],
+        "topic": "Aprendizaje supervisado"
+      },
+      {
+        "themes": [],
+        "topic": "Representaciones de alto nivel, características en imágenes"
+      },
+      {
+        "themes": [
+          "Algoritmo de backpropagation"
+        ],
+        "topic": "Formulación del aprendizaje como un problema de optimización"
+      },
+      {
+        "themes": [
+          "Multilayer Perceptron (MLP)",
+          "Fase de entrenamiento y validación en imágenes",
+          "Hiperparámetros",
+          "Evaluación del rendimientode los modelos deep learning",
+          "Entender el comportamiento del modelo durante la fase de entrenamiento",
+          "Reducción de overffiting"
+        ],
+        "topic": "Redes neuronales conectadas"
+      },
+      {
+        "themes": [
+          "Arquitectura",
+          "Capas",
+          "Operadores"
+        ],
+        "topic": "Redes neuronales de convolución"
+      },
+      {
+        "themes": [
+          "Visualización de representaciones",
+          "Propiedades: invarianza, covarianza, redundanciae invertibilidad",
+          "Image augmentation"
+        ],
+        "topic": "Análisis de redes neuronales"
+      },
+      {
+        "themes": [
+          "Predicción de series de tiempo com MLP"
+        ],
+        "topic": "Redes neuronales recurrentes (R-NN)"
+      },
+      {
+        "themes": [
+          "Predicción de series de tiempo con R NN - LSTM",
+          "Comprensión de R-NN LSTM con estado"
+        ],
+        "topic": "Redes de corta-larga memoria (LSTM)"
+      },
+      {
+        "themes": [],
+        "topic": "Redes adversarias generativas (GAN)"
+      }
     ]
   },
   {
@@ -1010,6 +3534,59 @@
       "Diseña y escribe programas residentes en memoria (drivers)",
       "Programa los recursos hardware básicos de E/S del PC",
       "Utiliza un entorno de desarrollo y depuración de bajo nivel"
+    ],
+    "analyticProgram": [
+      {
+        "themes": [
+          "Modelo De Programación Del 80x86 De Intel",
+          "Arquitectura básica de un sistema digital basado en microprocesador",
+          "Arquitectura básica de un microprocesador",
+          "Funcionamiento de un sistema basado en microprocesador",
+          "Familia 80x86 como caso particular",
+          "Registros internos y arquitectura del 80x86",
+          "Acceso y organización de la memoria",
+          "Modos de direccionamiento",
+          "Directivas y operadores del ensamblador del 80x86",
+          "Estructura de un programa en ensamblador",
+          "Instrucciones del ensamblador transferencia de datos, aritméticas y lógicas, de control, de interrupción, etc.",
+          "Mapa de Memoria del sistema PC",
+          "Interrupciones mecanismo y vectores de interrupción"
+        ],
+        "topic": "Sistemas digitales basados en microprocesador"
+      },
+      {
+        "themes": [
+          "Distintos modelos del lenguaje C",
+          "Convenios de nomenclatura, paso deparámetros, devoluciónde resultados",
+          "Interrupciones BIOS",
+          "Interrupciones DOS",
+          "Ejecución de programas desde el DOS",
+          "PSP (Prefijo de Segmento de Programa)",
+          "Tipos de programas EXE, COM, y residentes (TSR)"
+        ],
+        "topic": "Interfaz del ensamblador con el lenguaje C"
+      },
+      {
+        "themes": [
+          "Técnicas de programación de entradas y salidas (E/S)",
+          "Sondeo",
+          "Interrupción",
+          "DMA",
+          "Gestión y programación de las interrupciones en el 80x86 el controlador programable de interrupciones 8259A"
+        ],
+        "topic": "Entrada/Salida"
+      },
+      {
+        "themes": [
+          "Teclado",
+          "Timer",
+          "Reloj de Tiempo Real (RTC)",
+          "Controladora de Vídeo y Pantalla",
+          "Puerto Paralelo",
+          "Impresora"
+        ],
+        "topic": "PROGRAMACIÓN DE LOS RECURSOS HARDWARE BÁSICOSDELPC"
+      }
     ]
   }
 ]

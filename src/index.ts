@@ -1,7 +1,7 @@
 /* eslint-disable sort-keys-fix/sort-keys-fix, sort-keys */
 import { PDFExtract, PDFExtractOptions, PDFExtractResult } from 'pdf.js-extract'
 
-import { ICourse, ISyllabusCourse } from './types'
+import { IAnalyticContent, ICourse, ISyllabusCourse } from './types'
 import { cleanGeneralInfo, writeFile } from './utils'
 
 // Key words from the syllabus main page
@@ -22,6 +22,7 @@ const EVALUATION_SYSTEM = process.env.EVALUATION_SYSTEM as string
 const THEORY = process.env.THEORY as string
 const LABORATORY = process.env.LABORATORY as string
 const PRACTICE = process.env.PRACTICE as string
+const BIBLIOGRAPHY = process.env.BIBLIOGRAPHY as string
 
 const pdfExtract = new PDFExtract()
 const options: PDFExtractOptions = {}
@@ -152,6 +153,36 @@ const extractData = async () => {
         text: courseContent
       }).slice(1)
       const competenciesArray = competencies.split('-').map(c => c.trim())
+      const analyticContent: IAnalyticContent[] = []
+      cleanGeneralInfo({
+        positionEndSlice  : courseContent.indexOf(BIBLIOGRAPHY),
+        positionStartSlice: courseContent
+          .indexOf(ANALYTIC_PROGRAM) + ANALYTIC_PROGRAM.length,
+        text: courseContent
+      })
+      .split(/(\d+\.)/)
+      .slice(1)
+      .reduce<string[][]>((acc, e) => {
+        if (!e.match(/(\d\.)/))
+          acc.push(e.trim().split(/\w\./).map(v => v.trim()))
+
+        return acc
+      }, [])
+      .forEach(e => {
+        const topic = e[0].replace(/2, /g, '2.')
+        const themes = e
+          .filter((t, index) => index !== 0)
+          .map(v => v
+            .replace(/802\//g, '802.')
+            .replace(/2, /g, '2.')
+            .replace(/etc/g, 'etc.')
+          )
+
+        analyticContent.push({
+          themes,
+          topic
+        })
+      })
 
       const generalInfo = {
         course: {
@@ -168,7 +199,8 @@ const extractData = async () => {
       fullContent.push({
         generalInfo,
         sommelier,
-        competencies: competenciesArray
+        competencies   : competenciesArray,
+        analyticProgram: analyticContent
       })
     })
 
