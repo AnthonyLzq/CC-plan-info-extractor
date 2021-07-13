@@ -21,7 +21,15 @@
       },
       "evaluationSystem": "G"
     },
-    "sommelier": "Fundamentos de la programación será la asignatura que sentará las bases y establecerá los conceptos básicos y principales de la carrera de Ciencia de la Computación, siendo esta la asignatura base de la que el alumno desarrollará sus destrezas hacia un científico de la computación. En este sentido, este curso introducirá a los participantes en los conceptos fundamentales de este arte. Los tópicos incluyen tipos de datos, estructuras de control, funciones, listas, recursividad y la mecánica de la ejecución, prueba y depuración."
+    "sommelier": "Fundamentos de la programación será la asignatura que sentará las bases y establecerá los conceptos básicos y principales de la carrera de Ciencia de la Computación, siendo esta la asignatura base de la que el alumno desarrollará sus destrezas hacia un científico de la computación. En este sentido, este curso introducirá a los participantes en los conceptos fundamentales de este arte. Los tópicos incluyen tipos de datos, estructuras de control, funciones, listas, recursividad y la mecánica de la ejecución, prueba y depuración.",
+    "competencies": [
+      "Conocimientos básicos sobre el uso y programación de los ordenadores, sistemas operativos, bases de datos y programas informáticos con aplicación en ingeniería",
+      "Conocimiento de la estructura, organización, funcionamiento e interconexión de los sistemas informáticos, los fundamentos de su programación, y su aplicación para la resolución de problemas propios de la ingeniería",
+      "Escribir algoritmos básicos para la resolución de problemas científicos",
+      "Conocimiento de la metodología de programación",
+      "Adquisición de competencias específicas de la utilización de los lenguajes de programación",
+      "Desarrollar aplicaciones en base a problemas de lógica computacional"
+    ]
   },
   {
     "generalInfo": {
@@ -45,7 +53,15 @@
       },
       "evaluationSystem": "G"
     },
-    "sommelier": "Para el estudiante de Ciencia de Computación, es importante conocer, saber y aplicar los paradigmas más importantes de la programación como son la programación estructurada y la programación orientada objetos, estar preparado y adaptarse a nuevos paradigmas. En el curso de programación orientada a objetos está diseñado de manera que el final el estudiante haber desarrollado competencias que le permitirán saber, definir, aplicar los principios fundamentales del paradigma orientadoa objetos que son las clases, objetos, relaciones entre objetos y clases, herencia, polimorfismo, clases abstractas, clases genéricas, colecciones, persistencia y las interfaces gráficas de usuarios para cual utilizará un lenguaje de programación orientado a objetos como herramienta para soluciones concretas."
+    "sommelier": "Para el estudiante de Ciencia de Computación, es importante conocer, saber y aplicar los paradigmas más importantes de la programación como son la programación estructurada y la programación orientada objetos, estar preparado y adaptarse a nuevos paradigmas. En el curso de programación orientada a objetos está diseñado de manera que el final el estudiante haber desarrollado competencias que le permitirán saber, definir, aplicar los principios fundamentales del paradigma orientadoa objetos que son las clases, objetos, relaciones entre objetos y clases, herencia, polimorfismo, clases abstractas, clases genéricas, colecciones, persistencia y las interfaces gráficas de usuarios para cual utilizar á un lenguaje de programación orientado a objetos como herramienta para soluciones concretas.",
+    "competencies": [
+      "Argumenta los fundamentos y técnicas orientadas a objetos para diseñar y modelar clases y objetos implementando constructores y destructores",
+      "Argumenta y modela valorando las relaciones entre objetos de uso, asociación, agregación y composición; y entre clases la herencia para diseñar formulando soluciones a problemas de la realidad",
+      "Identifica y aplica la herencia entre clases, clases abstractas, interfaces para implementar clases polimórficas; también clases genéricas y las colecciones para dar solución a problemas valorando las técnicas orientadas a objetos",
+      "Gestiona las condiciones de error que interrumpen el flujo normal de ejecución de un programa mediante la gestión de excepciones predefinidas y propias",
+      "Explica los fundamentos e implementa aplicaciones que crean y manipulan la serialización de objetos, salvar y recuperar información",
+      "Identifica los hilos valorando la programación concurrente. Describe la arquitectura de tres capas, la implementación en consola y visual. Conocelas Interfaces gráficas de usuario (GUI), valorando los componentes y organizadores para diseñar la interfaz"
+    ]
   },
   {
     "generalInfo": {
@@ -69,7 +85,10 @@
       },
       "evaluationSystem": "G"
     },
-    "sommelier": "Este curso tiene por objetivo permitir al alumno gestionar adecuadamente el hardware y el software de un sistema de cómputo, que van desde la estructura básica del computador moderno hasta conocer los conceptos básicos del repertorio de instrucciones. Garantizar el buen desempeño, la eficiencia de la futura codificación y conocer los fundamentos de la programación de bajo nivel serán tres temáticas fundamentales en el curso. Demostrar que la evolución de la arquitectura de los computadores es una consecuencia del avance y desarrollo tanto del hardware como del software."
+    "sommelier": "Este curso tiene por objetivo permitir al alumno gestionar adecuadamente el hardware y el software de un sistema de cómputo, que van desde la estructura básica del computador moderno hasta conocer los conceptos básicos del repertorio de instrucciones. Garantizar el buen desempeño, la eficiencia de la futura codificación y conocer los fundamentos de la programación de bajo nivel serán tres temáticas fundamentales en el curso. Demostrar que la evolución de la arquitectura de los computadores es una consecuencia del avance y desarrollo tanto del hardware como del software.",
+    "competencies": [
+      ""
+    ]
   },
   {
     "generalInfo": {
@@ -93,7 +112,13 @@
       },
       "evaluationSystem": "G"
     },
-    "sommelier": "Las bases de datos y los sistemas de bases de datos son un componente básico en la vida cotidiana de la sociedad moderna, la interacción con la administración, los servicios públicos, la empresa ya casi no se puede entender sin la gestión de una base de datos que permita la comunicación entre los distintos actores. Los sistemas de gestión de bases de datos son por tanto un componente fundamental en las tecnologías de la información y la comunicación sin las que sería imposible imaginar el alcance social que la red y las comunicaciones han alcanzado en la sociedad actual."
+    "sommelier": "Las bases de datos y los sistemas de bases de datos son un componente básico en la vida cotidiana de la sociedad moderna, la interacción con la administración, los servicios públicos, la empresa ya casi no se puede entender sin la gestión de una base de datos que permita la comunicación entre los distintos actores. Los sistemas de gestión de bases de datos son por tanto un componente fundamental en las tecnologías de la información y la comunicación sin las que sería imposible imaginar el alcance social que la red y las comunicaciones han alcanzado en la sociedad actual.",
+    "competencies": [
+      "Conocimiento y aplicación de las características, funcionalidades y estructura de las bases de datos, que permitan su adecuado uso, y el diseño y el análisis e implementación de aplicaciones basadas en ellos",
+      "Conocimiento y aplicación de las herramientas necesarias para el almacenamiento, procesamiento y acceso a los sistemas de información, incluidos los basados en web",
+      "Conocer en profundidad el Modelo Relacional de Datos, el proceso de diseño relacional a través de dependencias funcionales y normalización así como los lenguajes relacionales Cálculo y Álgebra Relacional",
+      "Diseñar una Bases de Datos basada en las fases de diseño conceptual y lógico a partir del modelo conceptual Entidad Relación Extendido"
+    ]
   },
   {
     "generalInfo": {
@@ -117,7 +142,16 @@
       },
       "evaluationSystem": "G"
     },
-    "sommelier": "El curso se orienta a conocer los fundamentos de la operación de los Programas de Aplicación y de la forma en la que los Sistemas Operativos implementan abstracciones del hardware y llevan a cabo la administración de los recursos del sistema. Por otra parte, se llevarán a cabo sesiones de Laboratorio en la que se presentará la aplicación práctica de las técnicas estudiadas."
+    "sommelier": "El curso se orienta a conocer los fundamentos de la operación de los Programas de Aplicación y de la forma en la que los Sistemas Operativos implementan abstracciones del hardware y llevan a cabo la administración de los recursos del sistema. Por otra parte, se llevarán a cabo sesiones de Laboratorio en la que se presentará la aplicación práctica de las técnicas estudiadas.",
+    "competencies": [
+      "Comprende los objetivos y funciones de los Sistemas Operativos s, su evolución y desarrollo hacia sistemas modernos",
+      "Comprende el funcionamiento interno de un Sistemas Operativos, sus procesos y mecanismos de control",
+      "Conoce y comprende el concepto de concurrencia y la gestión de la seguridad en un Sistema Operativo",
+      "Comprender los algoritmos utilizados en la administración de memoria",
+      "Comprende el proceso de administración y optimización del sistema de archivos",
+      "Comprende el modo en que el sistema operativo controla los dispositivos de E/S",
+      "Conoce y comprende los conceptos fundamentales del diseño de un Sistema Operativo"
+    ]
   },
   {
     "generalInfo": {
@@ -145,7 +179,13 @@
       },
       "evaluationSystem": "G"
     },
-    "sommelier": "Este curso es una continuación del curso de programación orientada a objetos pero centrado en la programación de estructuras de datos simples y complejas. Por tanto, los aspectos que se estudiarán serán principalmente cómo se definen y cómo se implementan las estructuras de datos e incorporarlos a cualquier entorno de programación. Así mismo, como puede observarse, este curso continúa con la formación de un programador en cualquier ámbito o especialidad, continuando posteriormente en el curso de “Análisis y diseño de algoritmos”, donde se verá algoritmia y optimización en estructuras de datos complejas."
+    "sommelier": "Este curso es una continuación del curso de programación orientada a objetos pero centrado en la programación de estructuras de datos simples y complejas. Por tanto, los aspectos que se estudiarán serán principalmente cómo se definen y cómo se implementan las estructuras de datos e incorporarlos a cualquier entorno de programación. Así mismo, como puede observarse, este curso continúa con la formación de un programador en cualquier ámbito o especialidad, continuando posteriormente en el curso de “Análisis y diseño de algoritmos”, donde se verá algoritmia y optimización en estructuras de datos complejas.",
+    "competencies": [
+      "Evalúa las propiedades de las estructuras de datos estableciendo su utilidad en las aplicaciones en ciencia e ingeniería comprometiéndose en el uso adecuado que conlleve a resolver problemas de la vida real",
+      "Demuestra su capacidad de análisis diseñando, implementando estructuras que permitan dar solución, trabajando en equipo en los diversos problemas en la ciencia e ingeniería",
+      "Comprende los conocimientos básicos de Algorítmica y ejecuta los principios de la ciencia de la computación",
+      "Describe los procesos de construcción de Algoritmos identificando las propiedades asociadas que se generan de ellos apreciando su influencia en la ciencia e ingeniería"
+    ]
   },
   {
     "generalInfo": {
@@ -169,7 +209,15 @@
       },
       "evaluationSystem": "G"
     },
-    "sommelier": "Introduce en la estructura, implementación, y fundamentos teóricos de la red de computadoras y las aplicaciones que se han habilitado por esta tecnología. Por tanto, estaasignatura proporciona al estudiante las competencias, conocimientos y habilidades básicas para comprender la problemática de la comunicación de datos y la interconexión de redes (en especial Internet). En este contexto, el paradigma de la comunicación interpersonal será la temática fundamental a desarrollar, teniendo un principal enfoque a las comunicaciones digitales e infraestructuras tecnológicas de las tecnologías de comunicación e información."
+    "sommelier": "Introduce en la estructura, implementación, y fundamentos teóricos de la red de computadoras y las aplicaciones que se han habilitado por esta tecnología. Por tanto, estaasignatura proporciona al estudiante las competencias, conocimientos y habilidades básicas para comprender la problemática de la comunicación de datos y la interconexión de redes (en especial Internet). En este contexto, el paradigma de la comunicación interpersonal será la temática fundamental a desarrollar, teniendo un principal enfoque a las comunicaciones digitales e infraestructuras tecnológicas de las tecnologías de comunicación e información.",
+    "competencies": [
+      "Adquirir los conocimientos y desarrollar las aptitudes necesarias en relación al funcionamiento y programación de redes de computadoras y de los mecanismos presentes en su funcionamiento y explotación",
+      "Conocer los conceptos de red de computadores, protocolo, direccionamiento, enrutamiento y de más terminología habitual en estecampo",
+      "Conocer la problemática de la interconexión de redes",
+      "Comprender la arquitectura de red y los modelos dereferencia más conocidos",
+      "Conocer los servicios básicos de red DNS, NAT, VPN",
+      "Aplicar los conocimientos en situaciones prácticas, principalmente con la formulación de estrategias para problemas reales"
+    ]
   },
   {
     "generalInfo": {
@@ -193,7 +241,11 @@
       },
       "evaluationSystem": "G"
     },
-    "sommelier": "En esta materia, donde se fundamenta y se establece la base teórica de los estudios, se encuentran los conceptos que se estudian y se usan en casi todas las demás materias. Qué es un lenguaje de programación, cómo y porqué se define de la forma en que se hace. Cual es el mecanismo en el que se traduce a un formalismo entendible por una máquina, y porqué es precisamente ese. Y cuáles son las limitaciones que se pueden encontrar, entre muchos otros. En este sentido, este curso demuestra que la Computación es una ciencia, en particular una rama de la matemática que centra su interés en el estudio y definición formal de los computadores."
+    "sommelier": "En esta materia, donde se fundamenta y se establece la base teórica de los estudios, se encuentran los conceptos que se estudian y se usan en casi todas las de más materias. Qué es un lenguaje de programación, cómo y porqué se define de la forma en que se hace. Cuál es el mecanismo en el que se traduce a un formalismo entendible por una máquina, y porqué es precisamente ese. Y cuáles son las limitaciones que se pueden encontrar, entre muchos otros. En este sentido, este curso demuestra que la Computación es una ciencia, en particular una rama de la matemática que centra su interés en el estudio y definición formal de los computadores.",
+    "competencies": [
+      "Entender y tener destreza en la definición de lenguajes regulares y libres de contexto así como de las máquinas que lo reconocen",
+      "Entender los fundamentos teóricos de la computabilidad y decidibilidad"
+    ]
   },
   {
     "generalInfo": {
@@ -217,7 +269,11 @@
       },
       "evaluationSystem": "G"
     },
-    "sommelier": "Este curso es una continuación de Estructuras de datos y, que por tanto, desarrollará cómo optimizar dichas estructuras y mejorar la capacidad de abstracción. Introducir y desarrollar estructuras y algoritmos. El curso también ofrecerá una introducción al contexto histórico y social de la informática y una revisión del ámbito de esta disciplina. Por tanto, en esta asignatura se abordan aspectos relativos a la resolución de problemas mediante técnicas fundamentales de computación, tanto exactas como aproximadas. En particular, se profundiza en aspectos relativos a complejidad computacional y a técnicas algorítmicas."
+    "sommelier": "Este curso es una continuación de Estructuras de datos y, que por tanto, desarrollará cómo optimizar dichas estructuras y mejorar la capacidad de abstracción. Introducir y desarrollar estructuras y algoritmos. El curso también ofrecerá una introducción al contexto histórico y social de la informática y una revisión del ámbito de esta disciplina. Por tanto, en esta asignatura se abordan aspectos relativos a la resolución de problemas mediante técnicas fundamentales de computación, tanto exactas como aproximadas. En particular, se profundiza en aspectos relativos a complejidad computacional y a técnicas algorítmicas.",
+    "competencies": [
+      "Implementar programas utilizando las estrategias de programación fuerza bruta, algoritmos voraces, divide y vencerás, backtracking, utilizando el lenguaje C++, analizando su complejidad algorítmica",
+      "Implementar estructuras de datos avanzadas, como árboles y grafos analizando la complejidad algorítmica y presentando su proyecto final con aplicación de las estrategias adecuadas"
+    ]
   },
   {
     "generalInfo": {
@@ -241,7 +297,12 @@
       },
       "evaluationSystem": "G"
     },
-    "sommelier": "En este curso el alumno comienza una etapa profesional de desarrollador a través del conocimientode los procesos software que se presentan en el ciclo de vida del software. Presentar a los alumnos los diferentes modelos de evaluación de procesos y las métricas del proceso de software, además de identificar los requerimientos funcionales y no funcionales de la construcción o de un software en el modelamiento de análisis de requerimientos y prototipos de un software. En este sentido los alumnos deben ser capaces de seleccionar y aplicar patrones de diseño apropiados en la construcción de una aplicación de software y aplicar el diseño de componentes y el diseño dereuso en las aplicaciones presentadas por los alumnos."
+    "sommelier": "En este curso el alumno comienza una etapa profesional de desarrollador a través del conocimientode los procesos software que se presentan en el ciclo de vida del software. Presentar a los alumnos los diferentes modelos de evaluación de procesos y las métricas del proceso de software, ade más de identificar los requerimientos funcionales y no funcionales de la construcción o de un software en el modelamiento de análisis de requerimientos y prototipos de un software. En este sentido los alumnos deben ser capaces de seleccionar y aplicar patrones de diseño apropiados en la construcción de una aplicación de software y aplicar el diseño de componentes y el diseño dereuso en las aplicaciones presentadas por los alumnos.",
+    "competencies": [
+      "Identificar, modelar y especificar requisitos software y de negocio, para la construcción de sistemas software que los implementen",
+      "Construir los modelos de diseño, tanto de alto nivel como detallados, para la construcción de sistemas software",
+      "Conocer herramientas que dan soporte a la construcción de sistemas software, almacenamiento y procesamiento de datos"
+    ]
   },
   {
     "generalInfo": {
@@ -265,7 +326,16 @@
       },
       "evaluationSystem": "G"
     },
-    "sommelier": "En la actualidad podemos observar en cualquier ambientede trabajo, e incluso cualquier ambiente de nuestro alrededor con un sistema informático. Como nos podemos imaginar todas estass máquinas se encuentran interconectadas entre sí las unas con las otras de manera que existe una comunicación entre todas ellas, pudiendo ser a nivel local, mediante una redLAN, a nivel global, con una conexión WAN o Internet. Estas infraestructuras implican a varios usuarios comunicándose entre ellos e intercambiando información, compartiendo recursos como impresoras, programas y muchas más cosas que requieren de un elemento imprescindible para manejar tanto el Software como el Hardware, como es el Administrador de Red. Toda esta malla de comunicaciones e intercambio de información debe realizarse de forma segura y con la menor tolerancia a fallos posible, ya que la información es el punto central y crítico de las comunicaciones entre los nodos."
+    "sommelier": "En la actualidad podemos observar en cualquier ambientede trabajo, e incluso cualquier ambiente de nuestro alrededor con un sistema informático. Como nos podemos imaginar todas estass máquinas se encuentran interconectadas entre sí las unas con las otras de manera que existe una comunicación entre todas ellas, pudiendo ser a nivel local, mediante una redLAN, a nivel global, con una conexión WAN o Internet. Estas infraestructuras implican a varios usuarios comunicándose entre ellos e intercambiando información, compartiendo recursos como impresoras, programas y muchas más cosas que requieren de un elemento imprescindible para manejar tanto el Software como el Hardware, como es el Administrador de Red. Toda esta malla de comunicaciones e intercambio de información debe realizarse de forma segura y con la menor tolerancia a fallos posible, ya que la información es el punto central y crítico de las comunicaciones entre los nodos.",
+    "competencies": [
+      "Conocer el trabajo del administrador de sistemas informáticos y cómo llevarlo a cabo de forma adecuada",
+      "Comprender el trabajo de un Sistema Operativo como elemento central del administrador de red",
+      "Conocer el proceso de comunicación e intercambio de información entre los distintos Sistemas Operativos",
+      "Conocer los conceptos y las herramientas que tiene a su disposición un Administrador de Red",
+      "Conocimiento, administración y mantenimiento de sistemas, servicios y aplicaciones informáticas",
+      "Conocimiento y aplicación de las características, funcionalidades y estructura de los Sistemas Distribuidos, las Redes de Computadores de Internet y diseñar e implementar aplicaciones basadas en ellas",
+      "Capacidad para gestionar adecuadamente la información disponible integrando creativamente conocimientos y aplicándolos a la resolución de problemas informáticos utilizando el método científico"
+    ]
   },
   {
     "generalInfo": {
@@ -293,7 +363,13 @@
       },
       "evaluationSystem": "G"
     },
-    "sommelier": "El objetivo de las matemáticas computacionales, en pocas palabras, es encontrar o desarrollar algoritmos que resuelvan problemas matemáticos computacionalmente (es decir, usando computadoras). En particular, deseamos que cualquier algoritmo que desarrollemos cumpla cuatro propiedades: Exactitud (un algoritmo preciso es capaz de devolver un resultado numérico muy cercadel resultado correcto o analítico), Eficiencia (un algoritmo eficiente es capaz de resolver rápidamente el problema matemático con recursos computacionales razonables), Robustez (un algoritmo robusto funcionapara una amplia variedad de entradas x), y Estabilidad (un algoritmo estable no es sensiblea pequeños cambios en el entrada x)."
+    "sommelier": "El objetivo de las matemáticas computacionales, en pocas palabras, es encontrar o desarrollar algoritmos que resuelvan problemas matemáticos computacionalmente (es decir, usando computadoras). En particular, deseamos que cualquier algoritmo que desarrollemos cumpla cuatro propiedades: Exactitud (un algoritmo preciso es capaz de devolver un resultado numérico muy cercadel resultado correcto o analítico), Eficiencia (un algoritmo eficiente es capaz de resolver rápidamente el problema matemático con recursos computacionales razonables), Robustez (un algoritmo robusto funcionapara una amplia variedad de entradas x), y Estabilidad (un algoritmo estable no es sensiblea pequeños cambios en el entrada x).",
+    "competencies": [
+      "Desarrollar las matemáticas para la implementación de algoritmos específicos para los sistemas gráficos disponibles",
+      "Utilizar herramientas algorítmicas y matemáticas para crear todo tipo de imágenes, como las imágenes sintéticas de objetos y escenas tridimensionales",
+      "Emplear los algoritmos de optimización comúnmenteutilizados en la práctica, y elegir un algoritmo para un problema dado",
+      "Desarrollar estructuras de datos y algoritmos paraautomatizar la obtención de resultados existentes y nuevos en probabilidad, estadística y métodos numéricos"
+    ]
   },
   {
     "generalInfo": {
@@ -317,7 +393,13 @@
       },
       "evaluationSystem": "G"
     },
-    "sommelier": "El fundamento de la programación secuencial orientada a bloques es que una reordenación en la (re)utilización de los datos de entrada de un problema permite obtener un gran beneficio computacional gracias a la utilización eficiente de la jerarquía de memoria. Una adecuada división de nuestro problema en bloques permite obtener programas más eficientes para una misma arquitectura. Por otra parte, los sistemas informáticos actuales son inherentemente paralelos plataformasde memoria compartida, plataformas de memoria distribuida, multi-núcleo, computaciónheterogénea, ... Sin embargo, la mayoría de las aplicaciones actuales no explotan dichas arquitecturas paralelas, produciéndose como consecuencia una mala utilización de los recursos y un bajo rendimiento. Es necesario, por tanto, conocer las técnicas que nos permitan obtener programas más rápidos y eficientes que utilicen toda la potencia de la arquitectura subyacente."
+    "sommelier": "El fundamento de la programación secuencial orientada a bloques es que una reordenación en la (re)utilización de los datos de entrada de un problema permite obtener un gran beneficio computacional gracias a la utilización eficiente de la jerarquía de memoria. Una adecuada división de nuestro problema en bloques permite obtener programas más eficientes para una misma arquitectura. Por otra parte, los sistemas informáticos actuales son inherentemente paralelos plataformasde memoria compartida, plataformas de memoria distribuida, multi-núcleo, computación heterogénea, ... Sin embargo, la mayoría de las aplicaciones actuales no explotan dichas arquitecturas paralelas, produciéndose como consecuencia una mala utilización de los recursos y un bajo rendimiento. Es necesario, por tanto, conocer las técnicas que nos permitan obtener programas más rápidos y eficientes que utilicen toda la potencia de la arquitectura subyacente.",
+    "competencies": [
+      "Coordinar las tareas de todos los elementos involucrados en el funcionamiento de un sistema de procesamiento de datos distribuidos y de altas prestaciones",
+      "Diseñar y dimensionar equipos de procesamiento de datos de altas prestaciones y alta disponibilidad",
+      "Conocer las principales arquitecturas de los sistemas de alta disponibilidad",
+      "Resolver problemas mediante algoritmos paralelos basados en memoria o procesamiento distribuido"
+    ]
   },
   {
     "generalInfo": {
@@ -341,7 +423,12 @@
       },
       "evaluationSystem": "G"
     },
-    "sommelier": "El futuro licenciado en Ciencia de la Computación tendrá una formación variada en todos los campos de producción e investigación tanto en sus capacidades técnicas como habilidades de emprendimiento. Este curso le capacitará como usuariode una gran cantidad de áreas y le pondrá en contacto con creativos de las diferentes áreas de producción. En el actual panorama, el soporte en que llegan al usuario la mayoría de productos multimedia es la web. Por lo tanto, el futuro licenciado tiene que dominar los diferentes aspectos de desarrollo web, a través de los diferentes lenguajes de programación de servidor y gestores de bases de datos para la creación de aplicaciones."
+    "sommelier": "El futuro licenciado en Ciencia de la Computación tendrá una formación variada en todos los campos de producción e investigación tanto en sus capacidades técnicas como habilidades de emprendimiento. Este curso le capacitará como usuariode una gran cantidad de áreas y le pondrá en contacto con creativos de las diferentes áreas de producción. En el actual panorama, el soporte en que llegan al usuario la mayoría de productos multimedia es la web. Por lo tanto, el futuro licenciado tiene que dominar los diferentes aspectos de desarrollo web, a través de los diferentes lenguajes de programación de servidor y gestores de bases de datos para la creación de aplicaciones.",
+    "competencies": [
+      "Diseñar y programar aplicaciones y servicios Con acceso a datos, usando las arquitecturas, los lenguajes y las herramientas más apropiadas",
+      "Conocer cuáles son los estándares para contenidos digitales",
+      "Gestionar la seguridad en sistemas informáticos"
+    ]
   },
   {
     "generalInfo": {
@@ -365,7 +452,15 @@
       },
       "evaluationSystem": "G"
     },
-    "sommelier": "La asignatura inicialmente dará al alumno los conocimientos previos para realizar una implementación de sistemas de gestión de seguridad de información, también proporcionará los conocimientos para realizar un buen control de las actividades de seguridad en sistemas informáticos, que permite afianzar los conceptos, técnicos y métodos que permitan administrar la seguridad de la información de la empresa en forma eficiente y minimizando riesgos que coloquen en peligro la continuidad operativa de la organización. Su temática comprende Conceptos de seguridad informática, niveles de seguridad en las corporaciones, gestión de riesgos y en redes de computadores y, más concretamente, en las redes TCP/IP."
+    "sommelier": "La asignatura inicialmente dará al alumno los conocimientos previos para realizar una implementación de sistemas de gestión de seguridad de información, también proporcionará los conocimientos para realizar un buen control de las actividades de seguridad en sistemas informáticos, que permite afianzar los conceptos, técnicos y métodos que permitan administrar la seguridad de la información de la empresa en forma eficiente y minimizando riesgos que coloquen en peligro la continuidad operativa de la organización. Su temática comprende Conceptos de seguridad informática, niveles de seguridad en las corporaciones, gestión de riesgos y en redes de computadores y, más concretamente, en las redes TCP/IP.",
+    "competencies": [
+      "Protege la información de las organizaciones de los diferentes riesgos informáticos que puedan alterar o dañar los recursos informáticos, por medio de diversos mecanismos de seguridad siguiendo las técnicas deseguridad y las mejores prácticasde la industria relacionadas con seguridad de la información",
+      "Entender los distintos tipos de vulnerabilidades quepresentan las redes TCP/IP",
+      "Ver qué técnicas de prevención existen contra los ataques más frecuentes",
+      "Conocer los diferentes sistemas de detección de intrusos",
+      "Alcanzar unos conocimientos básicos del funcionamiento de las herramientas criptográficas más utilizadas",
+      "Conocer los sistemas de autentificación más importantes, identificando sus características"
+    ]
   },
   {
     "generalInfo": {
@@ -389,7 +484,12 @@
       },
       "evaluationSystem": "G"
     },
-    "sommelier": "Este curso representa la puerta de entrada o presentacióna las técnicas de Inteligencia Artificial y laingeniería del conocimiento, es decir, los tópicos relacionados a los sistemas inteligentes. Estas técnicas se incluyen hoy en día entre las más requeridaspara la resolución de problemas complejos en cualquier ámbito del desarrollo científico o profesional relacionado a la Ciencia de la Computación. Desarrollar programas que tengan comportamiento inteligente con diferentes temas como búsqueda, representación de conocimiento, agentes inteligente, procesamiento de lenguaje natural, aprendizaje, redes neuronales, árboles de decisión y aprendizaje de máquina."
+    "sommelier": "Este curso representa la puerta de entrada o presentacióna las técnicas de Inteligencia Artificial y la ingeniería del conocimiento, es decir, los tópicos relacionados a los sistemas inteligentes. Estas técnicas se incluyen hoy en día entre las más requeridaspara la resolución de problemas complejos en cualquier ámbito del desarrollo científico o profesional relacionado a la Ciencia de la Computación. Desarrollar programas que tengan comportamiento inteligente con diferentes temas como búsqueda, representación de conocimiento, agentes inteligente, procesamiento de lenguaje natural, aprendizaje, redes neuronales, árboles de decisión y aprendizaje de máquina.",
+    "competencies": [
+      "Representación del conocimiento y razonamiento, búsqueda avanzada del conocimiento y razonamiento",
+      "Evaluar las posibilidades de simulación de la inteligencia, para lo cual se estudiarán las técnicas de modelización del conocimiento",
+      "Construir una noción de inteligencia que soporte despuéslas tareas de su simulación"
+    ]
   },
   {
     "generalInfo": {
@@ -413,7 +513,12 @@
       },
       "evaluationSystem": "G"
     },
-    "sommelier": "El presente curso está concebido para estudiantes del séptimo semestre. Esta asignatura ofrece una introducción general de los principios, técnicas y herramientas necesarias para el desarrollo de aplicaciones y sistemas gráficos en 2D y 3D. Además, ofrece una experiencia práctica en profundidad en el desarrollo de aplicaciones y sistemas gráficos modernos."
+    "sommelier": "El presente curso está concebido para estudiantes del séptimo semestre. Esta asignatura ofrece una introducción general de los principios, técnicas y herramientas necesarias para el desarrollo de aplicaciones y sistemas gráficos en 2D y 3D. Ade más, ofrece una experiencia práctica en profundidad en el desarrollo de aplicaciones y sistemas gráficos modernos.",
+    "competencies": [
+      "Aplica los conocimientos de computación y de matemáticas apropiadas para la disciplina",
+      "Demuestra su capacidad de análisis identificando y definiendo los requerimientos computacionales apropiados para la solución de problemas reales",
+      "Utiliza técnicas y herramientas actuales necesarias para el desarrollo de soluciones a problemas donde se requiera la aplicación de la computación gráfica"
+    ]
   },
   {
     "generalInfo": {
@@ -437,7 +542,13 @@
       },
       "evaluationSystem": "G"
     },
-    "sommelier": "El Curso de Programación Concurrente y Distribuida está directamente ligada con la evaluación de los sistemas operativos y por ello subdivide en dos temáticas principales. Por un lado, la programación concurrente está ligada a los conceptos de multiproceso y multiprocesador, por lo que se estudiará las técnicas básicas de gestión de la concurrencia, como por ejemplo los mecanismos de sincronización y comunicación entre procesos. Por otro lado, referente a la programación distribuida, está relacionada con el desarrollo de sistemas en los cuales la red es una infraestructura crítica. Por tanto, el alumno aprenderá los fundamentos básicos de programación de cliente/servidor bajo los protocolos UDP/TCP, hastaescalar al nivel más elevado automatizando las operaciones del sistema. En este contexto, se trabajarán los paradigmas RCP/RMI y la tecnología de componentes, una panorámica del tipo de aplicaciones y sistemas distribuidos modernos (Clustering, Grid, Cloud, P2P)."
+    "sommelier": "El Curso de Programación Concurrente y Distribuida está directamente ligada con la evaluación de los sistemas operativos y por ello subdivide en dos temáticas principales. Por un lado, la programación concurrente está ligada a los conceptos de multiproceso y multiprocesador, por lo que se estudiará las técnicas básicas de gestión de la concurrencia, como por ejemplo los mecanismos de sincronización y comunicación entre procesos. Por otro lado, referente a la programación distribuida, está relacionada con el desarrollo de sistemas en los cuales la red es una infraestructura crítica. Por tanto, el alumno aprenderá los fundamentos básicos de programación de cliente/servidor bajo los protocolos UDP/TCP, hastaescalar al nivel más elevado automatizando las operaciones del sistema. En este contexto, se trabajarán los paradigmas RCP/RMI y la tecnología de componentes, una panorámica del tipo de aplicaciones y sistemas distribuidos modernos (Clustering, Grid, Cloud, P2P).",
+    "competencies": [
+      "Programar en entornos de red con arquitectura cliente/servidor",
+      "Aplicar las diferentes técnicas de comunicación entreprocesos y grupos de procesos distribuidos",
+      "Programar aplicaciones para entornos distribuidos",
+      "Resolver problemas complejos y de respuesta en tiempo real utilizando conceptos y herramientas de programación concurrente y tiempo real, planificando sus tareas, así como un uso eficiente de la memoria"
+    ]
   },
   {
     "generalInfo": {
@@ -461,7 +572,14 @@
       },
       "evaluationSystem": "G"
     },
-    "sommelier": "La interfaz de usuario es la parte visible de las aplicaciones informáticas. Por otro lado, la usabilidad de las aplicaciones implica la creación de interfaces de usuario para las aplicaciones fáciles de aprender, de usar y que satisfagan al usuario. En este contexto, en este curso se pretende profundizar en el desarrollo de interfaces de usuario que cumplan con unos altos estándares de calidad, siendo esta una extensión fundamental de la Ingeniería del Software y, por tanto, fundamental para cualquier profesional que se quiera dedicar al desarrollo web. Con el estudio y aplicación de esta materia, el alumno desarrollará aplicaciones teniendo encuenta consideraciones fundamentales, básicas y previas tales como la propia persona, los mecanismos de interacción o algunas reglas de diseño."
+    "sommelier": "La interfaz de usuario es la parte visible de las aplicaciones informáticas. Por otro lado, la usabilidad de las aplicaciones implica la creación de interfaces de usuario para las aplicaciones fáciles de aprender, de usar y que satisfagan al usuario. En este contexto, en este curso se pretende profundizar en el desarrollo de interfaces de usuario que cumplan con unos altos estándares de calidad, siendo esta una extensión fundamental de la Ingeniería del Software y, por tanto, fundamental para cualquier profesional que se quiera dedicar al desarrollo web. Con el estudio y aplicación de esta materia, el alumno desarrollará aplicaciones teniendo encuenta consideraciones fundamentales, básicas y previas tales como la propia persona, los mecanismos de interacción o algunas reglas de diseño.",
+    "competencies": [
+      "Conocer y aplicar el concepto de la interacción persona ordenador en un entorno de desarrollo de software",
+      "Comprender los elementos principales de la IPO las personas, la tecnología y el diseño",
+      "Conocer el diseño centrado en el usuario",
+      "Analizar, diseñar y evaluar productos interactivos centrados en el usuario",
+      "Identificar los aspectos principales y la relación entre tecnología, diversidad y accesibilidad, y saber evaluar la accesibilidad de lugares web"
+    ]
   },
   {
     "generalInfo": {
@@ -480,7 +598,15 @@
       },
       "evaluationSystem": "G"
     },
-    "sommelier": "La asignatura Metodología de la Investigación tiene como finalidad el desarrollar un enfoque conceptual y metodológico de la actividad investigadora en los campos propios de la Ciencia de la Computación en la formación en investigación y realización de actividades doctorales en las Tecnologías Informáticas. Ha sido ampliamente estudiada la investigación como actividad profesional, así como los investigadores como individuos integrados en entidades académicas o productivas. Por otro lado, un desarrollo adecuado de la actividad de investigaciónse caracteriza por la necesidad de comunicar los resultados mediante artefactos escritos (artículos, informes, tesis) opresentaciones orales (en congresos, reuniones o talleres)."
+    "sommelier": "La asignatura Metodología de la Investigación tiene como finalidad el desarrollar un enfoque conceptual y metodológico de la actividad investigadora en los campos propios de la Ciencia de la Computación en la formación en investigación y realización de actividades doctorales en las Tecnologías Informáticas. Ha sido ampliamente estudiada la investigación como actividad profesional, así como los investigadores como individuos integrados en entidades académicas o productivas. Por otro lado, un desarrollo adecuado de la actividad de investigaciónse caracteriza por la necesidad de comunicar los resultados mediante artefactos escritos (artículos, informes, tesis) opresentaciones orales (en congresos, reuniones o talleres).",
+    "competencies": [
+      "Capacidad para aplicar técnicas y metodologías que permitan abordar desde nuevas perspectivas los problemas de interés",
+      "Buscar bibliografía científica, herramientas software y recursos para validación de resultados",
+      "Plantear un tema de investigación de interés",
+      "Estructurar un trabajo de investigación en los diferentes campos científicos",
+      "Abordar y planificar un trabajo de investigación",
+      "Redactar un trabajo científico"
+    ]
   },
   {
     "generalInfo": {
@@ -504,7 +630,14 @@
       },
       "evaluationSystem": "G"
     },
-    "sommelier": "Los sistemas Grid son entornos muy variables, compuestos por una serie de organizaciones independientes que comparten sus recursos. Durante la década pasada, la Computación Grid ha surgido como una tecnología que ha hecho posible muchas aplicaciones intensivas en datos y/o en cálculo. A través del empleo de tecnologías Grid, es posible agregar recursos dispersos y heterogéneos para resolver varios tipos de aplicaciones paralelas en ciencia, ingeniería y comercio. Los usuarios de Grid deberán percibir alguna calidad de servicio (QoS) en las prestaciones de sus aplicaciones, en términos de tiempo de respuesta o de número detrabajos finalizados por unidad de tiempo. Sin embargo, esto es muy difícil de conseguir debido a la gran cantidad de redes interconectadas que forman parte de un Grid. Cloud Computing proviene de la idea de un nuevo paradigmainformático donde se incorpora tanto la computación distribuida, diversos centros de datos, aplicaciones, un consumo computacional y sobretodo el término virtualización como también plataformas de sistemas operativos y proveedores de servicio de acuerdo a una demanda extensa de los clientes, através del Internet. Por último, el curso verá también el concepto novedoso que surge de los dos anteriores para el internet of things, el llamado Fog Computing. Fog Computing es una extensión del Cloud Computing que pretende descentralizar y balancear los recursos a través de la red de sensores o dispositivos de almacenamiento."
+    "sommelier": "Los sistemas Grid son entornos muy variables, compuestos por una serie de organizaciones independientes que comparten sus recursos. Durante la década pasada, la Computación Grid ha surgido como una tecnología que ha hecho posible muchas aplicaciones intensivas en datos y/o en cálculo. A través del empleo de tecnologías Grid, es posible agregar recursos dispersos y heterogéneos para resolver varios tipos de aplicaciones paralelas en ciencia, ingeniería y comercio. Los usuarios de Grid deberán percibir alguna calidad de servicio (QoS) en las prestaciones de sus aplicaciones, en términos de tiempo de respuesta o de número detrabajos finalizados por unidad de tiempo. Sin embargo, esto es muy difícil de conseguir debido a la gran cantidad de redes interconectadas que forman parte de un Grid. Cloud Computing proviene de la idea de un nuevo paradigmainformático donde se incorpora tanto la computación distribuida, diversos centros de datos, aplicaciones, un consumo computacional y sobretodo el término virtualización como también plataformas de sistemas operativos y proveedores de servicio de acuerdo a una demanda extensa de los clientes, através del Internet. Por último, el curso verá también el concepto novedoso que surge de los dos anteriores para el internet of things, el llamado Fog Computing. Fog Computing es una extensión del Cloud Computing que pretende descentralizar y balancear los recursos a través de la red de sensores o dispositivos de almacenamiento.",
+    "competencies": [
+      "Adquirir los conocimientos y desarrollar las aptitudes necesarias en relación al funcionamiento y programación en tecnologías de altas prestaciones en Grid como en Cloud Computing; como los mecanismos presentes en su funcionamiento y mejoras en el rendimiento",
+      "Diferenciar la tecnología de cliente de la tecnología de servidor; sus respectivos costes, implicaciones técnicas y funcionales; y cómo la Web 2.0 ha supuesto, en algunos ámbitos, una migración progresiva de la primera hacia la segunda",
+      "Explicar los conceptos básicos del cloud computing: software as a service (SaaS), platform as a service (PaaS) e infrastructure as aservice (IaaS)",
+      "Incorporar en la caja de herramientas del profesional las herramientas básicas para almacenar información en la Red, compartir archivos y trabajar en red",
+      "Analizar el impacto en la productividad, los costes y la organización del trabajo del uso de soluciones de cloud computing en el día a día de la empresa"
+    ]
   },
   {
     "generalInfo": {
@@ -532,7 +665,12 @@
       },
       "evaluationSystem": "G"
     },
-    "sommelier": "Este curso presentará a los estudiantes las limitaciones, tecnologías y algoritmos fundamentales de la robótica autónoma. El enfoque se centrará en los aspectos computacionales de los robots móviles con ruedas autónomos. Los temas más importantes serán movilidad, percepción y navegación."
+    "sommelier": "Este curso presentará a los estudiantes las limitaciones, tecnologías y algoritmos fundamentales de la robótica autónoma. El enfoque se centrará en los aspectos computacionales de los robots móviles con ruedas autónomos. Los temas más importantes serán movilidad, percepción y navegación.",
+    "competencies": [
+      "Conocer los fundamentos teóricos de los lenguajes de programación y las técnicas de procesamiento léxico, sintáctico y semántico asociadas",
+      "Aplicar los fundamentos, paradigmas y técnicas propiasde los sistemas inteligentes",
+      "Desarrollar técnicas de aprendizaje computacional y diseñar e implementar aplicaciones y sistemas dedicados a extracción automática de información y conocimiento a partir de grandes volúmenes de datos"
+    ]
   },
   {
     "generalInfo": {
@@ -556,7 +694,13 @@
       },
       "evaluationSystem": "G"
     },
-    "sommelier": "La asignatura se ubica en la intensificación de Computación, en el ámbito de las asignaturas de la Inteligencia Artificial. La Minería de datos, y el aprendizaje automático en general, están ligados al campo de la estadística y de la algorítmica, y abordan las técnicas para la extracción de conocimiento implícito en conjuntos de datos. La minería de datos es una herramienta poderosa para el proceso de descubrir nuevas correlaciones, patrones y tendencias mediante el análisis de grandes cantidades de datos almacenados en repositorios. En el curso, los estudiantes aprenden a aplicar los principios de data mining para manejar y analizar conjuntos grandes y complejos de datos, incluyendo aquellos que se encuentran en la web."
+    "sommelier": "La asignatura se ubica en la intensificación de Computación, en el ámbito de las asignaturas de la Inteligencia Artificial. La Minería de datos, y el aprendizaje automático en general, están ligados al campo de la estadística y de la algorítmica, y abordan las técnicas para la extracción de conocimiento implícito en conjuntos de datos. La minería de datos es una herramienta poderosa para el proceso de descubrir nuevas correlaciones, patrones y tendencias mediante el análisis de grandes cantidades de datos almacenados en repositorios. En el curso, los estudiantes aprenden a aplicar los principios de data mining para manejar y analizar conjuntos grandes y complejos de datos, incluyendo aquellos que se encuentran en la web.",
+    "competencies": [
+      "Detección, interpretación y predicción de patrones cuantitativos y cualitativos en los datos",
+      "Proceso de extraer información o patrones interesantes(no triviales, implícitos, previamente desconocidos y potencialmente útiles) desde grandes repositorios",
+      "Comprender los conocimientos base de datos y los principios de la ciencia de la computación",
+      "Decidir ante un problema práctico concreto qué tarea de minería de datos conviene utilizar, qué modelo se quiere obtener, qué técnica resultaría más adecuada de utilizar y cómo evaluar los resultados obtenidos"
+    ]
   },
   {
     "generalInfo": {
@@ -580,7 +724,13 @@
       },
       "evaluationSystem": "G"
     },
-    "sommelier": "La computación evolutiva es una de las ramas de la Inteligencia Artificial que se aplica para la resolución de problemas de optimización combinatorial. Estas técnicas están inspiradas enlos mecanismos de evolución biológica propuestos por Darwin, Medel y Lamark. Sin entrar mucho en detalle sobre los estudios que hicieron estos científicos, solo vamos a mencionar brevemente lo que propusieron. Darwin propuso la “Selección natural de los más adaptados”, Medel propuso la “Teoría corpuscular de la herencia” y Lamark propuso la “Herencia decaracteres adquiridos”. En este curso se aprenderá la importancia de estas técnicas, entre las que se encuentran, algoritmos genéticos, programación evolutiva, algoritmos bio inspirados o programación de enjambres, entre otras."
+    "sommelier": "La computación evolutiva es una de las ramas de la Inteligencia Artificial que se aplica para la resolución de problemas de optimización combinatorial. Estas técnicas están inspiradas enlos mecanismos de evolución biológica propuestos por Darwin, Medel y Lamark. Sin entrar mucho en detalle sobre los estudios que hicieron estos científicos, solo vamos a mencionar brevemente lo que propusieron. Darwin propuso la “Selección natural de los más adaptados”, Medel propuso la “Teoría corpuscular de la herencia” y Lamark propuso la “Herencia decaracteres adquiridos”. En este curso se aprenderá la importancia de estas técnicas, entre las que se encuentran, algoritmos genéticos, programación evolutiva, algoritmos bio inspirados o programación de enjambres, entre otras.",
+    "competencies": [
+      "Aprender los fundamentos de la programación evolutiva y su complejidad basada en metaheurísticas",
+      "Aplicar las técnicas de computación evolutiva a problemas reales",
+      "Comprender la potencialidad de la técnica y sus limitaciones más importantes",
+      "Comparar a los algoritmos genéticos con otras técnicas de optimización y búsqueda de soluciones evaluando la calidad y performance"
+    ]
   },
   {
     "generalInfo": {
@@ -608,7 +758,10 @@
       },
       "evaluationSystem": "G"
     },
-    "sommelier": "En la actualidad se ha encontrado el problema principal de cómo gestionar grandes volúmenes de datos de manera eficiente. Para ello se han desarrollado nuevas tecnologías, hardware y software para poder gestionar grandes volúmenesde datos y poder analizarlos con el fin de obtener la información relevante que nos permita interpretar mejor la realidad y tomar decisiones es lo que conocemos como Big Data. A tenor del fenómeno Big Data han surgido otras áreas de conocimiento especializadas como Social Business Intelligence, Text Mining, o Cloud Computing, y otras existentes han experimentado un importante desarrollo como Data Mining, Knowledge Discovery for Big Data, Business Intelligence o Data Science."
+    "sommelier": "En la actualidad se ha encontrado el problema principal de cómo gestionar grandes volúmenes de datos de manera eficiente. Para ello se han desarrollado nuevas tecnologías, hardware y software para poder gestionar grandes volúmenesde datos y poder analizarlos con el fin de obtener la información relevante que nos permita interpretar mejor la realidad y tomar decisiones es lo que conocemos como Big Data. A tenor del fenómeno Big Data han surgido otras áreas de conocimiento especializadas como Social Business Intelligence, Text Mining, o Cloud Computing, y otras existentes han experimentado un importante desarrollo como Data Mining, Knowledge Discovery for Big Data, Business Intelligence o Data Science.",
+    "competencies": [
+      ""
+    ]
   },
   {
     "generalInfo": {
@@ -632,7 +785,12 @@
       },
       "evaluationSystem": "G"
     },
-    "sommelier": "Este curso trata de algoritmos que se inspiran en fenómenos naturales y los aplica a problemas de optimización, diseño y aprendizaje. La atención se centra en el proceso de abstracción de algoritmos del fenómeno observado, su análisis de resultados y comparación. Este enfoque se hará principalmente a través de la computación evolutiva, inteligencia de enjambre (colonia de hormigas y métodos basados en partículas) y redes neuronales."
+    "sommelier": "Este curso trata de algoritmos que se inspiran en fenómenos naturales y los aplica a problemas de optimización, diseño y aprendizaje. La atención se centra en el proceso de abstracción de algoritmos del fenómeno observado, su análisis de resultados y comparación. Este enfoque se hará principalmente a través de la computación evolutiva, inteligencia de enjambre (colonia de hormigas y métodos basados en partículas) y redes neuronales.",
+    "competencies": [
+      "La computación BioInspirada es un campo dedicado a abordar problemas complejos utilizando métodos computacionales basados en los principios de diseño encontrados en la naturaleza. Este curso está fuertemente basado en los fundamentos de los sistemas complejos y la biología teórica",
+      "El objetivo es una comprensión profunda de las arquitecturas distribuidas de los sistemas complejos naturales, y cómo se pueden usar para producir herramientas informáticas con mayor robustez, escalabilidad y flexibilidad, y que puedan interactuar de manera más efectiva con los humanos",
+      "Es un campo multidisciplinario fuertemente basado en la biología, la complejidad, la informática, la informática, la ciencia cognitiva, la robótica y la cibernética"
+    ]
   },
   {
     "generalInfo": {
@@ -656,7 +814,13 @@
       },
       "evaluationSystem": "G"
     },
-    "sommelier": "En este curso se exponen temas avanzados de algoritmos y estructura de datos que sirven como continuación del curso de programación orientada a objetos pero centrado en la programación de estructuras de datos simples y complejas. Por tanto, los aspectos que se estudiarán serán principalmente cómo se definen y cómo se implementan las estructuras de datos e incorporarlos a cualquier entorno de programación. Así mismo, como puede observarse, este curso continúa con la formación de un programador en cualquier ámbito o especialidad, continuando posteriormente en el curso de “Análisis y diseño de algoritmos”, donde se verá algoritmia y optimización en estructuras de datos complejas."
+    "sommelier": "En este curso se exponen temas avanzados de algoritmos y estructura de datos que sirven como continuación del curso de programación orientada a objetos pero centrado en la programación de estructuras de datos simples y complejas. Por tanto, los aspectos que se estudiarán serán principalmente cómo se definen y cómo se implementan las estructuras de datos e incorporarlos a cualquier entorno de programación. Así mismo, como puede observarse, este curso continúa con la formación de un programador en cualquier ámbito o especialidad, continuando posteriormente en el curso de “Análisis y diseño de algoritmos”, donde se verá algoritmia y optimización en estructuras de datos complejas.",
+    "competencies": [
+      "Evalúa las propiedades de las estructuras de datos estableciendo su utilidad en las aplicaciones en ciencia e ingeniería comprometiéndose en el uso adecuado que conlleve a resolver problemas de la vida real",
+      "Demuestra su capacidad de análisis diseñando, implementando estructuras que permitan dar solución, trabajando en equipo en los diversos problemas en la ciencia e ingeniería",
+      "Comprende los conocimientos básicos de Algorítmica y ejecuta los principios de la ciencia de la computación",
+      "Describe los procesos de construcción de Algoritmos identificando las propiedades asociadas que se generan de ellos apreciando su influencia en la ciencia e ingeniería"
+    ]
   },
   {
     "generalInfo": {
@@ -680,7 +844,14 @@
       },
       "evaluationSystem": "G"
     },
-    "sommelier": "La asignatura Auditoría de Sistemas es de naturaleza es de tipo teórico-práctico en un proceso de auditoría de sistemas. En esta asignatura se estimula el estudio, trabajo e investigación individual y en equipo, así como la rotación de roles de los estudiantes para completar su formación profesional dentro del contexto científico y tecnológico actual."
+    "sommelier": "La asignatura Auditoría de Sistemas es de naturaleza es de tipo teórico-práctico en un proceso de auditoría de sistemas. En esta asignatura se estimula el estudio, trabajo e investigación individual y en equipo, así como la rotación de roles de los estudiantes para completar su formación profesional dentro del contexto científico y tecnológico actual.",
+    "competencies": [
+      "Desarrollar en los estudiantes su capacidad crítica y evaluadora",
+      "Dar a conocer los sistemas de control que existenen las empresas que hacen uso intensivo de las tecnologías de información",
+      "Evaluar la operatividad de los sistemas computarizados, el uso de recursos de confiabilidad de la información y la seguridad que debe existir en la instalación",
+      "Conocer el software de auditoría existente en el mercado, sus aplicaciones y formas de utilización",
+      "Elaborar los dictámenes de auditoría para que pueda realizar funciones de auditoría de sistemas"
+    ]
   },
   {
     "generalInfo": {
@@ -708,7 +879,12 @@
       },
       "evaluationSystem": "G"
     },
-    "sommelier": "El presente curso está concebido para estudiantes del noveno semestre. Esta asignatura ofrece una introducción general de los principios, técnicas y herramientas de la biología computacional. Los tópicos que toca el curso incluye principios y métodos necesarios para el estudio y análisis del alineamiento de secuencias de ADN y de aminoácidos, la aplicación de métodos estadísticos y probabilísticos en el análisis de información biológica, el análisis y modelamiento de árboles filogenéticos, el mapeo desecuencias, y una introducción al estudio de la estructura de las proteínas."
+    "sommelier": "El presente curso está concebido para estudiantes del noveno semestre. Esta asignatura ofrece una introducción general de los principios, técnicas y herramientas de la biología computacional. Los tópicos que toca el curso incluye principios y métodos necesarios para el estudio y análisis del alineamiento de secuencias de ADN y de aminoácidos, la aplicación de métodos estadísticos y probabilísticos en el análisis de información biológica, el análisis y modelamiento de árboles filogenéticos, el mapeo desecuencias, y una introducción al estudio de la estructura de las proteínas.",
+    "competencies": [
+      "Aplica los conocimientos de biología, computación y matemáticas apropiadas para el análisis y generación de información utilizadas en el campo de la biología computacional",
+      "Demuestra su capacidad de análisis identificando y definiendo los requerimientos computacionales apropiados para la solución de problemas reales",
+      "Utiliza técnicas y herramientas adecuadas para el análisis y generación de información bioinformática"
+    ]
   },
   {
     "generalInfo": {
@@ -732,7 +908,13 @@
       },
       "evaluationSystem": "G"
     },
-    "sommelier": "La asignatura Calidad de Software es de tipo teórico-taller en un proceso de desarrollo de software. En esta asignatura se estimula el estudio, trabajo e investigación individual y en equipo, así como la rotación de roles de los estudiantes para completar su formación profesional dentro del contexto científico y tecnológico actual. En el curso se tratarán los siguientes contenidos Fundamentos de la Calidad de Software, Modelos de Procesos de Software, Aseguramiento de Calidad del Software, Calidad de información, Estándares y Normas de Software."
+    "sommelier": "La asignatura Calidad de Software es de tipo teórico-taller en un proceso de desarrollo de software. En esta asignatura se estimula el estudio, trabajo e investigación individual y en equipo, así como la rotación de roles de los estudiantes para completar su formación profesional dentro del contexto científico y tecnológico actual. En el curso se tratarán los siguientes contenidos Fundamentos de la Calidad de Software, Modelos de Procesos de Software, Aseguramiento de Calidad del Software, Calidad de información, Estándares y Normas de Software.",
+    "competencies": [
+      "Lograr una visión detallada de los conceptos, herramientas y métodos de calidad en el ciclo de vida del desarrollo de software",
+      "Desarrollar habilidades para realizar el aseguramiento de la calidad de software en el ciclo de vida del desarrollo de software",
+      "Trabajar en equipo: participar, analizar y dirigir una etapa de un proyecto de software y conocer los roles y procedimientos de acuerdo a las mejores prácticas nacionales e internacionales en materia de calidad de software",
+      "Evaluar la calidad de los resultados del proyecto de software y diseñar el proceso de sostenibilidad del proyecto"
+    ]
   },
   {
     "generalInfo": {
@@ -756,7 +938,13 @@
       },
       "evaluationSystem": "G"
     },
-    "sommelier": "Conocer las técnicas básicas empleadas durante el proceso de generación intermedio, optimización y generación de código. Aprender a implementar pequeños compiladores."
+    "sommelier": "Conocer las técnicas básicas empleadas durante el proceso de generación intermedio, optimización y generación de código. Aprender a implementar pequeños compiladores.",
+    "competencies": [
+      "Comprende los conceptos y principios fundamentales de los compiladores",
+      "Reconoce las técnicas básicas para construir un compilador",
+      "Diseña compiladores",
+      "Implementa pequeños compiladores"
+    ]
   },
   {
     "generalInfo": {
@@ -784,7 +972,12 @@
       },
       "evaluationSystem": "G"
     },
-    "sommelier": "En los últimos años, el aprendizaje profundo (deep learning) se ha convertido en una herramienta fundamental en el aprendizaje de máquinas para una amplia variedad de dominios y aplicaciones. En sí se puede decir, que es una técnica que emplea redes neuronales para aprender representaciones a partir de una serie de datos observados, que puedan ser de utilidad para resolver problemas de alto nivel como ser predicción, restauración o clasificación de señales. El aprendizaje profundo pretende descubrir las propiedades intrínsecas de grandes volúmenes de datos construyendo representaciones distribuidas, tanto en contextos supervisados como no supervisados."
+    "sommelier": "En los últimos años, el aprendizaje profundo (deep learning) se ha convertido en una herramienta fundamental en el aprendizaje de máquinas para una amplia variedad de dominios y aplicaciones. En sí se puede decir, que es una técnica que emplea redes neuronales para aprender representaciones a partir de una serie de datos observados, que puedan ser de utilidad para resolver problemas de alto nivel como ser predicción, restauración o clasificación de señales. El aprendizaje profundo pretende descubrir las propiedades intrínsecas de grandes volúmenes de datos construyendo representaciones distribuidas, tanto en contextos supervisados como no supervisados.",
+    "competencies": [
+      "Ilustrar a los estudiantes los principales aspectos de modelado, algorítmicos y de optimización de forma de que ellos mismos puedan implementar (diseñar, entrenar y validar) sus propios modelos",
+      "Analizar modelos simples basados en redes convolucionales que permiten explicar matemáticamente algunas de las propiedades claves para su éxito",
+      "Ilustrar aplicaciones específicas en los campos de visión artificial y procesamiento de imágenes"
+    ]
   },
   {
     "generalInfo": {
@@ -808,6 +1001,15 @@
       },
       "evaluationSystem": "G"
     },
-    "sommelier": "En este curso se aprende el modelo de programación de bajo nivel de los sistemas digitales basados en microprocesador. En concreto, se estudian y analizan los conceptos básicos relacionados con los recursos de programación de bajo nivel, así como la integración de programas desarrollados como mezcla de lenguajes de medio nivel (lenguaje C) y bajo nivel (ensamblador). Se analizan las distintas estrategias de programación de los recursos del subsistema de entrada y salida, haciendo énfasis en la programación de los controladores de dispositivo más importantes. Todo ello se complementa con el estudio y análisis de los buses e interfaces de entrada y salida."
+    "sommelier": "En este curso se aprende el modelo de programación de bajo nivel de los sistemas digitales basados en microprocesador. En concreto, se estudian y analizan los conceptos básicos relacionados con los recursos de programación de bajo nivel, así como la integración de programas desarrollados como mezcla de lenguajes de medio nivel (lenguaje C) y bajo nivel (ensamblador). Se analizan las distintas estrategias de programación de los recursos del subsistema de entrada y salida, haciendo énfasis en la programación de los controladores de dispositivo más importantes. Todo ello se complementa con el estudio y análisis de los buses e interfaces de entrada y salida.",
+    "competencies": [
+      "Diseña y escribe programas en lenguaje ensamblador del 80x86",
+      "Diseña y escribe programas utilizando las interrupciones del 80x86",
+      "Diseña y escribe programas combinando lenguaje ensamblador y lenguaje C (medio nivel)",
+      "Utilizar recursos software proporcionados por la BIOS y el Sistema Operativo",
+      "Diseña y escribe programas residentes en memoria (drivers)",
+      "Programa los recursos hardware básicos de E/S del PC",
+      "Utiliza un entorno de desarrollo y depuración de bajo nivel"
+    ]
   }
 ]

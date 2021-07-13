@@ -1,5 +1,14 @@
 # CC Plan Info Extractor
 
+## Version 0.6.0
+
+- Implemented:
+  - Complete process for Competencies.
+- TODO:
+  - Complete the process for the missing fields:
+    - Analytic program
+    - Bibliography
+
 ## Version 0.5.1
 
 - Fixed:

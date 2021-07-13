@@ -151,9 +151,7 @@ const extractData = async () => {
           .indexOf(COMPETENCIES) + COMPETENCIES.length,
         text: courseContent
       }).slice(1)
-      const competenciesArray = competencies.split('-')
-
-      console.log({ competenciesArray })
+      const competenciesArray = competencies.split('-').map(c => c.trim())
 
       const generalInfo = {
         course: {
@@ -169,7 +167,8 @@ const extractData = async () => {
 
       fullContent.push({
         generalInfo,
-        sommelier
+        sommelier,
+        competencies: competenciesArray
       })
     })
 
