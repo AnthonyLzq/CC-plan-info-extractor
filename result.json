@@ -127,7 +127,7 @@
       },
       "evaluationSystem": "G"
     },
-    "sommelier": "Para el estudiante de Ciencia de Computación, es importante conocer, saber y aplicar los paradigmas más importantes de la programación como son la programación estructurada y la programación orientada objetos, estar preparado y adaptarse a nuevos paradigmas. En el curso de programación orientada a objetos está diseñado de manera que el final el estudiante haber desarrollado competencias que le permitirán saber, definir, aplicar los principios fundamentales del paradigma orientadoa objetos que son las clases, objetos, relaciones entre objetos y clases, herencia, polimorfismo, clases abstractas, clases genéricas, colecciones, persistencia y las interfaces gráficas de usuarios para cual utilizar á un lenguaje de programación orientado a objetos como herramienta para soluciones concretas.",
+    "sommelier": "Para el estudiante de Ciencia de Computación, es importante conocer, saber y aplicar los paradigmas más importantes de la programación como son la programación estructurada y la programación orientada objetos, estar preparado y adaptarse a nuevos paradigmas. En el curso de programación orientada a objetos está diseñado de manera que el final el estudiante haber desarrollado competencias que le permitirán saber, definir, aplicar los principios fundamentales del paradigma orientado a objetos que son las clases, objetos, relaciones entre objetos y clases, herencia, polimorfismo, clases abstractas, clases genéricas, colecciones, persistencia y las interfaces gráficas de usuarios para cual utilizar á un lenguaje de programación orientado a objetos como herramienta para soluciones concretas.",
     "competencies": [
       "Argumenta los fundamentos y técnicas orientadas a objetos para diseñar y modelar clases y objetos implementando constructores y destructores",
       "Argumenta y modela valorando las relaciones entre objetos de uso, asociación, agregación y composición; y entre clases la herencia para diseñar formulando soluciones a problemas de la realidad",
@@ -188,7 +188,7 @@
           "Arquitectura de las tres capas datos, lógica e interfaz",
           "Interfaces graficas de Usuario (GUI) de java",
           "Ventanas, componentes y administradores de distribución de componentes",
-          "Implementación de programas utilizando lenguaje de programación orientadoa objetos"
+          "Implementación de programas utilizando lenguaje de programación orientado a objetos"
         ],
         "topic": "Hilos y GUIs"
       },
@@ -400,7 +400,7 @@
           "Clasificación",
           "Insertar tuplas en una relación",
           "Eliminar tuplas de una relación",
-          "Actualizar el valor de algunos componentes de tuplasexistentes"
+          "Actualizar el valor de algunos componentes de tuplas existentes"
         ],
         "topic": "Agregaciones, modificaciones, y operaciones avanzadas"
       },
@@ -753,7 +753,7 @@
           "Operaciones sobre Estructura de Datos",
           "Estructuras de datos y eficiencia",
           "Algoritmos para encontrar máximos y mínimos",
-          "Algoritmos para realizar búsquedas secuenciales ybinarias",
+          "Algoritmos para realizar búsquedas secuenciales y binarias",
           "Algoritmos de ordenamiento, de peor caso cuadrático(selección, inserción)",
           "Algoritmos de ordenamiento caso promedio (Quicksort, Heapsort, Mergesort)"
         ],
@@ -767,7 +767,7 @@
           "Noción de lista enlazada",
           "Definición formal de lista enlazada",
           "Características",
-          "Representación de listas enlazadas mediante arreglos, mediante cursores ymediante apuntadores",
+          "Representación de listas enlazadas mediante arreglos, mediante cursores y mediante apuntadores",
           "Listas doblemente enlazadas y listas circulares",
           "Definición formal de lista doblemente enlazada y listas circulares",
           "Características",
@@ -1144,7 +1144,7 @@
       },
       {
         "themes": [
-          "Análisis de algoritmos iterativos yrecursivos",
+          "Análisis de algoritmos iterativos y recursivos",
           "Análisis de algoritmos de ordenación y búsqueda",
           "Dividir y Conquistar",
           "Análisis Probabilístico y Algoritmos aleatorios"
@@ -2189,7 +2189,7 @@
       },
       {
         "themes": [
-          "La experiencia disponible las guías de estilo ylos patrones deinteracción/usabilidad",
+          "La experiencia disponible las guías de estilo y los patrones deinteracción/usabilidad",
           "Tendencia El desarrollo de interfaces de usuariobasado en modelos(Mb-UIDE)",
           "Especificación de la interfaz de usuario un ejemplo el lenguaje usiXML"
         ],
@@ -2582,7 +2582,7 @@
       },
       {
         "themes": [],
-        "topic": "Reglas de asociación, clasificación ypredicción"
+        "topic": "Reglas de asociación, clasificación y predicción"
       },
       {
         "themes": [],
