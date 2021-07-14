@@ -22,16 +22,35 @@ interface IGeneralInfo {
   preRequirements: ICourse[] | null
 }
 
+interface IBibliographyAndRating {
+  name  : string
+  rating: number
+}
+
 interface ISyllabusCourse {
   analyticProgram?: IAnalyticContent[]
-  bibliography?   : string[]
+  bibliography?   : IBibliographyAndRating[]
   competencies?   : string[]
   generalInfo     : IGeneralInfo
   sommelier       : string
 }
 
+interface IFirebaseConfig {
+  auth_provider_x509_cert_url: string
+  auth_uri                   : string
+  client_email               : string
+  client_id                  : string
+  client_x509_cert_url       : string
+  private_key                : string
+  private_key_id             : string
+  project_id                 : string
+  token_uri                  : string
+  type                       : string
+}
+
 export {
   IAnalyticContent,
   ISyllabusCourse,
-  ICourse
+  ICourse,
+  IFirebaseConfig
 }

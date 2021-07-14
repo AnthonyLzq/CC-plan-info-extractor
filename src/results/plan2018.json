@@ -105,19 +105,58 @@
       }
     ],
     "bibliography": [
-      "Programación en C Metodología, Algoritmos y Estructurade Datos. Luis Joyanes Aguilar",
-      "The C Programming Language. Kernighan & Ritchie",
-      "Programación en C, Byron Gottfried, Ed: McGrawHill",
-      "Programación C, Jordi Bataller Mascarell/Rafael Magdalen Ed: Alfaomega",
-      "Deitel, P. C++ How to program (6th edición). Prentice Hall. 2007",
-      "Forouzan, B., Mosharraf, F., Foundations of Computer Science. Cengage Learning Business Press, 2008",
-      "Bird, R. J. Introduction to Functional Programming using Haskell. Prentice - Hall Series in Computer Science. Prentice - Hall Europe, London, UK, 2nd edition. 1998",
-      "Paz-Valderrama, A. Apuntes Programación funcional en Haskell. Sociedad Peruana de Computación. 2005",
-      "Thompson, S. The Craft of Functional Programming, 2E. Addison Wesley, 1999",
-      "Klemens, Ben. 21st Century C. O’reilly, 2nd edition. 2015",
-      "Gregoire, Mark. Professional C++. John Wiley & Sons, Inc, 3rd edition. 2014",
-      "Kalicharan, Noel. Learn to Program with C, Apress. 2015",
-      "Prinz, Peter & Crawford, Tony. C in Nutshell. O’reilly, 2nd edition. 2010"
+      {
+        "name": "Programación en C Metodología, Algoritmos y Estructurade Datos. Luis Joyanes Aguilar",
+        "rating": 0
+      },
+      {
+        "name": "The C Programming Language. Kernighan & Ritchie",
+        "rating": 0
+      },
+      {
+        "name": "Programación en C, Byron Gottfried, Ed: McGrawHill",
+        "rating": 0
+      },
+      {
+        "name": "Programación C, Jordi Bataller Mascarell/Rafael Magdalen Ed: Alfaomega",
+        "rating": 0
+      },
+      {
+        "name": "Deitel, P. C++ How to program (6th edición). Prentice Hall. 2007",
+        "rating": 0
+      },
+      {
+        "name": "Forouzan, B., Mosharraf, F., Foundations of Computer Science. Cengage Learning Business Press, 2008",
+        "rating": 0
+      },
+      {
+        "name": "Bird, R. J. Introduction to Functional Programming using Haskell. Prentice - Hall Series in Computer Science. Prentice - Hall Europe, London, UK, 2nd edition. 1998",
+        "rating": 0
+      },
+      {
+        "name": "Paz-Valderrama, A. Apuntes Programación funcional en Haskell. Sociedad Peruana de Computación. 2005",
+        "rating": 0
+      },
+      {
+        "name": "Thompson, S. The Craft of Functional Programming, 2E. Addison Wesley, 1999",
+        "rating": 0
+      },
+      {
+        "name": "Klemens, Ben. 21st Century C. O’reilly, 2nd edition. 2015",
+        "rating": 0
+      },
+      {
+        "name": "Gregoire, Mark. Professional C++. John Wiley & Sons, Inc, 3rd edition. 2014",
+        "rating": 0
+      },
+      {
+        "name": "Kalicharan, Noel. Learn to Program with C, Apress. 2015",
+        "rating": 0
+      },
+      {
+        "name": "Prinz, Peter & Crawford, Tony. C in Nutshell. O’reilly, 2nd edition. 2010",
+        "rating": 0
+      }
     ]
   },
   {
@@ -220,10 +259,22 @@
       }
     ],
     "bibliography": [
-      "Deitel, H. y Deitel, P., “Como programar en Java”, 5ta. Edición, Pearson Educación, 2004",
-      "Lafore R., “Object-oriented programming in C++”, 4ta. Edición, 2002, SAMS",
-      "Poo, K., Kiong, P., Ashok, S., “Object oriented programmingand Java”, 2da. Edición, 2008, Springer",
-      "Preiss, B., “Data Structures and Algorithms with Object-OrientedDesign Patterns in Java”, 1ra. Ed., 2001 http//www.brpreiss.com/books/opus5/html/book.html Thompson, S. The Craft of Functional Programming, 2E. Addison Wesley, 1999"
+      {
+        "name": "Deitel, H. y Deitel, P., “Como programar en Java”, 5ta. Edición, Pearson Educación, 2004",
+        "rating": 0
+      },
+      {
+        "name": "Lafore R., “Object-oriented programming in C++”, 4ta. Edición, 2002, SAMS",
+        "rating": 0
+      },
+      {
+        "name": "Poo, K., Kiong, P., Ashok, S., “Object oriented programmingand Java”, 2da. Edición, 2008, Springer",
+        "rating": 0
+      },
+      {
+        "name": "Preiss, B., “Data Structures and Algorithms with Object-OrientedDesign Patterns in Java”, 1ra. Ed., 2001 http//www.brpreiss.com/books/opus5/html/book.html Thompson, S. The Craft of Functional Programming, 2E. Addison Wesley, 1999",
+        "rating": 0
+      }
     ]
   },
   {
@@ -315,13 +366,34 @@
       }
     ],
     "bibliography": [
-      "Brey, B. B. The Intel Microprocessors 8086/8088, 80186, 80286, 80386, 80486, Pentium, Pentium Pro, and Pentium II, Pentium III, Pentium 4, 7th edition. Prentice - Hall. 2005",
-      "Mano, M. M. Computer System Architecture, 3rd edition. Prentice Hall. 1992",
-      "D. Tullsen, S. Eggers and H. Levy. Simultaneous MultithreadingMaximizingOn-Chip Parallelism, in the Proceedings of the 22rd Annual International Symposium on Computer Architecture, June 1995",
-      "Carpinelli, J. D. Computer Systems Organization & Architecture. Addison Wesley. 2001",
-      "Joseph D. Dumas II, Joseph D. Dumas. Computer architecture fundamentals andprinciples of computer design. Publicado por CRC Press. 2006",
-      "John L. Hennessy, David A. Patterson, Andrea C. Arpaci -Dusseau. Computer architecture: a quantitative approach. Publicado por Morgan Kaufmann. 2007",
-      "John L. Hennessy, David A. Patterson. Estructura y Diseño de Computadores La: interfaz Hardware/Software. 4th Edition. Editorial Reverté, S. A., 2011"
+      {
+        "name": "Brey, B. B. The Intel Microprocessors 8086/8088, 80186, 80286, 80386, 80486, Pentium, Pentium Pro, and Pentium II, Pentium III, Pentium 4, 7th edition. Prentice - Hall. 2005",
+        "rating": 0
+      },
+      {
+        "name": "Mano, M. M. Computer System Architecture, 3rd edition. Prentice Hall. 1992",
+        "rating": 0
+      },
+      {
+        "name": "D. Tullsen, S. Eggers and H. Levy. Simultaneous MultithreadingMaximizingOn-Chip Parallelism, in the Proceedings of the 22rd Annual International Symposium on Computer Architecture, June 1995",
+        "rating": 0
+      },
+      {
+        "name": "Carpinelli, J. D. Computer Systems Organization & Architecture. Addison Wesley. 2001",
+        "rating": 0
+      },
+      {
+        "name": "Joseph D. Dumas II, Joseph D. Dumas. Computer architecture fundamentals andprinciples of computer design. Publicado por CRC Press. 2006",
+        "rating": 0
+      },
+      {
+        "name": "John L. Hennessy, David A. Patterson, Andrea C. Arpaci -Dusseau. Computer architecture: a quantitative approach. Publicado por Morgan Kaufmann. 2007",
+        "rating": 0
+      },
+      {
+        "name": "John L. Hennessy, David A. Patterson. Estructura y Diseño de Computadores La: interfaz Hardware/Software. 4th Edition. Editorial Reverté, S. A., 2011",
+        "rating": 0
+      }
     ]
   },
   {
@@ -493,18 +565,54 @@
       }
     ],
     "bibliography": [
-      "Hector García-Molina, Jeff Ullman, y Jennifer Widom. Database Systems TheComplete Book (DSCB). Editorial Upper Saddle River, N. J. Pearson Prentice Hall, 2009",
-      "C. J. Date. Introducción a los Sistemas de Base de Datos. Pearson Prentice Hall, 2001",
-      "Enrique Rivero Cornelio, Carlos Guardia Rivas, José Carlos Reig Hernández. Basesde datos relacionales diseño físico (Orientado alDB2 para z/OS de IBM). EditorUniversidad Pontificia de Comillas de Madrid, 2004",
-      "Abiteboul, S; Hull and Vianu, V. Foundations of Databases. Addison-Wesley Publishing Company, 1995",
-      "Ullman, Jeff rey D. Principles of Database and KnowledgeBase Systems, Vol I Computers Science Press, 1988",
-      "Mendelzon, A. Introducción a las Bases de Datos Relacionales. Ed. Pearson, 2000",
-      "Silberschatz, A.; Korth, H. F.; Sudarshan, S. Fundamentosde Bases de Datos. 3ra edición. Madrid, McGraw-Hill, 1998",
-      "Inmon, W. H.. Building the Data Warehouse. John Wiley, 2002",
-      "Elmasri, R.; Navathe, S. B. Fundamentals of DatabaseSystems 3rd Edition, Addison-Wesley, 2000",
-      "Berry, M. Data mining techniques. 1997",
-      "Bray, T.; Hollander, D.; Layman, A. Name-spaces in XML. World Wide webConsortium. W3C Recommendation, 1999",
-      "Urman, S. ORACLE 8. Programación en PL/SQL. OsborneMcGraw-Hill, Madrid, 1998"
+      {
+        "name": "Hector García-Molina, Jeff Ullman, y Jennifer Widom. Database Systems TheComplete Book (DSCB). Editorial Upper Saddle River, N. J. Pearson Prentice Hall, 2009",
+        "rating": 0
+      },
+      {
+        "name": "C. J. Date. Introducción a los Sistemas de Base de Datos. Pearson Prentice Hall, 2001",
+        "rating": 0
+      },
+      {
+        "name": "Enrique Rivero Cornelio, Carlos Guardia Rivas, José Carlos Reig Hernández. Basesde datos relacionales diseño físico (Orientado alDB2 para z/OS de IBM). EditorUniversidad Pontificia de Comillas de Madrid, 2004",
+        "rating": 0
+      },
+      {
+        "name": "Abiteboul, S; Hull and Vianu, V. Foundations of Databases. Addison-Wesley Publishing Company, 1995",
+        "rating": 0
+      },
+      {
+        "name": "Ullman, Jeff rey D. Principles of Database and KnowledgeBase Systems, Vol I Computers Science Press, 1988",
+        "rating": 0
+      },
+      {
+        "name": "Mendelzon, A. Introducción a las Bases de Datos Relacionales. Ed. Pearson, 2000",
+        "rating": 0
+      },
+      {
+        "name": "Silberschatz, A.; Korth, H. F.; Sudarshan, S. Fundamentosde Bases de Datos. 3ra edición. Madrid, McGraw-Hill, 1998",
+        "rating": 0
+      },
+      {
+        "name": "Inmon, W. H.. Building the Data Warehouse. John Wiley, 2002",
+        "rating": 0
+      },
+      {
+        "name": "Elmasri, R.; Navathe, S. B. Fundamentals of DatabaseSystems 3rd Edition, Addison-Wesley, 2000",
+        "rating": 0
+      },
+      {
+        "name": "Berry, M. Data mining techniques. 1997",
+        "rating": 0
+      },
+      {
+        "name": "Bray, T.; Hollander, D.; Layman, A. Name-spaces in XML. World Wide webConsortium. W3C Recommendation, 1999",
+        "rating": 0
+      },
+      {
+        "name": "Urman, S. ORACLE 8. Programación en PL/SQL. OsborneMcGraw-Hill, Madrid, 1998",
+        "rating": 0
+      }
     ]
   },
   {
@@ -754,14 +862,38 @@
       }
     ],
     "bibliography": [
-      "Mateu, L. Apuntes de Sistemas Operativos. Universidad de Chile. 1999",
-      "Stallings, W. Operating Systems Internals and DesignPrinciples, 5/Ed. Prentice Hall. 2005",
-      "Tanenbaum, A. S. Modern Operating Systems, 2/Ed. Prentice Hall. 2001",
-      "Tanenbaum, A. S. Operating Systems Design and Implementation, 3/Ed. Prentice Hall. 2006",
-      "Wale Soyinka. Linux Administration A Beginner's Guide, 5/Ed. McGraw Hill",
-      "Evi Nemeth &Garth Snyder & Trent R. Hein. Linux Administration Handbook, 1/Ed. Prentice Hall",
-      "Ellen Siever, Stephen Figgins, Aaron Weber. Linux in a Nutshell, 4th Ed., A DesktopQuick Reference. O'Reilly Media",
-      "Steven Pritchard, Bruno Gomes Pessanha, Nicolai Langfeldt, James Stanger, Jeff Dean, et al. LPI Linux Certification in a Nutshell, 2nd Ed. O'Reilly Media"
+      {
+        "name": "Mateu, L. Apuntes de Sistemas Operativos. Universidad de Chile. 1999",
+        "rating": 0
+      },
+      {
+        "name": "Stallings, W. Operating Systems Internals and DesignPrinciples, 5/Ed. Prentice Hall. 2005",
+        "rating": 0
+      },
+      {
+        "name": "Tanenbaum, A. S. Modern Operating Systems, 2/Ed. Prentice Hall. 2001",
+        "rating": 0
+      },
+      {
+        "name": "Tanenbaum, A. S. Operating Systems Design and Implementation, 3/Ed. Prentice Hall. 2006",
+        "rating": 0
+      },
+      {
+        "name": "Wale Soyinka. Linux Administration A Beginner's Guide, 5/Ed. McGraw Hill",
+        "rating": 0
+      },
+      {
+        "name": "Evi Nemeth &Garth Snyder & Trent R. Hein. Linux Administration Handbook, 1/Ed. Prentice Hall",
+        "rating": 0
+      },
+      {
+        "name": "Ellen Siever, Stephen Figgins, Aaron Weber. Linux in a Nutshell, 4th Ed., A DesktopQuick Reference. O'Reilly Media",
+        "rating": 0
+      },
+      {
+        "name": "Steven Pritchard, Bruno Gomes Pessanha, Nicolai Langfeldt, James Stanger, Jeff Dean, et al. LPI Linux Certification in a Nutshell, 2nd Ed. O'Reilly Media",
+        "rating": 0
+      }
     ]
   },
   {
@@ -790,7 +922,7 @@
       },
       "evaluationSystem": "G"
     },
-    "sommelier": "Este curso es una continuación del curso de programación orientada a objetos pero centrado en la programación de estructuras de datos simples y complejas. Por tanto, los aspectos que se estudiarán serán principalmente cómo se definen y cómo se implementan las estructuras de datos e incorporarlos a cualquier entorno de programación. Así mismo, como puede observarse, este curso continúa con la formación de un programador en cualquier ámbito o especialidad, continuando posteriormente en el curso de “ Análisis y diseño de algoritmos”, donde se verá algoritmia y optimización en estructuras de datos complejas.",
+    "sommelier": "Este curso es una continuación del curso de programación orientada a objetos pero centrado en la programación de estructuras de datos simples y complejas. Por tanto, los aspectos que se estudiarán serán principalmente cómo se definen y cómo se implementan las estructuras de datos e incorporarlos a cualquier entorno de programación. Así mismo, como puede observarse, este curso continúa con la formación de un programador en cualquier ámbito o especialidad, continuando posteriormente en el curso de “Análisis y diseño de algoritmos”, donde se verá algoritmia y optimización en estructuras de datos complejas.",
     "competencies": [
       "Evalúa las propiedades de las estructuras de datos estableciendo su utilidad en las aplicaciones en ciencia e ingeniería comprometiéndose en el uso adecuado que conlleve a resolver problemas de la vida real",
       "Demuestra su capacidad de análisis diseñando, implementando estructuras que permitan dar solución, trabajando en equipo en los diversos problemas en la ciencia e ingeniería",
@@ -884,14 +1016,38 @@
       }
     ],
     "bibliography": [
-      "Weiss, M. A. Data Structures and Algorithm Analysis in C++, 4th Edition, Pearson/Addison Wesley, 2014",
-      "Hernández, Z. J. y otros Fundamentos de Estructuras de Datos. Soluciones en Ada, Java y C++, Thomson, 2005",
-      "Shaffer, Clifford A. Data Structures and Algorithm Analysis in C++, Third Edition, Dover Publications, 2013",
-      "Martí Oliet, N., Ortega Mallén, Y., Verdejo López, J. A. Estructuras de datos y métodos algorítmicos 213 ejercicios resueltos. 2ª Edición, Ed. Garceta, 2013",
-      "Joyanes, L., Zahonero, I., Fernández, M. y Sánchez, L. Estructura de datos. Libro de problemas, McGraw Hill, 1999",
-      "Campos Laclaustra, J. Estructuras de Datos y Algoritmos, Prensas Universitarias de Zaragoza, Colección Textos Docentes, 1995",
-      "Franch Gutiérrez, X. Estructuras de Datos. Especificación, Diseño e Implementación, 3ª edición, Ed. Edicions UPC, 2001",
-      "Mehta, D. P. y Sahni, S. Handbook of Data Structures and Applications, Chapman & Hall/CRC, 2005"
+      {
+        "name": "Weiss, M. A. Data Structures and Algorithm Analysis in C++, 4th Edition, Pearson/Addison Wesley, 2014",
+        "rating": 0
+      },
+      {
+        "name": "Hernández, Z. J. y otros Fundamentos de Estructuras de Datos. Soluciones en Ada, Java y C++, Thomson, 2005",
+        "rating": 0
+      },
+      {
+        "name": "Shaffer, Clifford A. Data Structures and Algorithm Analysis in C++, Third Edition, Dover Publications, 2013",
+        "rating": 0
+      },
+      {
+        "name": "Martí Oliet, N., Ortega Mallén, Y., Verdejo López, J. A. Estructuras de datos y métodos algorítmicos 213 ejercicios resueltos. 2ª Edición, Ed. Garceta, 2013",
+        "rating": 0
+      },
+      {
+        "name": "Joyanes, L., Zahonero, I., Fernández, M. y Sánchez, L. Estructura de datos. Libro de problemas, McGraw Hill, 1999",
+        "rating": 0
+      },
+      {
+        "name": "Campos Laclaustra, J. Estructuras de Datos y Algoritmos, Prensas Universitarias de Zaragoza, Colección Textos Docentes, 1995",
+        "rating": 0
+      },
+      {
+        "name": "Franch Gutiérrez, X. Estructuras de Datos. Especificación, Diseño e Implementación, 3ª edición, Ed. Edicions UPC, 2001",
+        "rating": 0
+      },
+      {
+        "name": "Mehta, D. P. y Sahni, S. Handbook of Data Structures and Applications, Chapman & Hall/CRC, 2005",
+        "rating": 0
+      }
     ]
   },
   {
@@ -1029,14 +1185,38 @@
       }
     ],
     "bibliography": [
-      "ARIGANELLO, ERNESTO - “Redes Cisco”. Ra-Ma",
-      "TANEMBAUM/WETHERALL - “Redes de Computadoras”. PearsonQuinta edición, 2012",
-      "STALLINGS, W. - “Redes e Internet de Alta Velocidad. Rendimiento y Calidad de Servicio”; 2a edición",
-      "STALLINGS, W. - “Comunicaciones y redes de computadores”; 6a/7a edición, Prentice Hall, 2000/2004. Prentice - Hall, 2004",
-      "HALSALL, F. - “ Comunicación de datos, redes de computadoresy sistemas abiertos”; 4a edición, Addison- Wesley Longman, 1998",
-      "TANENBAUM, A. - “Computer Networks”; 4th edition, Prentice - Hall, 2003",
-      "FOROUZAN, B. A. - “Transmisión de datos y redes decomunicaciones”; 2a edición, McGraw-Hill, 2001",
-      "Cisco Systems. - Inc. Guía del primer año. CCNA 1 y 2. Cisco Press, 2003"
+      {
+        "name": "ARIGANELLO, ERNESTO - “Redes Cisco”. Ra-Ma",
+        "rating": 0
+      },
+      {
+        "name": "TANEMBAUM/WETHERALL - “Redes de Computadoras”. PearsonQuinta edición, 2012",
+        "rating": 0
+      },
+      {
+        "name": "STALLINGS, W. - “Redes e Internet de Alta Velocidad. Rendimiento y Calidad de Servicio”; 2a edición",
+        "rating": 0
+      },
+      {
+        "name": "STALLINGS, W. - “Comunicaciones y redes de computadores”; 6a/7a edición, Prentice Hall, 2000/2004. Prentice - Hall, 2004",
+        "rating": 0
+      },
+      {
+        "name": "HALSALL, F. - “Comunicación de datos, redes de computadoresy sistemas abiertos”; 4a edición, Addison- Wesley Longman, 1998",
+        "rating": 0
+      },
+      {
+        "name": "TANENBAUM, A. - “Computer Networks”; 4th edition, Prentice - Hall, 2003",
+        "rating": 0
+      },
+      {
+        "name": "FOROUZAN, B. A. - “Transmisión de datos y redes decomunicaciones”; 2a edición, McGraw-Hill, 2001",
+        "rating": 0
+      },
+      {
+        "name": "Cisco Systems. - Inc. Guía del primer año. CCNA 1 y 2. Cisco Press, 2003",
+        "rating": 0
+      }
     ]
   },
   {
@@ -1176,15 +1356,42 @@
       }
     ],
     "bibliography": [
-      "Brookshear J. Teoría de la Computación. Addison Wesley. 1993",
-      "Dexter C. Kozen. “Automata and computability”. Springer -Verlag. 1997",
-      "Efim Kinber, Carl Smith. “Theory of computing a gentle Introduction”. Prentice - Hall. 2001",
-      "Harry R. Lewis, Christos H. Papadimitriou. “Elements of the theory of computation”. Prentice - Hall. 1998",
-      "Hopcroft, J. E.; Motwani, R. i Ullman, J. D. “ Introduction to Automata Theory, Languages and Computation”. 2da ed. Addison-Wesley, 2001",
-      "J. Glenn Brookshear. “Teoría de la Computación lenguajes formales, autómatas y complejidad”. Addison-Wesley Iberoamericana. 1993",
-      "Joaquim Gabarró Valles. “Informatica classica autómatas, gramatiques, indecidibilidad, parallelismo masivo”. 1995",
-      "Jozef Gruska. “Foundations of computing”. International Thomson Computer Press. 1997",
-      "Sipser. Introduction to the Theory of Computation. PWS. 1997"
+      {
+        "name": "Brookshear J. Teoría de la Computación. Addison Wesley. 1993",
+        "rating": 0
+      },
+      {
+        "name": "Dexter C. Kozen. “Automata and computability”. Springer -Verlag. 1997",
+        "rating": 0
+      },
+      {
+        "name": "Efim Kinber, Carl Smith. “Theory of computing a gentle Introduction”. Prentice - Hall. 2001",
+        "rating": 0
+      },
+      {
+        "name": "Harry R. Lewis, Christos H. Papadimitriou. “Elements of the theory of computation”. Prentice - Hall. 1998",
+        "rating": 0
+      },
+      {
+        "name": "Hopcroft, J. E.; Motwani, R. i Ullman, J. D. “Introduction to Automata Theory, Languages and Computation”. 2da ed. Addison-Wesley, 2001",
+        "rating": 0
+      },
+      {
+        "name": "J. Glenn Brookshear. “Teoría de la Computación lenguajes formales, autómatas y complejidad”. Addison-Wesley Iberoamericana. 1993",
+        "rating": 0
+      },
+      {
+        "name": "Joaquim Gabarró Valles. “Informatica classica autómatas, gramatiques, indecidibilidad, parallelismo masivo”. 1995",
+        "rating": 0
+      },
+      {
+        "name": "Jozef Gruska. “Foundations of computing”. International Thomson Computer Press. 1997",
+        "rating": 0
+      },
+      {
+        "name": "Sipser. Introduction to the Theory of Computation. PWS. 1997",
+        "rating": 0
+      }
     ]
   },
   {
@@ -1263,14 +1470,38 @@
       }
     ],
     "bibliography": [
-      "T. H. Cormen, C. E. Leiserson, R. L. Rivest, C. Stein. Introduction to algorithms. The MIT Press, 2009",
-      "R. Peña. Diseño de programas Formalismo y abstracción. Tercera edición, Pearson/Prentice Hall 2005",
-      "Steven R. Skiena. The Algorithm Design. Ed. Springer",
-      "G. Brassard, P. Bradley. Fundamentos de algoritmia. Prentice Hall, 1997",
-      "R. Neapolitan, K. Naimipour. Foundations of algorithms, 3a edición. Jones andBartlett Publishers, 2003",
-      "Donald E. Knuth. The Art of Computer Programming",
-      "M. Rodríguez Artalejo, P. A. González Calero, M. A. Gómez Martín. Estructuras de datos un enfoque moderno. Editorial Complutense 2011",
-      "N. Martí Oliet, Y. Ortega Mallén, J. A. Verdejo López. Estructuras de datos y métodos algorítmicos ejercicios resueltos. Colección Prentice Práctica, Pearson/Prentice Hall 2003"
+      {
+        "name": "T. H. Cormen, C. E. Leiserson, R. L. Rivest, C. Stein. Introduction to algorithms. The MIT Press, 2009",
+        "rating": 0
+      },
+      {
+        "name": "R. Peña. Diseño de programas Formalismo y abstracción. Tercera edición, Pearson/Prentice Hall 2005",
+        "rating": 0
+      },
+      {
+        "name": "Steven R. Skiena. The Algorithm Design. Ed. Springer",
+        "rating": 0
+      },
+      {
+        "name": "G. Brassard, P. Bradley. Fundamentos de algoritmia. Prentice Hall, 1997",
+        "rating": 0
+      },
+      {
+        "name": "R. Neapolitan, K. Naimipour. Foundations of algorithms, 3a edición. Jones andBartlett Publishers, 2003",
+        "rating": 0
+      },
+      {
+        "name": "Donald E. Knuth. The Art of Computer Programming",
+        "rating": 0
+      },
+      {
+        "name": "M. Rodríguez Artalejo, P. A. González Calero, M. A. Gómez Martín. Estructuras de datos un enfoque moderno. Editorial Complutense 2011",
+        "rating": 0
+      },
+      {
+        "name": "N. Martí Oliet, Y. Ortega Mallén, J. A. Verdejo López. Estructuras de datos y métodos algorítmicos ejercicios resueltos. Colección Prentice Práctica, Pearson/Prentice Hall 2003",
+        "rating": 0
+      }
     ]
   },
   {
@@ -1371,15 +1602,42 @@
       }
     ],
     "bibliography": [
-      "Blum, B. I. Software Engineering A Holistic View. Oxford University Press US, 7th edition., 1992",
-      "Pressman, R. S. Software Engineering A Practitioner’s Approach. McGrawHill, 6th edition. 2004",
-      "Schach, S. R. Object-Oriented and Classical SoftwareEngineering. McGrawHill., 2004",
-      "BROWN, W. J., MCCORMICK, H. W., THOMAS, S. W. Anti Patterns refactoring software, architectures and projects in crisis. John Wiley and Sons",
-      "COLLARD, J. F. BURNSTEIN, I. Practical Software TestingA Process-Oriented Approach. Springer",
-      "GALIN, D. Software Quality Assurance From theoryto implementation. Addison-Wesley",
-      "KAN, S. H. Metrics and Models in Software Quality Engineering. Addison-Wesley",
-      "KANER, C., NGUYEN, H. Q., FALK, J. Testing ComputerSoftware. John Wiley & Sons",
-      "LEON, A. Software Configuration Management Handbook. Artech House. 10. PIGOSKI, T. M. Practical Software Maintenance. John Wiley & Sons"
+      {
+        "name": "Blum, B. I. Software Engineering A Holistic View. Oxford University Press US, 7th edition., 1992",
+        "rating": 0
+      },
+      {
+        "name": "Pressman, R. S. Software Engineering A Practitioner’s Approach. McGrawHill, 6th edition. 2004",
+        "rating": 0
+      },
+      {
+        "name": "Schach, S. R. Object-Oriented and Classical SoftwareEngineering. McGrawHill., 2004",
+        "rating": 0
+      },
+      {
+        "name": "BROWN, W. J., MCCORMICK, H. W., THOMAS, S. W. Anti Patterns refactoring software, architectures and projects in crisis. John Wiley and Sons",
+        "rating": 0
+      },
+      {
+        "name": "COLLARD, J. F. BURNSTEIN, I. Practical Software TestingA Process-Oriented Approach. Springer",
+        "rating": 0
+      },
+      {
+        "name": "GALIN, D. Software Quality Assurance From theoryto implementation. Addison-Wesley",
+        "rating": 0
+      },
+      {
+        "name": "KAN, S. H. Metrics and Models in Software Quality Engineering. Addison-Wesley",
+        "rating": 0
+      },
+      {
+        "name": "KANER, C., NGUYEN, H. Q., FALK, J. Testing ComputerSoftware. John Wiley & Sons",
+        "rating": 0
+      },
+      {
+        "name": "LEON, A. Software Configuration Management Handbook. Artech House. 10. PIGOSKI, T. M. Practical Software Maintenance. John Wiley & Sons",
+        "rating": 0
+      }
     ]
   },
   {
@@ -1474,24 +1732,78 @@
       }
     ],
     "bibliography": [
-      "“UNIX. Interconexión de redes”. U. O. Pabrai. RA-MA. 1997",
-      "“TCP/IP”. S. Feit. Osborne McGraw-Hill. 1998",
-      "“ Linux. Administración del sistema y de la red”. I. Alegría Loinaz, et al. Pearson/Prentice - Hall. 2005",
-      "“Red Hat Enterprise Linux and Fedora Core 4”. R. Petersen. McGraw-Hill. 2005",
-      "Villalón Huerta, A. (2002). Seguridad en UNIX y redes. Versión 2.1",
-      "“Seguridad Práctica en UNIX e Internet (2ª edición)\". S. Garfinkel, G. Spafford Ed. McGraw-Hill. 2000",
-      "Dhanjani, Nitesh (2008). Claves hackers en Linux y UNIX. Mc Graw-Hill",
-      "Dwivedi (2007). Hacking Exposed Web 2.0: Web 2.0 Security Secrets and Solutions. Estats Units McGraw-Hill",
-      "“Fundamentos de Seguridad en Redes. Aplicaciones y Estándares (2ª edición)”. W. Stallings. Pearson- Prentice Hall. 2004",
-      "“Seguridad en Redes Telemáticas”. J. Carracedo Gallardo. McGraw-Hill. 2004",
-      "“Red Hat Linux Firewalls”. B. McCarty. Anaya Multimedia. 2003",
-      "Craig Hunt. TCP/IP network administration, Ed. 3, Publicado por O'Reilly, 2002",
-      "Tony Bautts, Terry Dawson, Gregor N. Purdy. Linux network administrator's guide. Ed. 3 Publicado por O'Reilly, 2005",
-      "L. Parziale. “TCP/IP Tutorial and Technical Overview”. 8th edition. IBM RedBooks. 2006",
-      "Q. Li. “IPv6 Core Protocols Implementation”. 1st edition. Morgan KaufmannPublishers. 2005",
-      "F. Halsall. “Redes de Computadores e Internet”. 5ª edición. Addison-Wesley. 2006",
-      "B. Sosinsky. “Networking Bible”. 1st edition. Wiley Publishing. 2009",
-      "E. Cole. “Network Security Bible”. 2nd edition. John Wiley & Sons. 2009"
+      {
+        "name": "“UNIX. Interconexión de redes”. U. O. Pabrai. RA-MA. 1997",
+        "rating": 0
+      },
+      {
+        "name": "“TCP/IP”. S. Feit. Osborne McGraw-Hill. 1998",
+        "rating": 0
+      },
+      {
+        "name": "“Linux. Administración del sistema y de la red”. I. Alegría Loinaz, et al. Pearson/Prentice - Hall. 2005",
+        "rating": 0
+      },
+      {
+        "name": "“Red Hat Enterprise Linux and Fedora Core 4”. R. Petersen. McGraw-Hill. 2005",
+        "rating": 0
+      },
+      {
+        "name": "Villalón Huerta, A. (2002). Seguridad en UNIX y redes. Versión 2.1",
+        "rating": 0
+      },
+      {
+        "name": "“Seguridad Práctica en UNIX e Internet (2ª edición)\". S. Garfinkel, G. Spafford Ed. McGraw-Hill. 2000",
+        "rating": 0
+      },
+      {
+        "name": "Dhanjani, Nitesh (2008). Claves hackers en Linux y UNIX. Mc Graw-Hill",
+        "rating": 0
+      },
+      {
+        "name": "Dwivedi (2007). Hacking Exposed Web 2.0: Web 2.0 Security Secrets and Solutions. Estats Units McGraw-Hill",
+        "rating": 0
+      },
+      {
+        "name": "“Fundamentos de Seguridad en Redes. Aplicaciones y Estándares (2ª edición)”. W. Stallings. Pearson- Prentice Hall. 2004",
+        "rating": 0
+      },
+      {
+        "name": "“Seguridad en Redes Telemáticas”. J. Carracedo Gallardo. McGraw-Hill. 2004",
+        "rating": 0
+      },
+      {
+        "name": "“Red Hat Linux Firewalls”. B. McCarty. Anaya Multimedia. 2003",
+        "rating": 0
+      },
+      {
+        "name": "Craig Hunt. TCP/IP network administration, Ed. 3, Publicado por O'Reilly, 2002",
+        "rating": 0
+      },
+      {
+        "name": "Tony Bautts, Terry Dawson, Gregor N. Purdy. Linux network administrator's guide. Ed. 3 Publicado por O'Reilly, 2005",
+        "rating": 0
+      },
+      {
+        "name": "L. Parziale. “TCP/IP Tutorial and Technical Overview”. 8th edition. IBM RedBooks. 2006",
+        "rating": 0
+      },
+      {
+        "name": "Q. Li. “IPv6 Core Protocols Implementation”. 1st edition. Morgan KaufmannPublishers. 2005",
+        "rating": 0
+      },
+      {
+        "name": "F. Halsall. “Redes de Computadores e Internet”. 5ª edición. Addison-Wesley. 2006",
+        "rating": 0
+      },
+      {
+        "name": "B. Sosinsky. “Networking Bible”. 1st edition. Wiley Publishing. 2009",
+        "rating": 0
+      },
+      {
+        "name": "E. Cole. “Network Security Bible”. 2nd edition. John Wiley & Sons. 2009",
+        "rating": 0
+      }
     ]
   },
   {
@@ -1566,15 +1878,42 @@
       }
     ],
     "bibliography": [
-      "Mathematical Structures for Computer Graphics. Janke, Steven. John Wiley & Sons. 2015",
-      "Numerical Algorithms. Solomon, Justin. CRC Press. 2015",
-      "Fundamental of Computer Graphics. 4th edition. Marschner, Steve and Shirley, Peter. CRC Press. 2016",
-      "Mathematics for Computer Graphics. 5th edition. Vince, John. Springer. Undergraduate Topics in Computer Science (UTiCS). 2017",
-      "Optimization in Engineering Models and Algorithms. Sioshansi, Ramteen and Conejo, Antonio. Springer. Springer Optimization and Its Applications, Volume 120. 2017",
-      "Numerical Optimization with Computational Errors. Zaslavski, Alexander. Springer Optimization and Its Applications, Volume 108. 2016",
-      "Computational Optimization, Methods and Algorithms. Koziel, Slawomir and Yang, Xin She. Springer. Studies in Computational Intelligence, Volume 356. 2011",
-      "Computational Probability Algorithms and Applications in the Mathematical Science. 2nd edition. Drew, John et al. Springer. International Series in Operations Research &Management Science, Volume 246. 2017",
-      "An introduction to Computational Stochastic PDEs. Lord, Gabriel et all. Cambridge University Press. Cambridge Texts in Applied Mathematics. 2014"
+      {
+        "name": "Mathematical Structures for Computer Graphics. Janke, Steven. John Wiley & Sons. 2015",
+        "rating": 0
+      },
+      {
+        "name": "Numerical Algorithms. Solomon, Justin. CRC Press. 2015",
+        "rating": 0
+      },
+      {
+        "name": "Fundamental of Computer Graphics. 4th edition. Marschner, Steve and Shirley, Peter. CRC Press. 2016",
+        "rating": 0
+      },
+      {
+        "name": "Mathematics for Computer Graphics. 5th edition. Vince, John. Springer. Undergraduate Topics in Computer Science (UTiCS). 2017",
+        "rating": 0
+      },
+      {
+        "name": "Optimization in Engineering Models and Algorithms. Sioshansi, Ramteen and Conejo, Antonio. Springer. Springer Optimization and Its Applications, Volume 120. 2017",
+        "rating": 0
+      },
+      {
+        "name": "Numerical Optimization with Computational Errors. Zaslavski, Alexander. Springer Optimization and Its Applications, Volume 108. 2016",
+        "rating": 0
+      },
+      {
+        "name": "Computational Optimization, Methods and Algorithms. Koziel, Slawomir and Yang, Xin She. Springer. Studies in Computational Intelligence, Volume 356. 2011",
+        "rating": 0
+      },
+      {
+        "name": "Computational Probability Algorithms and Applications in the Mathematical Science. 2nd edition. Drew, John et al. Springer. International Series in Operations Research &Management Science, Volume 246. 2017",
+        "rating": 0
+      },
+      {
+        "name": "An introduction to Computational Stochastic PDEs. Lord, Gabriel et all. Cambridge University Press. Cambridge Texts in Applied Mathematics. 2014",
+        "rating": 0
+      }
     ]
   },
   {
@@ -1657,16 +1996,46 @@
       }
     ],
     "bibliography": [
-      "Kumar, V; Grama, A; Gupta, A; Karypis, G. Introduction to Parallel Computing, Second Edition. Addison Wesley, 2003",
-      "Geist, A.; Beguelin, A; Dongarra, J. et al. PVM ParallelVirtual Machine. A Users’ Guide and Tutorial for Networked Parallel Computing. The MIT Press, 1994",
-      "Pacheco, P. S. Parallel Programming with MPI. Morgan Kaufmann Publishers 1997",
-      "Enrique Arias; Algoritmos de altas prestaciones para la simulación, estimación y control de sistemas no lineales.; Universidad Politécnica de Valencia; 2003",
-      "G. H. Golub, C. F. Van Loan; Matrix computations; The Johns Hopkins University Press; 1996",
-      "J. L. Hennessy, D. A. Patterson; Computer architecture a quantitative approach; Morgan Kaufman Publishers 2003",
-      "Julio Ortega, Mancia Anguita y Alberto Prieto; Arquitecturade computadores; Thomson Paraninfo 2005",
-      "P. Pacheco; Parallel Programming with MPI; MIT Press1994",
-      "R. Chandra, R. Menon, L. Dagum, D. Kohr, D. Maydan, J. McDonald; Parallel Programming in OpenMP; Morgan Kaufman Publishers 2000",
-      "W. Gropp, E. Lusk, A. Skjellum; Using MPI Portable Parallel Programming with the Message-Passing Interface; MIT Press 1994"
+      {
+        "name": "Kumar, V; Grama, A; Gupta, A; Karypis, G. Introduction to Parallel Computing, Second Edition. Addison Wesley, 2003",
+        "rating": 0
+      },
+      {
+        "name": "Geist, A.; Beguelin, A; Dongarra, J. et al. PVM ParallelVirtual Machine. A Users’ Guide and Tutorial for Networked Parallel Computing. The MIT Press, 1994",
+        "rating": 0
+      },
+      {
+        "name": "Pacheco, P. S. Parallel Programming with MPI. Morgan Kaufmann Publishers 1997",
+        "rating": 0
+      },
+      {
+        "name": "Enrique Arias; Algoritmos de altas prestaciones para la simulación, estimación y control de sistemas no lineales.; Universidad Politécnica de Valencia; 2003",
+        "rating": 0
+      },
+      {
+        "name": "G. H. Golub, C. F. Van Loan; Matrix computations; The Johns Hopkins University Press; 1996",
+        "rating": 0
+      },
+      {
+        "name": "J. L. Hennessy, D. A. Patterson; Computer architecture a quantitative approach; Morgan Kaufman Publishers 2003",
+        "rating": 0
+      },
+      {
+        "name": "Julio Ortega, Mancia Anguita y Alberto Prieto; Arquitecturade computadores; Thomson Paraninfo 2005",
+        "rating": 0
+      },
+      {
+        "name": "P. Pacheco; Parallel Programming with MPI; MIT Press1994",
+        "rating": 0
+      },
+      {
+        "name": "R. Chandra, R. Menon, L. Dagum, D. Kohr, D. Maydan, J. McDonald; Parallel Programming in OpenMP; Morgan Kaufman Publishers 2000",
+        "rating": 0
+      },
+      {
+        "name": "W. Gropp, E. Lusk, A. Skjellum; Using MPI Portable Parallel Programming with the Message-Passing Interface; MIT Press 1994",
+        "rating": 0
+      }
     ]
   },
   {
@@ -1894,23 +2263,74 @@
       }
     ],
     "bibliography": [
-      "Cheswick, W. R.; Bellovin, S. M.; Rubin, A. D. (2003). Firewalls and Internet SecurityRepelling the Wily Hacker. (5a ed.). Addison-Wesley Professional Computing",
-      "Oppliger, R. (2001). Security technologies for theWorld Wide Web. (1a ed.). Artech House",
-      "Menezes, J.; van Oorschot, P. C.; Vanstone, S. A. (2000). Handbook of AppliedCryptography. (5a ed.). CRC Press",
-      "GREENWALD G. (2014). Snowden Sin un lugar para esconderse. Barcelona Ediciones B",
-      "INFORMATION SYSTEMS AUDIT AND CONTROL ASSOCIATION. (2016). CISA Review Manual. Chicago ISACA",
-      "INFORMATION SYSTEMS AUDIT AND CONTROL ASSOCIATION. (2012)COBIT 5 Un marco de negocio para el Gobierno y laGestión de la TI en la Empresa. USAISACA",
-      "INFORMATION SYSTEMS AUDIT AND CONTROL ASSOCIATION. (2012). COBIT 5 Procesos catalizadores. USA ISACA",
-      "MIT NICK, K., WOZNIAK S. (2012). Ghost in the Wires My Adventures as the Worlds Most Wanted Hacker. USA Little, Brown and Company",
-      "MIT NICK, K., SIMON W. (2008) El Arte de la Intrusion- Como Ser un Hacker oEvitarlos, España Ra-MA",
-      "MIT NICK, K., SIMON W. (2005). The Art of IntrusionThe Real Stories Behind theExploits of Hackers, Intruders and Deceivers. USA Wiley Publishing",
-      "MIT NICK, K., SIMON W. (2003). The Art of Deception Controlling the Human Element of Security. USA Wiley Publishing",
-      "SCHNEIER B. (2013) Carry On Sound advice from Schneieron Security. USA Wiley Publishing",
-      "DOUGLAS COMER. Redes globales de información con Internet y TCP/IP. 1ra Edición. Prentice - Hall Hispanoamericana. México",
-      "RAUL SILES PELAEZ. Análisis de Seguridad de la familiade protocolos TCP/IP y sus servicios asociados. 1ra Edición. Junio del 2002",
-      "FÚSTER, A.; DE LA GUÍA, D.; HERNÁNDEZ, L.; MONTOYA, F.; MUÑOZ, Técnicas Criptográficas de Protección de Datos. J. Ra-Ma, 1997",
-      "JEIMY J. CANO, Auditoria de Seguridad, Evaluación de Seguridad y Pruebas de Penetración tres paradigmas de la Seguridad Informática. Universidad de Los Andes, Colombia, 1998",
-      "STALLINGS, WILLIAM Cryptography and Network Security. Principles and Practice. 2nd ed. Prentice Hall International Edition s, 1999"
+      {
+        "name": "Cheswick, W. R.; Bellovin, S. M.; Rubin, A. D. (2003). Firewalls and Internet SecurityRepelling the Wily Hacker. (5a ed.). Addison-Wesley Professional Computing",
+        "rating": 0
+      },
+      {
+        "name": "Oppliger, R. (2001). Security technologies for theWorld Wide Web. (1a ed.). Artech House",
+        "rating": 0
+      },
+      {
+        "name": "Menezes, J.; van Oorschot, P. C.; Vanstone, S. A. (2000). Handbook of AppliedCryptography. (5a ed.). CRC Press",
+        "rating": 0
+      },
+      {
+        "name": "GREENWALD G. (2014). Snowden Sin un lugar para esconderse. Barcelona Ediciones B",
+        "rating": 0
+      },
+      {
+        "name": "INFORMATION SYSTEMS AUDIT AND CONTROL ASSOCIATION. (2016). CISA Review Manual. Chicago ISACA",
+        "rating": 0
+      },
+      {
+        "name": "INFORMATION SYSTEMS AUDIT AND CONTROL ASSOCIATION. (2012)COBIT 5 Un marco de negocio para el Gobierno y laGestión de la TI en la Empresa. USAISACA",
+        "rating": 0
+      },
+      {
+        "name": "INFORMATION SYSTEMS AUDIT AND CONTROL ASSOCIATION. (2012). COBIT 5 Procesos catalizadores. USA ISACA",
+        "rating": 0
+      },
+      {
+        "name": "MIT NICK, K., WOZNIAK S. (2012). Ghost in the Wires My Adventures as the Worlds Most Wanted Hacker. USA Little, Brown and Company",
+        "rating": 0
+      },
+      {
+        "name": "MIT NICK, K., SIMON W. (2008) El Arte de la Intrusion- Como Ser un Hacker oEvitarlos, España Ra-MA",
+        "rating": 0
+      },
+      {
+        "name": "MIT NICK, K., SIMON W. (2005). The Art of IntrusionThe Real Stories Behind theExploits of Hackers, Intruders and Deceivers. USA Wiley Publishing",
+        "rating": 0
+      },
+      {
+        "name": "MIT NICK, K., SIMON W. (2003). The Art of Deception Controlling the Human Element of Security. USA Wiley Publishing",
+        "rating": 0
+      },
+      {
+        "name": "SCHNEIER B. (2013) Carry On Sound advice from Schneieron Security. USA Wiley Publishing",
+        "rating": 0
+      },
+      {
+        "name": "DOUGLAS COMER. Redes globales de información con Internet y TCP/IP. 1ra Edición. Prentice - Hall Hispanoamericana. México",
+        "rating": 0
+      },
+      {
+        "name": "RAUL SILES PELAEZ. Análisis de Seguridad de la familiade protocolos TCP/IP y sus servicios asociados. 1ra Edición. Junio del 2002",
+        "rating": 0
+      },
+      {
+        "name": "FÚSTER, A.; DE LA GUÍA, D.; HERNÁNDEZ, L.; MONTOYA, F.; MUÑOZ, Técnicas Criptográficas de Protección de Datos. J. Ra-Ma, 1997",
+        "rating": 0
+      },
+      {
+        "name": "JEIMY J. CANO, Auditoria de Seguridad, Evaluación de Seguridad y Pruebas de Penetración tres paradigmas de la Seguridad Informática. Universidad de Los Andes, Colombia, 1998",
+        "rating": 0
+      },
+      {
+        "name": "STALLINGS, WILLIAM Cryptography and Network Security. Principles and Practice. 2nd ed. Prentice Hall International Edition s, 1999",
+        "rating": 0
+      }
     ]
   },
   {
@@ -2045,15 +2465,42 @@
       }
     ],
     "bibliography": [
-      "Goldberg, D. Genetic Algoritmos in Search, Optimization and Machine learning. Addison Wesley. 1989",
-      "Haykin, S. Neural networks A comprensive Foundation. Prentice Hall. 1999",
-      "Nilsson, N. Inteligencia Artificial: Una nueva visión. McGraw-Hill 2001",
-      "Russell, S. and Norvig, P. Inteligencia Artificial: Un enfoque moderno. Prentice Hall. 2003",
-      "Winston, P. H. y Horn, B. K. LISP 3a. ed. Addison--Wesley, 1991",
-      "Guy L. Steele Common Lisp The Language, 2nd edición. Editorial Burlington, MA Digital Press, ©1984",
-      "Stuart Russell and Peter Norvig. Artificial Intelligence: A Modern Approach Editorial: Upper Saddle River, N. J.: Prentice Hall /PearsonEducation, ©2003",
-      "T. Mitchell. Machine Learning. McGraw Hill, 1997",
-      "Nilsson, Nils J. Inteligencia Artificial. Una nueva síntesis. 1ra Edición. McGraw Hill Interamericana de España, S. A. U. 2001"
+      {
+        "name": "Goldberg, D. Genetic Algoritmos in Search, Optimization and Machine learning. Addison Wesley. 1989",
+        "rating": 0
+      },
+      {
+        "name": "Haykin, S. Neural networks A comprensive Foundation. Prentice Hall. 1999",
+        "rating": 0
+      },
+      {
+        "name": "Nilsson, N. Inteligencia Artificial: Una nueva visión. McGraw-Hill 2001",
+        "rating": 0
+      },
+      {
+        "name": "Russell, S. and Norvig, P. Inteligencia Artificial: Un enfoque moderno. Prentice Hall. 2003",
+        "rating": 0
+      },
+      {
+        "name": "Winston, P. H. y Horn, B. K. LISP 3a. ed. Addison--Wesley, 1991",
+        "rating": 0
+      },
+      {
+        "name": "Guy L. Steele Common Lisp The Language, 2nd edición. Editorial Burlington, MA Digital Press, ©1984",
+        "rating": 0
+      },
+      {
+        "name": "Stuart Russell and Peter Norvig. Artificial Intelligence: A Modern Approach Editorial: Upper Saddle River, N. J.: Prentice Hall /PearsonEducation, ©2003",
+        "rating": 0
+      },
+      {
+        "name": "T. Mitchell. Machine Learning. McGraw Hill, 1997",
+        "rating": 0
+      },
+      {
+        "name": "Nilsson, Nils J. Inteligencia Artificial. Una nueva síntesis. 1ra Edición. McGraw Hill Interamericana de España, S. A. U. 2001",
+        "rating": 0
+      }
     ]
   },
   {
@@ -2160,17 +2607,50 @@
       }
     ],
     "bibliography": [
-      "Hearn, Donald D.; Baker, M. Pauline. Computer Graphicswith OpenGL. 3 edition. PearsonEducation. 2003",
-      "Shreiner, Dave; Woo, Mason; Neider, Jackie; Davis, Tom. OpenGL Programming Guide TheOfficial Guide to Learning OpenGL. 6 edition. Addison-Wesley2007",
-      "Libro Informática Gráfica. Materiales Didactics, UIB, Set 2012. F. J. Perales., J. M. Buades, M. J. Abasolo. Interactive Computer Graphics. A Top-downapproach with OpenGL. Ed. Angel. Addison Wesley 1997",
-      "OpenGL Reference Manual. Ed. Addison-Wesley. 1992",
-      "Programación en OpenGL. Ed. Anaya Multimedia. 1997",
-      "OpenGL en Fichas Una introducción practica, J. Ribellesy J. Lluch. Treballs informatica iTec., num14, UJI",
-      "Radiosity and realistic image synthesis/Michael F. Cohen, John, R. Wallace",
-      "OpenGL 4 Shading Languaje Cookbook, Second Edition. D. Wolff, Pact Open Spurce, 2011",
-      "Cohen, Michael F. Academic Press Professional, c1993",
-      "Ray Tracing II, Anaya Multimedia, 1994",
-      "OpenGL Programming Guide 8th Edition. Dave Shreineret al. (Addison-Wesley, 2013)"
+      {
+        "name": "Hearn, Donald D.; Baker, M. Pauline. Computer Graphicswith OpenGL. 3 edition. PearsonEducation. 2003",
+        "rating": 0
+      },
+      {
+        "name": "Shreiner, Dave; Woo, Mason; Neider, Jackie; Davis, Tom. OpenGL Programming Guide TheOfficial Guide to Learning OpenGL. 6 edition. Addison-Wesley2007",
+        "rating": 0
+      },
+      {
+        "name": "Libro Informática Gráfica. Materiales Didactics, UIB, Set 2012. F. J. Perales., J. M. Buades, M. J. Abasolo. Interactive Computer Graphics. A Top-downapproach with OpenGL. Ed. Angel. Addison Wesley 1997",
+        "rating": 0
+      },
+      {
+        "name": "OpenGL Reference Manual. Ed. Addison-Wesley. 1992",
+        "rating": 0
+      },
+      {
+        "name": "Programación en OpenGL. Ed. Anaya Multimedia. 1997",
+        "rating": 0
+      },
+      {
+        "name": "OpenGL en Fichas Una introducción practica, J. Ribellesy J. Lluch. Treballs informatica iTec., num14, UJI",
+        "rating": 0
+      },
+      {
+        "name": "Radiosity and realistic image synthesis/Michael F. Cohen, John, R. Wallace",
+        "rating": 0
+      },
+      {
+        "name": "OpenGL 4 Shading Languaje Cookbook, Second Edition. D. Wolff, Pact Open Spurce, 2011",
+        "rating": 0
+      },
+      {
+        "name": "Cohen, Michael F. Academic Press Professional, c1993",
+        "rating": 0
+      },
+      {
+        "name": "Ray Tracing II, Anaya Multimedia, 1994",
+        "rating": 0
+      },
+      {
+        "name": "OpenGL Programming Guide 8th Edition. Dave Shreineret al. (Addison-Wesley, 2013)",
+        "rating": 0
+      }
     ]
   },
   {
@@ -2283,13 +2763,34 @@
       }
     ],
     "bibliography": [
-      "Andrew S. Tanenbaum. Sistemas Operativos Distribuidos. Publicado por Prentice - Hall, 1996",
-      "Andrew S. Tanenbaum. Redes de Ordenadores. Publicado por Prentice - Hall, 1991",
-      "Robert Orfali, Dan Harkey, Jeri Edwards. Client/ServerSurvival Guide. 3er ed. Publicado por John Wiley, 1999",
-      "George Coulouris, Jean Dollimore and Tim Kindberg. Distributed Systems Concepts and Design. 4ta ed. Publicado por Addison-Wesley. 2005",
-      "Tom Sheldon. Lan Times - Guía de Interoperabilidad. Publicado por Osborne/McGraw Hill, 1995",
-      "Tom Sheldon. Lan Times - Enciclopedia de Redes – Networking. Publicado por McGraw Hill 1994",
-      "Reaz Hoque. Corba 3 developers guide - IDG Books, 1998"
+      {
+        "name": "Andrew S. Tanenbaum. Sistemas Operativos Distribuidos. Publicado por Prentice - Hall, 1996",
+        "rating": 0
+      },
+      {
+        "name": "Andrew S. Tanenbaum. Redes de Ordenadores. Publicado por Prentice - Hall, 1991",
+        "rating": 0
+      },
+      {
+        "name": "Robert Orfali, Dan Harkey, Jeri Edwards. Client/ServerSurvival Guide. 3er ed. Publicado por John Wiley, 1999",
+        "rating": 0
+      },
+      {
+        "name": "George Coulouris, Jean Dollimore and Tim Kindberg. Distributed Systems Concepts and Design. 4ta ed. Publicado por Addison-Wesley. 2005",
+        "rating": 0
+      },
+      {
+        "name": "Tom Sheldon. Lan Times - Guía de Interoperabilidad. Publicado por Osborne/McGraw Hill, 1995",
+        "rating": 0
+      },
+      {
+        "name": "Tom Sheldon. Lan Times - Enciclopedia de Redes – Networking. Publicado por McGraw Hill 1994",
+        "rating": 0
+      },
+      {
+        "name": "Reaz Hoque. Corba 3 developers guide - IDG Books, 1998",
+        "rating": 0
+      }
     ]
   },
   {
@@ -2415,17 +2916,50 @@
       }
     ],
     "bibliography": [
-      "Alan Dix, Janet Finlay, Gregory D. Abowd, Russell Beale. Human-Computer Interaction. Prentice Hall. 2004",
-      "Krug, Steve. No me hagas pensar: una aproximación a la usabilidad en la. Pearson Prentice Hall. 978-84-8322-286-7. 2006",
-      "CONSTANTINE, L., LOCKWOOD, L. Software for Use A Practical Guide to the Models and Methods of Usage-Centered Design. ACM Press/Addison-Wesley Publishing Co. 1999",
-      "GALITZ, W. O. The Essential Guide to User InterfaceDesign An Introduction to GUI Design Principles and Technique. Wiley. 2007",
-      "GHAOUI, C. Encyclopedia Of Human Computer Interaction. Idea group Publishing. 2005",
-      "Guías de estilo de Gnome. http//library.gnome.org/devel/hig-book/stable",
-      "GOULD, J. D. and LEWIS, C. Designing for usability key principles and whatdesigners think. ACM. 1985",
-      "ISO/IEC Estándar ISO/IEC 9126-4",
-      "ISO/IEC. Norma ISO/IEC 9126-1",
-      "JARRETT, C. and GAFFNEY, G. Forms that Work Designing Web Forms for Usability Morgan Kaufmann Publishers Inc. 2008",
-      "LÓPEZ JAQUERO, V., MONTERO, F., MOLINA, J. P., VANDERDONCKT, J. Computer-Aided Design of User Interfaces VI. Springer. 2009"
+      {
+        "name": "Alan Dix, Janet Finlay, Gregory D. Abowd, Russell Beale. Human-Computer Interaction. Prentice Hall. 2004",
+        "rating": 0
+      },
+      {
+        "name": "Krug, Steve. No me hagas pensar: una aproximación a la usabilidad en la. Pearson Prentice Hall. 978-84-8322-286-7. 2006",
+        "rating": 0
+      },
+      {
+        "name": "CONSTANTINE, L., LOCKWOOD, L. Software for Use A Practical Guide to the Models and Methods of Usage-Centered Design. ACM Press/Addison-Wesley Publishing Co. 1999",
+        "rating": 0
+      },
+      {
+        "name": "GALITZ, W. O. The Essential Guide to User InterfaceDesign An Introduction to GUI Design Principles and Technique. Wiley. 2007",
+        "rating": 0
+      },
+      {
+        "name": "GHAOUI, C. Encyclopedia Of Human Computer Interaction. Idea group Publishing. 2005",
+        "rating": 0
+      },
+      {
+        "name": "Guías de estilo de Gnome. http//library.gnome.org/devel/hig-book/stable",
+        "rating": 0
+      },
+      {
+        "name": "GOULD, J. D. and LEWIS, C. Designing for usability key principles and whatdesigners think. ACM. 1985",
+        "rating": 0
+      },
+      {
+        "name": "ISO/IEC Estándar ISO/IEC 9126-4",
+        "rating": 0
+      },
+      {
+        "name": "ISO/IEC. Norma ISO/IEC 9126-1",
+        "rating": 0
+      },
+      {
+        "name": "JARRETT, C. and GAFFNEY, G. Forms that Work Designing Web Forms for Usability Morgan Kaufmann Publishers Inc. 2008",
+        "rating": 0
+      },
+      {
+        "name": "LÓPEZ JAQUERO, V., MONTERO, F., MOLINA, J. P., VANDERDONCKT, J. Computer-Aided Design of User Interfaces VI. Springer. 2009",
+        "rating": 0
+      }
     ]
   },
   {
@@ -2477,16 +3011,46 @@
       }
     ],
     "bibliography": [
-      "Sabino, Carlos, El proceso de investigación",
-      "Briones G. “Métodos y Técnicas de Investigación”. Trillas 1995",
-      "Cea d ́Ancona Ángeles, Métodos y Técnicas de Investigación cuantitativa”, Editorial Síntesis Madrid 1997",
-      "Festinger y Katz. “Los Métodos de Investigación enCiencias Sociales”. Piados 1992",
-      "Flórez Ochoa Rafael y Alonso Tobón Restrepo. Investigación Educativa y Pedagógica. Bogotá McGraw Hill. 2001",
-      "Grawitz M. “Métodos y Técnicas de las Ciencias SocialesI-II.” Editorial Mexicana 1984, México",
-      "Hernández, Fernández Baptista. “Metodología de la Investigación”. McGraw Hill 1994. Colombia",
-      "Padua J. “Técnicas de Investigación” FCE-Colegio de México 1982, México",
-      "Sabino, Carlos A. El Proceso de Investigación. BuenosAires Edit. Lumen. 199",
-      "Salkind, Neil J. Métodos de Investigación. México Prentice Hall. 1999"
+      {
+        "name": "Sabino, Carlos, El proceso de investigación",
+        "rating": 0
+      },
+      {
+        "name": "Briones G. “Métodos y Técnicas de Investigación”. Trillas 1995",
+        "rating": 0
+      },
+      {
+        "name": "Cea d ́Ancona Ángeles, Métodos y Técnicas de Investigación cuantitativa”, Editorial Síntesis Madrid 1997",
+        "rating": 0
+      },
+      {
+        "name": "Festinger y Katz. “Los Métodos de Investigación enCiencias Sociales”. Piados 1992",
+        "rating": 0
+      },
+      {
+        "name": "Flórez Ochoa Rafael y Alonso Tobón Restrepo. Investigación Educativa y Pedagógica. Bogotá McGraw Hill. 2001",
+        "rating": 0
+      },
+      {
+        "name": "Grawitz M. “Métodos y Técnicas de las Ciencias SocialesI-II.” Editorial Mexicana 1984, México",
+        "rating": 0
+      },
+      {
+        "name": "Hernández, Fernández Baptista. “Metodología de la Investigación”. McGraw Hill 1994. Colombia",
+        "rating": 0
+      },
+      {
+        "name": "Padua J. “Técnicas de Investigación” FCE-Colegio de México 1982, México",
+        "rating": 0
+      },
+      {
+        "name": "Sabino, Carlos A. El Proceso de Investigación. BuenosAires Edit. Lumen. 199",
+        "rating": 0
+      },
+      {
+        "name": "Salkind, Neil J. Métodos de Investigación. México Prentice Hall. 1999",
+        "rating": 0
+      }
     ]
   },
   {
@@ -2625,14 +3189,38 @@
       }
     ],
     "bibliography": [
-      "¿Qué es la Nube? El futuro de los sistemas de información – Barrie Sosinsky – Anaya - Wiley",
-      "Computación en la nube. Estrategias de Cloud Computingen las Empresas. Luis Joyanes Aguilar (2012)",
-      "Cloud Computing Principles and Paradigms. Rajkimar Buyya",
-      "Architecting the Cloud Design Decisions for Cloud Computing Service Models (SaaS, PaaS, and IaaS) by Michael J. Kavis (2014)",
-      "Cloud Computing for Programmers Software Development in the Age of Cloud by D. Casal(2014)",
-      "Cloud Computing Concepts, Technology & Architecture (The Prentice Hall ServiceTechnology Series from Thomas...) by Thomas Erl, RicardoPuttini and Zaigham Mahmood (2013)",
-      "OpenStack Cloud Computing Cookbook - Second Edition by Kevin Jackson and Cody Bunch (2013)",
-      "Advances in Cloud Computing Research by Muthu Ramachandran (2014)"
+      {
+        "name": "¿Qué es la Nube? El futuro de los sistemas de información – Barrie Sosinsky – Anaya - Wiley",
+        "rating": 0
+      },
+      {
+        "name": "Computación en la nube. Estrategias de Cloud Computingen las Empresas. Luis Joyanes Aguilar (2012)",
+        "rating": 0
+      },
+      {
+        "name": "Cloud Computing Principles and Paradigms. Rajkimar Buyya",
+        "rating": 0
+      },
+      {
+        "name": "Architecting the Cloud Design Decisions for Cloud Computing Service Models (SaaS, PaaS, and IaaS) by Michael J. Kavis (2014)",
+        "rating": 0
+      },
+      {
+        "name": "Cloud Computing for Programmers Software Development in the Age of Cloud by D. Casal(2014)",
+        "rating": 0
+      },
+      {
+        "name": "Cloud Computing Concepts, Technology & Architecture (The Prentice Hall ServiceTechnology Series from Thomas...) by Thomas Erl, RicardoPuttini and Zaigham Mahmood (2013)",
+        "rating": 0
+      },
+      {
+        "name": "OpenStack Cloud Computing Cookbook - Second Edition by Kevin Jackson and Cody Bunch (2013)",
+        "rating": 0
+      },
+      {
+        "name": "Advances in Cloud Computing Research by Muthu Ramachandran (2014)",
+        "rating": 0
+      }
     ]
   },
   {
@@ -2717,17 +3305,50 @@
       }
     ],
     "bibliography": [
-      "Robótica, Control, Detección, Visión e Inteligencia; Fu, K. S., González, R. C. y Lee, C, S, G. Mc Graw-Hill, 1988",
-      "Ollero, A. Robótica, Manipuladores y Robots Móviles. Marcombo, 2002",
-      "Sensors for mobile robots. Theory and application. H. R. Everett. A. K. Peters. Wellesley, 1995",
-      "Introduction to Robotics. P. J. McKerrow. Addison-Wesley, 1991",
-      "Introducción a la robótica. Principios teóricos, construcción y programación de un robot educativo. J. M. Angulo Usategui, S. Romero, I. A. Martínez. Ed. Thomson, 2005",
-      "Fundamentos de Robótica A. Barrientos, L. F. Peñin, C. Balaguer, R. Aracil. Mc. GrawHill, 1997",
-      "Robots y Sistemas sensoriales. Fernado Torres, JorgePomares y otros. Prentice Hall, 2002",
-      "Robot motion planning. J. C. Latombe. Kluwer AcademicPlublishers, 1991",
-      "Introductory Computer Vision and Image Processing. A. Low. Mc. Graw-Hill, 1991",
-      "Visión por computador imágenes digitales y aplicaciones. 2ª edición. G. Pajares y J. M. de la Cruz. RA-MA, 2008",
-      "Ejercicios resueltos de visión por computador. G. Pajares y J. M. de la Cruz. RA-MA, 2007"
+      {
+        "name": "Robótica, Control, Detección, Visión e Inteligencia; Fu, K. S., González, R. C. y Lee, C, S, G. Mc Graw-Hill, 1988",
+        "rating": 0
+      },
+      {
+        "name": "Ollero, A. Robótica, Manipuladores y Robots Móviles. Marcombo, 2002",
+        "rating": 0
+      },
+      {
+        "name": "Sensors for mobile robots. Theory and application. H. R. Everett. A. K. Peters. Wellesley, 1995",
+        "rating": 0
+      },
+      {
+        "name": "Introduction to Robotics. P. J. McKerrow. Addison-Wesley, 1991",
+        "rating": 0
+      },
+      {
+        "name": "Introducción a la robótica. Principios teóricos, construcción y programación de un robot educativo. J. M. Angulo Usategui, S. Romero, I. A. Martínez. Ed. Thomson, 2005",
+        "rating": 0
+      },
+      {
+        "name": "Fundamentos de Robótica A. Barrientos, L. F. Peñin, C. Balaguer, R. Aracil. Mc. GrawHill, 1997",
+        "rating": 0
+      },
+      {
+        "name": "Robots y Sistemas sensoriales. Fernado Torres, JorgePomares y otros. Prentice Hall, 2002",
+        "rating": 0
+      },
+      {
+        "name": "Robot motion planning. J. C. Latombe. Kluwer AcademicPlublishers, 1991",
+        "rating": 0
+      },
+      {
+        "name": "Introductory Computer Vision and Image Processing. A. Low. Mc. Graw-Hill, 1991",
+        "rating": 0
+      },
+      {
+        "name": "Visión por computador imágenes digitales y aplicaciones. 2ª edición. G. Pajares y J. M. de la Cruz. RA-MA, 2008",
+        "rating": 0
+      },
+      {
+        "name": "Ejercicios resueltos de visión por computador. G. Pajares y J. M. de la Cruz. RA-MA, 2007",
+        "rating": 0
+      }
     ]
   },
   {
@@ -2886,18 +3507,54 @@
       }
     ],
     "bibliography": [
-      "Basilio Sierra. Aprendizaje automático conceptos básicos y avanzados aspectos prácticos utilizando el software weka. Prentice - Hall. 9788483223185. 2006",
-      "García, Salvador, Luengo, Julián, Herrera, Francisco. Data Preprocessing in Data Mining. Springer. 978-3-319-10246-72015",
-      "José Hernández Orallo, M. José Ramírez Quintana, CèsarFerri Ramírez. INTRODUCCIÓN ALA MINERÍA DE DATOS. Pearson. 84 205 4091 9. 2004",
-      "Pang-Ning Tan, Michael Steinbach, and Vipin Kumar. Introduction to Data Mining. AddisonWesley. Longman Publishing Co. 0321321367. 2005",
-      "Witten, Frank & Hall. Data Mining Practical Machine Learning Tools and Techniques. Morgan & Kauffmann. 978-0-12-374856-0. 2011",
-      "Xindong Wu, Vipin Kumar The Top Ten Algorithms in Data Mining Chapman and Hall/CRC. 9781420089646. 2009",
-      "D. Hand, P. Smyth, H. Mannila. Principles of DataMining. MIT press. 2001",
-      "D. Pyle. Data preparation for data mining. Morgan Kauffmann. 1999",
-      "Ian H. Witten y Eibe Frank Data Mining Practical machine tools and techniques. Elsevier. 2005. 10. J. Hernández Orallo, M. J. Ramírez Quintana, C. Ferri Ramírez. Introducción a la minería de datos. Pearson. 2003",
-      "Jiawey Han y Micheline Kamber Data Mining Concepts and techniques. Morgan Kauffmann. 2006",
-      "M. Berry, G. Linoff. Data mining techniques for marketing, sales and customer support. Whiley. 1997",
-      "Varios autores. Data Mining Know it all. Morgan Kauffmann. 2009"
+      {
+        "name": "Basilio Sierra. Aprendizaje automático conceptos básicos y avanzados aspectos prácticos utilizando el software weka. Prentice - Hall. 9788483223185. 2006",
+        "rating": 0
+      },
+      {
+        "name": "García, Salvador, Luengo, Julián, Herrera, Francisco. Data Preprocessing in Data Mining. Springer. 978-3-319-10246-72015",
+        "rating": 0
+      },
+      {
+        "name": "José Hernández Orallo, M. José Ramírez Quintana, CèsarFerri Ramírez. INTRODUCCIÓN ALA MINERÍA DE DATOS. Pearson. 84 205 4091 9. 2004",
+        "rating": 0
+      },
+      {
+        "name": "Pang-Ning Tan, Michael Steinbach, and Vipin Kumar. Introduction to Data Mining. AddisonWesley. Longman Publishing Co. 0321321367. 2005",
+        "rating": 0
+      },
+      {
+        "name": "Witten, Frank & Hall. Data Mining Practical Machine Learning Tools and Techniques. Morgan & Kauffmann. 978-0-12-374856-0. 2011",
+        "rating": 0
+      },
+      {
+        "name": "Xindong Wu, Vipin Kumar The Top Ten Algorithms in Data Mining Chapman and Hall/CRC. 9781420089646. 2009",
+        "rating": 0
+      },
+      {
+        "name": "D. Hand, P. Smyth, H. Mannila. Principles of DataMining. MIT press. 2001",
+        "rating": 0
+      },
+      {
+        "name": "D. Pyle. Data preparation for data mining. Morgan Kauffmann. 1999",
+        "rating": 0
+      },
+      {
+        "name": "Ian H. Witten y Eibe Frank Data Mining Practical machine tools and techniques. Elsevier. 2005. 10. J. Hernández Orallo, M. J. Ramírez Quintana, C. Ferri Ramírez. Introducción a la minería de datos. Pearson. 2003",
+        "rating": 0
+      },
+      {
+        "name": "Jiawey Han y Micheline Kamber Data Mining Concepts and techniques. Morgan Kauffmann. 2006",
+        "rating": 0
+      },
+      {
+        "name": "M. Berry, G. Linoff. Data mining techniques for marketing, sales and customer support. Whiley. 1997",
+        "rating": 0
+      },
+      {
+        "name": "Varios autores. Data Mining Know it all. Morgan Kauffmann. 2009",
+        "rating": 0
+      }
     ]
   },
   {
@@ -2964,10 +3621,22 @@
       }
     ],
     "bibliography": [
-      "A. E. Eiben & J. E. Smith. Introduction to EvolutionaryComputing Springer, 2nd printing, 2007. ISBN 3540401849",
-      "Carlos Artemio Coello Coello. Introducción a la Computación Evolutiva. CINVESTAV IPN, 2014. http//delta.cs.cinvestav.mx/~ccoello/compevol/apuntes.pdf",
-      "Melanie Mitchell. An Introduction to Genetic Algorithms MIT Press, 1996. ISBN 0262133164",
-      "David E. Goldberg. Genetic Algorithms in Search, Optimization & Machine Learning. Addison-Wesley, 1989. ISBN 0201157675"
+      {
+        "name": "A. E. Eiben & J. E. Smith. Introduction to EvolutionaryComputing Springer, 2nd printing, 2007. ISBN 3540401849",
+        "rating": 0
+      },
+      {
+        "name": "Carlos Artemio Coello Coello. Introducción a la Computación Evolutiva. CINVESTAV IPN, 2014. http//delta.cs.cinvestav.mx/~ccoello/compevol/apuntes.pdf",
+        "rating": 0
+      },
+      {
+        "name": "Melanie Mitchell. An Introduction to Genetic Algorithms MIT Press, 1996. ISBN 0262133164",
+        "rating": 0
+      },
+      {
+        "name": "David E. Goldberg. Genetic Algorithms in Search, Optimization & Machine Learning. Addison-Wesley, 1989. ISBN 0201157675",
+        "rating": 0
+      }
     ]
   },
   {
@@ -3057,9 +3726,18 @@
       }
     ],
     "bibliography": [
-      "Data-intensive supercomputing: The case for disc. Technical report, Carnegie Mellon University, School of Computer Science",
-      "Dean, J. and Ghemawat, S. (2008). Mapreduce simplied data processing on large clusters. Commun. ACM, 51(1)107",
-      "Hey, T., Tansley, S., and Tolle, K., editors (2009). The Fourth Paradigm Data-Intensive Scientific Discovery. Microsoft Research, Redmond, Washington"
+      {
+        "name": "Data-intensive supercomputing: The case for disc. Technical report, Carnegie Mellon University, School of Computer Science",
+        "rating": 0
+      },
+      {
+        "name": "Dean, J. and Ghemawat, S. (2008). Mapreduce simplied data processing on large clusters. Commun. ACM, 51(1)107",
+        "rating": 0
+      },
+      {
+        "name": "Hey, T., Tansley, S., and Tolle, K., editors (2009). The Fourth Paradigm Data-Intensive Scientific Discovery. Microsoft Research, Redmond, Washington",
+        "rating": 0
+      }
     ]
   },
   {
@@ -3133,9 +3811,18 @@
       }
     ],
     "bibliography": [
-      "Fundamentals of Natural Computing Basic Concepts, Algorithms, and Applications, L. N. de Castro (2006), CRC Press",
-      "Bio-Inspired Artificial Intelligence Theories, Methods, and Technologies, D. Floreano and C. Mattiussi (2008), MIT Press",
-      "Evolutionary Optimization Algorithms, D. Simon (2013), Wiley"
+      {
+        "name": "Fundamentals of Natural Computing Basic Concepts, Algorithms, and Applications, L. N. de Castro (2006), CRC Press",
+        "rating": 0
+      },
+      {
+        "name": "Bio-Inspired Artificial Intelligence Theories, Methods, and Technologies, D. Floreano and C. Mattiussi (2008), MIT Press",
+        "rating": 0
+      },
+      {
+        "name": "Evolutionary Optimization Algorithms, D. Simon (2013), Wiley",
+        "rating": 0
+      }
     ]
   },
   {
@@ -3160,7 +3847,7 @@
       },
       "evaluationSystem": "G"
     },
-    "sommelier": "En este curso se exponen temas avanzados de algoritmos y estructura de datos que sirven como continuación del curso de programación orientada a objetos pero centrado en la programación de estructuras de datos simples y complejas. Por tanto, los aspectos que se estudiarán serán principalmente cómo se definen y cómo se implementan las estructuras de datos e incorporarlos a cualquier entorno de programación. Así mismo, como puede observarse, este curso continúa con la formación de un programador en cualquier ámbito o especialidad, continuando posteriormente en el curso de “ Análisis y diseño de algoritmos”, donde se verá algoritmia y optimización en estructuras de datos complejas.",
+    "sommelier": "En este curso se exponen temas avanzados de algoritmos y estructura de datos que sirven como continuación del curso de programación orientada a objetos pero centrado en la programación de estructuras de datos simples y complejas. Por tanto, los aspectos que se estudiarán serán principalmente cómo se definen y cómo se implementan las estructuras de datos e incorporarlos a cualquier entorno de programación. Así mismo, como puede observarse, este curso continúa con la formación de un programador en cualquier ámbito o especialidad, continuando posteriormente en el curso de “Análisis y diseño de algoritmos”, donde se verá algoritmia y optimización en estructuras de datos complejas.",
     "competencies": [
       "Evalúa las propiedades de las estructuras de datos estableciendo su utilidad en las aplicaciones en ciencia e ingeniería comprometiéndose en el uso adecuado que conlleve a resolver problemas de la vida real",
       "Demuestra su capacidad de análisis diseñando, implementando estructuras que permitan dar solución, trabajando en equipo en los diversos problemas en la ciencia e ingeniería",
@@ -3258,10 +3945,22 @@
       }
     ],
     "bibliography": [
-      "Shaffer, Clifford A. Data Structures and Algorithm Analysis in C++, Third Edition, Dover Publications, 2013",
-      "Martí Oliet, N., Ortega Mallén, Y., Verdejo López, J. A. Estructuras de datos y métodos algorítmicos 213 ejercicios resueltos. 2ª Edición, Ed. Garceta, 2013",
-      "Joyanes, L., Zahonero, I., Fernández, M. y Sánchez, L. Estructura de datos. Libro de problemas, McGraw Hill, 1999",
-      "Campos Laclaustra, J. Estructuras de Datos y Algoritmos, Prensas Universitarias de Zaragoza, Colección Textos Docentes, 1995"
+      {
+        "name": "Shaffer, Clifford A. Data Structures and Algorithm Analysis in C++, Third Edition, Dover Publications, 2013",
+        "rating": 0
+      },
+      {
+        "name": "Martí Oliet, N., Ortega Mallén, Y., Verdejo López, J. A. Estructuras de datos y métodos algorítmicos 213 ejercicios resueltos. 2ª Edición, Ed. Garceta, 2013",
+        "rating": 0
+      },
+      {
+        "name": "Joyanes, L., Zahonero, I., Fernández, M. y Sánchez, L. Estructura de datos. Libro de problemas, McGraw Hill, 1999",
+        "rating": 0
+      },
+      {
+        "name": "Campos Laclaustra, J. Estructuras de Datos y Algoritmos, Prensas Universitarias de Zaragoza, Colección Textos Docentes, 1995",
+        "rating": 0
+      }
     ]
   },
   {
@@ -3375,18 +4074,54 @@
       }
     ],
     "bibliography": [
-      "Soy Aumatell, Cristina; “Auditoría de la Información”, Editorial UOC, Barcelona, 2003",
-      "Tecnología de la información. Código de buenas prácticas para la gestión de la seguridad de la información NTP - ISO/IEC 177992004",
-      "Comisión de Reglamentos Técnico y Comerciales –CRTdeINDECOPI. Presidencia delConsejo de Ministros – Oficina Nacional de Gobierno Electrónico del Perú – ONGEI. 2004",
-      "Muñóz Razo, Carlos; “Auditoría en Sistemas Computacionales”, Universidad del Valle de México, Pearson Educación, 2002",
-      "COBIT Management Guidelines",
-      "COBIT Steering Committee and the IT Governance Institute TM. 1 T GOVERNANCE INSTITUTE. 2002",
-      "Echenique, José Antonio; “Auditoría en Informática”, Universidad Nacional Autónoma de México. Mc Graw Hill, 2001",
-      "Metodología para la auditoría de sistemas automatizadosWeights. 2001. Deuts M. 2000",
-      "Normas de la ONGEI sobre sistemas, seguridad y sistemas de información Oficina Nacional de Gobierno Electrónico e Informática. 2003",
-      "Normas de Control Interno de la Contraloría General de la República. Contraloría General de la República. 1998",
-      "Normas delINEIsobre seguridad y sistemas de información Instituto Nacional de Estadística e Informática. 1995",
-      "Piattini, Mario - Del Peso, Emilio; “Auditoría Informática. Un enfoque práctico”, Computecrama Madrid España 1998"
+      {
+        "name": "Soy Aumatell, Cristina; “Auditoría de la Información”, Editorial UOC, Barcelona, 2003",
+        "rating": 0
+      },
+      {
+        "name": "Tecnología de la información. Código de buenas prácticas para la gestión de la seguridad de la información NTP - ISO/IEC 177992004",
+        "rating": 0
+      },
+      {
+        "name": "Comisión de Reglamentos Técnico y Comerciales –CRTdeINDECOPI. Presidencia delConsejo de Ministros – Oficina Nacional de Gobierno Electrónico del Perú – ONGEI. 2004",
+        "rating": 0
+      },
+      {
+        "name": "Muñóz Razo, Carlos; “Auditoría en Sistemas Computacionales”, Universidad del Valle de México, Pearson Educación, 2002",
+        "rating": 0
+      },
+      {
+        "name": "COBIT Management Guidelines",
+        "rating": 0
+      },
+      {
+        "name": "COBIT Steering Committee and the IT Governance Institute TM. 1 T GOVERNANCE INSTITUTE. 2002",
+        "rating": 0
+      },
+      {
+        "name": "Echenique, José Antonio; “Auditoría en Informática”, Universidad Nacional Autónoma de México. Mc Graw Hill, 2001",
+        "rating": 0
+      },
+      {
+        "name": "Metodología para la auditoría de sistemas automatizadosWeights. 2001. Deuts M. 2000",
+        "rating": 0
+      },
+      {
+        "name": "Normas de la ONGEI sobre sistemas, seguridad y sistemas de información Oficina Nacional de Gobierno Electrónico e Informática. 2003",
+        "rating": 0
+      },
+      {
+        "name": "Normas de Control Interno de la Contraloría General de la República. Contraloría General de la República. 1998",
+        "rating": 0
+      },
+      {
+        "name": "Normas delINEIsobre seguridad y sistemas de información Instituto Nacional de Estadística e Informática. 1995",
+        "rating": 0
+      },
+      {
+        "name": "Piattini, Mario - Del Peso, Emilio; “Auditoría Informática. Un enfoque práctico”, Computecrama Madrid España 1998",
+        "rating": 0
+      }
     ]
   },
   {
@@ -3487,9 +4222,18 @@
       }
     ],
     "bibliography": [
-      "Clote, P. and Backofen, R. Computational MolecularBiology, An Introduction. Wiley, 2000",
-      "Jones, N. A. and Pevzner, P. A. An Introduction toBioinformatics Algorithms. The MIT Press. 2004",
-      "Mount, D. W. Bioinformatics Sequence and Genome Analysis. Cold Spring Harbor Laboratory Press, 2001"
+      {
+        "name": "Clote, P. and Backofen, R. Computational MolecularBiology, An Introduction. Wiley, 2000",
+        "rating": 0
+      },
+      {
+        "name": "Jones, N. A. and Pevzner, P. A. An Introduction toBioinformatics Algorithms. The MIT Press. 2004",
+        "rating": 0
+      },
+      {
+        "name": "Mount, D. W. Bioinformatics Sequence and Genome Analysis. Cold Spring Harbor Laboratory Press, 2001",
+        "rating": 0
+      }
     ]
   },
   {
@@ -3635,13 +4379,34 @@
       }
     ],
     "bibliography": [
-      "SOMMERVILLE, Ian; “Ingeniería de Software”, 9na. Edición, Addison Wesley, México, 2011",
-      "PIATTINI, Miguel & al; “Calidad de Sistemas Informáticos”; 2da. Edición, RA-MAEditorial, Madrid, 2011",
-      "PRESSMAN, Roger; “Ingeniería de Software Un Enfoque Práctico”; 7ma. Edición, McGraw-Hill, Madrid, 2010",
-      "NTP-ISO/IEC 122072004 Tecnología de la Información. Procesos del ciclo de vida del software, 2004",
-      "Guía Técnica sobre evaluación de software para laAdministración Pública, 2004",
-      "Software Engineering Institute - Carnegie Mellon University - (CMU SEI). Capability Maturity Model Integration (CMMI) version 1.2, 2007",
-      "TMMi FoundationTest Maturity Model Integration (TMMi)Version 1.0 (dd. February, 17th 2008)"
+      {
+        "name": "SOMMERVILLE, Ian; “Ingeniería de Software”, 9na. Edición, Addison Wesley, México, 2011",
+        "rating": 0
+      },
+      {
+        "name": "PIATTINI, Miguel & al; “Calidad de Sistemas Informáticos”; 2da. Edición, RA-MAEditorial, Madrid, 2011",
+        "rating": 0
+      },
+      {
+        "name": "PRESSMAN, Roger; “Ingeniería de Software Un Enfoque Práctico”; 7ma. Edición, McGraw-Hill, Madrid, 2010",
+        "rating": 0
+      },
+      {
+        "name": "NTP-ISO/IEC 122072004 Tecnología de la Información. Procesos del ciclo de vida del software, 2004",
+        "rating": 0
+      },
+      {
+        "name": "Guía Técnica sobre evaluación de software para laAdministración Pública, 2004",
+        "rating": 0
+      },
+      {
+        "name": "Software Engineering Institute - Carnegie Mellon University - (CMU SEI). Capability Maturity Model Integration (CMMI) version 1.2, 2007",
+        "rating": 0
+      },
+      {
+        "name": "TMMi FoundationTest Maturity Model Integration (TMMi)Version 1.0 (dd. February, 17th 2008)",
+        "rating": 0
+      }
     ]
   },
   {
@@ -3712,14 +4477,38 @@
       }
     ],
     "bibliography": [
-      "Aho, A. Compiladores Principios, técnicas y herramientas. Addison Wesley. 1990",
-      "Aho, A., Lam, M., Sethi, R., and Ullman, J. D. Compiladores. Principios, técnicas y herramientas. Addison Wesley, 2nd edition. ISBN 10-970-26-1133-4. 2008",
-      "A. Lemone, K. Fundamentos de Compiladores. CECSA-México. 1996",
-      "Appel, A. W. Modern compiler implementation in Java. Cambridge University Press, 2. a edición. 2002",
-      "Louden, K. C. Construcción de Compiladores Principios y Práctica. Publicado por Thomson. 2004",
-      "Louden, K. C. Lenguajes de Programación. Publicado por Thomson. 2004",
-      "Pratt, T. W. and V. Zelkowitz, M. Lenguajes de Programación, Diseño e Implementación. Prentice - Hall Hispanoamericana S. A. 1998",
-      "Teufel, B. and Schmidt, S. Fundamentos de Compiladores. Addison Wesley Iberoamericana. 1998"
+      {
+        "name": "Aho, A. Compiladores Principios, técnicas y herramientas. Addison Wesley. 1990",
+        "rating": 0
+      },
+      {
+        "name": "Aho, A., Lam, M., Sethi, R., and Ullman, J. D. Compiladores. Principios, técnicas y herramientas. Addison Wesley, 2nd edition. ISBN 10-970-26-1133-4. 2008",
+        "rating": 0
+      },
+      {
+        "name": "A. Lemone, K. Fundamentos de Compiladores. CECSA-México. 1996",
+        "rating": 0
+      },
+      {
+        "name": "Appel, A. W. Modern compiler implementation in Java. Cambridge University Press, 2. a edición. 2002",
+        "rating": 0
+      },
+      {
+        "name": "Louden, K. C. Construcción de Compiladores Principios y Práctica. Publicado por Thomson. 2004",
+        "rating": 0
+      },
+      {
+        "name": "Louden, K. C. Lenguajes de Programación. Publicado por Thomson. 2004",
+        "rating": 0
+      },
+      {
+        "name": "Pratt, T. W. and V. Zelkowitz, M. Lenguajes de Programación, Diseño e Implementación. Prentice - Hall Hispanoamericana S. A. 1998",
+        "rating": 0
+      },
+      {
+        "name": "Teufel, B. and Schmidt, S. Fundamentos de Compiladores. Addison Wesley Iberoamericana. 1998",
+        "rating": 0
+      }
     ]
   },
   {
@@ -3823,16 +4612,46 @@
       }
     ],
     "bibliography": [
-      "Goodfellow, I., Bengio, Y., Courville, A. “Deep learning”. MIT Press, 2016",
-      "Hastie, T, Tibshirani, R. Friedman, J. “The Elements of Statistical Learning”. NY Springer, 2001",
-      "LeCun, Y., Bengio, Y., Hinton, G. “Deep learning”. Nature 521. 7553 (2015) 436-444",
-      "Mallat, S., “Understanding deep convolutional networks”Phil. Trans. R. Soc. A374. 2065 (2016) 20150203",
-      "Krizhevsky, A., Sutskever, I., Hinton, G. “Imagenetclassification with deep convolutional neural networks”. NIPS, 2012",
-      "Zeiler, M. D., and Fergus, R. “Visualizing and understanding convolutional networks”. ECCV, 2014",
-      "Li, Fei-Fei, L., Karpathy, A., Johnson, J. “CS231n: Convolutional neural networks for visual recognition”. Stanford University, notas de curso, 2015",
-      "Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., Courville, A. and Bengio, Y. “Generative adversarialnets”. NIPS, 2014",
-      "Anh, N., Yosinski, J., Clune, J. “Deep neural networksare easily fooled High confidence predictions for unrecognizable images.”CVPR, 2015",
-      "Johnson, J., Alahi, A., Fei-Fei, L. “Perceptual losses for real-time style transfer andsuper-resolution”. ECCV. 2016"
+      {
+        "name": "Goodfellow, I., Bengio, Y., Courville, A. “Deep learning”. MIT Press, 2016",
+        "rating": 0
+      },
+      {
+        "name": "Hastie, T, Tibshirani, R. Friedman, J. “The Elements of Statistical Learning”. NY Springer, 2001",
+        "rating": 0
+      },
+      {
+        "name": "LeCun, Y., Bengio, Y., Hinton, G. “Deep learning”. Nature 521. 7553 (2015) 436-444",
+        "rating": 0
+      },
+      {
+        "name": "Mallat, S., “Understanding deep convolutional networks”Phil. Trans. R. Soc. A374. 2065 (2016) 20150203",
+        "rating": 0
+      },
+      {
+        "name": "Krizhevsky, A., Sutskever, I., Hinton, G. “Imagenetclassification with deep convolutional neural networks”. NIPS, 2012",
+        "rating": 0
+      },
+      {
+        "name": "Zeiler, M. D., and Fergus, R. “Visualizing and understanding convolutional networks”. ECCV, 2014",
+        "rating": 0
+      },
+      {
+        "name": "Li, Fei-Fei, L., Karpathy, A., Johnson, J. “CS231n: Convolutional neural networks for visual recognition”. Stanford University, notas de curso, 2015",
+        "rating": 0
+      },
+      {
+        "name": "Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., Courville, A. and Bengio, Y. “Generative adversarialnets”. NIPS, 2014",
+        "rating": 0
+      },
+      {
+        "name": "Anh, N., Yosinski, J., Clune, J. “Deep neural networksare easily fooled High confidence predictions for unrecognizable images.”CVPR, 2015",
+        "rating": 0
+      },
+      {
+        "name": "Johnson, J., Alahi, A., Fei-Fei, L. “Perceptual losses for real-time style transfer andsuper-resolution”. ECCV. 2016",
+        "rating": 0
+      }
     ]
   },
   {
@@ -3921,8 +4740,14 @@
       }
     ],
     "bibliography": [
-      "Los microprocesadores Intel. Barry B. Brey, Ed. Prentice - Hall",
-      "IBM PC & XT, Assembly Language. Leo. J. Scalon, Ed. Brad"
+      {
+        "name": "Los microprocesadores Intel. Barry B. Brey, Ed. Prentice - Hall",
+        "rating": 0
+      },
+      {
+        "name": "IBM PC & XT, Assembly Language. Leo. J. Scalon, Ed. Brad",
+        "rating": 0
+      }
     ]
   }
 ]

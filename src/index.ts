@@ -1,8 +1,14 @@
 /* eslint-disable sort-keys-fix/sort-keys-fix, sort-keys */
+import fs from 'fs'
 import { PDFExtract, PDFExtractOptions, PDFExtractResult } from 'pdf.js-extract'
+import cliProgress from 'cli-progress'
 
+import { firebaseConnection } from './database'
+import { CustomNodeJSGlobal } from './global'
 import { IAnalyticContent, ICourse, ISyllabusCourse } from './types'
-import { cleanGeneralInfo, writeFile } from './utils'
+import { cleanGeneralInfo, writeFile, cliOptions } from './utils'
+
+declare const global: CustomNodeJSGlobal
 
 // Key words from the syllabus main page
 const UNI = process.env.UNI as string
@@ -25,9 +31,9 @@ const PRACTICE = process.env.PRACTICE as string
 const BIBLIOGRAPHY = process.env.BIBLIOGRAPHY as string
 const BULLET = process.env.BULLET as string
 
+const planCleanedPath = `${__dirname}/results/plan2018.json`
 const pdfExtract = new PDFExtract()
 const options: PDFExtractOptions = {}
-
 const fullContent: ISyllabusCourse[] = []
 
 const extractData = async () => {
@@ -208,13 +214,16 @@ const extractData = async () => {
         sommelier,
         competencies   : competenciesArray[0] === '' ? []: competenciesArray,
         analyticProgram: analyticContent,
-        bibliography   : bibliography.map(e => e.trim())
+        bibliography   : bibliography.map(e => ({
+          name  : e.trim(),
+          rating: 0
+        }))
       })
     })
 
     const result = await writeFile(
       JSON.stringify(fullContent, null, 2),
-      'result.json'
+      planCleanedPath
     )
     console.log({ result })
   } catch (error) {
@@ -222,4 +231,32 @@ const extractData = async () => {
   }
 }
 
-extractData()
+const main = async () => {
+  if (fs.existsSync(planCleanedPath))
+    try {
+      await firebaseConnection()
+      let i = 0
+      const bar = new cliProgress.SingleBar(
+        cliOptions,
+        cliProgress.Presets.shades_classic
+      )
+      const { default: plan } = await import(planCleanedPath)
+      const fullSyllabus: ISyllabusCourse[] = plan
+      bar.start(fullSyllabus.length, i)
+      const collectionRef = global.firestoreDB.collection('syllabus')
+      await Promise.all(fullSyllabus.map((s, index) => {
+        i = index
+        bar.update(i + 1)
+
+        return collectionRef.doc(s.generalInfo.course.code).set(s)
+      }))
+      bar.update(i + 1)
+      bar.stop()
+    } catch (e) {
+      console.log('\n')
+      console.error(e)
+    }
+  else extractData()
+}
+
+main()

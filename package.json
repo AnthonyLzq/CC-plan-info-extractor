@@ -1,6 +1,6 @@
 {
   "name": "cc-plan-info-extractor",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "main": "src/index.ts",
   "description": "A tool to extract the content from the 2018 Studies Plan of CC",
   "scripts": {
@@ -13,9 +13,14 @@
   "author": "AnthonyLzq <sluzquinosa@uni.pe>",
   "license": "MIT",
   "dependencies": {
+    "@google-cloud/firestore": "^4.13.1",
+    "cli-progress": "^3.9.0",
+    "colors": "^1.4.0",
+    "firebase-admin": "^9.10.0",
     "pdf.js-extract": "^0.1.5"
   },
   "devDependencies": {
+    "@types/cli-progress": "^3.9.2",
     "@types/node": "^15.12.2",
     "@typescript-eslint/eslint-plugin": "^4.27.0",
     "@typescript-eslint/parser": "^4.27.0",

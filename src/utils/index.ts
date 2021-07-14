@@ -1,4 +1,5 @@
 import fs from 'fs'
+import colors from 'colors'
 
 interface ICleanProps {
   positionEndSlice? : number
@@ -496,6 +497,7 @@ const cleaner = (str: string): string => str
   .replace(/supercomputing/g, 'supercomputing:')
   .replace(/ersion 1\. /g, 'ersion 1.')
   .replace(/17th2008/g, '17th 2008')
+  .replace(/“ /g, '“')
   .trim()
 
 const cleanGeneralInfo = ({
@@ -521,4 +523,41 @@ const writeFile = (
   })
 })
 
-export { cleanGeneralInfo, writeFile }
+const writeJson = (
+  path   : string,
+  json   : string,
+  encrypt: string
+): Promise<unknown> => new Promise((resolve, reject) => {
+    fs.writeFile(path, json, encrypt, error => {
+      if (error) reject(error)
+      else resolve('Success')
+    })
+  })
+
+// eslint-disable-next-line max-len
+const deleteFile = (path: string): Promise<unknown> => new Promise((resolve, reject) => {
+  fs.unlink(path, error => {
+    if (error) reject(error)
+    else resolve('Success')
+  })
+})
+
+interface CliOptions {
+  format           : string
+  hideCursor       : boolean
+  synchronousUpdate: boolean
+}
+
+const cliOptions: CliOptions = {
+  format: `${colors.bold('Upload electoral roll process')} ${colors.cyan(
+    '[{bar}]'
+  )} ${colors.blue('{percentage}%')} | ${colors.bold(
+    'Current user:'
+  )} ${colors.yellow('{value}')} | ${colors.bold('Duration:')} ${colors.green(
+    '{duration_formatted}'
+  )}`,
+  hideCursor       : true,
+  synchronousUpdate: true
+}
+
+export { cleanGeneralInfo, deleteFile, writeFile, writeJson, cliOptions }

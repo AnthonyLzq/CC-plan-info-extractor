@@ -1,5 +1,11 @@
 # CC Plan Info Extractor
 
+## Version 2.0.0
+
+- Implemented:
+  - Connection with the database
+  - Store the data into the database
+
 ## Version 1.0.0
 
 - Implemented:
