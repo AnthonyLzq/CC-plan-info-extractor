@@ -1,5 +1,10 @@
 # CC Plan Info Extractor
 
+## Version 2.0.1
+
+- Fixed:
+  - Added rates and category field to the bibliography
+
 ## Version 2.0.0
 
 - Implemented:

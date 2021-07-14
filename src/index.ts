@@ -215,8 +215,10 @@ const extractData = async () => {
         competencies   : competenciesArray[0] === '' ? []: competenciesArray,
         analyticProgram: analyticContent,
         bibliography   : bibliography.map(e => ({
-          name  : e.trim(),
-          rating: 0
+          category: 'book',
+          name    : e.trim(),
+          rates   : 0,
+          rating  : 0
         }))
       })
     })
